@@ -1,5 +1,7 @@
 # Light Sautéed White Fish
 
+Serves: 4
+
 ## Ingredients
 
 * 4 boneless, skinless thick fish fillets, ½ to 1 inch thick (about 6 ounces each) or 8 boneless, skinless thin fish fillets, ¼ to ½ inch thick (about 3 ounces)
@@ -7,8 +9,6 @@
 * ½ cup unbleached all-purpose flour
 * 2 tablespoons vegetable oil
 * 1 lemon, cut into wedges (for serving)
-
-## Serves 4
 
 ## Instructions
 

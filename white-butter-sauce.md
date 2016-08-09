@@ -1,5 +1,7 @@
 # White Butter Sauce
 
+Makes about ⅔ cup
+
 ## Ingredients
 
 * 3 tablespoons dry white wine
@@ -8,8 +10,6 @@
 * pinch salt
 * 1 tablespoon heavy cream
 * 8 tablespoons unsalted butter, cold, cut into 4 pieces
-
-## Makes about 2/3 cup
 
 ## Instructions
 
