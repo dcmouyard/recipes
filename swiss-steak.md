@@ -37,5 +37,5 @@ Top blade-roast may also be labeled chuck roast first cut, top chuck roast, flat
 
 ## Resources
 
-* https://www.cookscountry.com/recipes/5004-swiss-steak-with-tomato-gravy
-* https://www.americastestkitchen.com/episode/320-family-favorites
+* Cook’s Country [https://www.cookscountry.com/recipes/5004-swiss-steak-with-tomato-gravy]
+* America’s Test Kitchen [https://www.americastestkitchen.com/episode/320-family-favorites]
