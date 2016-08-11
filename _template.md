@@ -6,9 +6,12 @@ Serves:
 
 * ⅛
 * ¼
+* ⅜
 * ⅓
 * ½
+* ⅝
 * ⅔
 * ¾
+* ⅞
 
 ## Instructions
