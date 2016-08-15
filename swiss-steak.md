@@ -1,5 +1,7 @@
 # Swiss Steak with Tomato Gravy
 
+★★★☆☆
+
 Serves: 6-8
 
 Top blade-roast may also be labeled chuck roast first cut, top chuck roast, flat iron roast, or simply blade roast. Use low-sodium chicken broth or the gravy will be too salty.
