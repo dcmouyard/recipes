@@ -9,6 +9,7 @@
 
 ### Barbecue Sauce (Supermarket)
 * Bull’s-Eye Original Barbecue Sauce
+  * Peapod ($1.89)
 
 ### Beef Broth
 * Better Than Bouillon Beef Base
@@ -44,12 +45,21 @@
 ### Curry Powder
 * Penzeys Sweet Curry Powder
 
+### Dijon Mustard
+1. Trois Petits Cochons Moutarde de Dijon
+2. Maille Dijon Originale
+3. Roland Extra Strong Dijon Mustard
+4. French’s Dijon Mustard
+5. Koops’ Dijon Mustard
+6. Grey Poupon Dijon Mustard
+
 ### Dried Rice Noodles
 1. A Taste of Thai Straight Cut Rice Noodles
 2. Annie Chun’s Pad Thai Rice Noodles
 
 ### Egg Noodles
 1. Pennsylvania Dutch Wide Egg Noodles
+  * Peapod ($1.99)
 2. De Cecco Egg Pappardelle
 2. Light ’n Fluffy Egg Noodles, Wide
 
@@ -67,7 +77,9 @@
 
 ### Hot Sauce
 * Huy Fong Sriracha Hot Chili Sauce
+  * Peapod ($3.99)
 * Frank’s RedHot Original Cayenne Pepper Sauce
+  * Peapod ($3.39-$5.49)
 
 ### Italian Dressing
 1. Good Seasons Italian All Natural Salad Dressing Mix
@@ -113,16 +125,19 @@
 
 ### Tomato (Crushed)
 1. Tuttorosso Crushed Tomatoes in Thick Puree with Basil
+  * Peapod ($1.29)
 2. Muir Glen Organic Crushed Tomatoes with Basil
 
 ### Tomato (Diced)
 1. Hunt’s Diced Tomatoes
 2. Muir Glen Organic Diced Tomatoes
+  * Peapod ($1.59)
 
 ### Tomato Paste
 1. Goya Tomato Paste
 2. Pastene Fancy Tomato Paste
 3. Contadina Tomato Paste
+4. Hunt’s Tomato Paste (for marinara)
 
 ### Tomato Sauce
 1. Bertolli Tomato and Basil Sauce
