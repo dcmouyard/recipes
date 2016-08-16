@@ -14,7 +14,14 @@
 ### Beef Broth
 * Better Than Bouillon Beef Base
 
-## Bread (White Sandwich)
+### Black Peppercorn
+1. Kalustyan’s Indian Tellicherry Black Peppercorns
+2. Zingerman’s Tellicherry Peppercorns
+3. Vanns Spices Tellicherry Peppercorns
+4. McCormick Gourmet Collection Tellicherry Black Peppercorns
+5. Penzeys India Tellicherry Peppercorns
+
+### Bread (White Sandwich)
 1. Arnold Country Classics White Bread
 2. Pepperidge Farm Farmhouse Hearty White Bread
 
@@ -31,6 +38,13 @@
 
 ### Chicken Broth
 * Swanson Unsalted Chicken Cooking Stock
+
+### Chili Powder
+1. Morton & Bassett Chili Powder
+2. Penzeys Spices Medium Hot Chili Powder
+
+### Cider Vinegar
+1. Spectrum Naturals Organic Apple Cider Vinegar, Unfiltered
 
 ### Cinnamon
 1. Penzeys Extra Fancy Vietnamese Cassia Cinnamon
@@ -73,6 +87,16 @@
 ### Five Spice Powder
 * Frontier Natural Products Co-op Five Spice Powder
 
+### Garlic Powder
+1. Spice Islands Garlic Powder
+2. McCormick Garlic Powder
+3. Penzeys Granulated Garlic Powder
+
+### Ground Ginger
+1. Spice Islands Ground Ginger
+2. Penzeys Spices Powdered China #1 Ginger
+3. McCormick Gourmet Collection Ground Ginger
+
 ### Hoisin Sauce
 * Kikkoman Hoisin Sauce
 
@@ -92,8 +116,19 @@
 1. Good Seasons Italian All Natural Salad Dressing Mix
 2. Kraft Seven Seas Viva Italian Dressing
 
+### Ketchup
+1. Heinz Organic Tomato Ketchup
+
+### Liquid Smoke
+1. Wright’s Liquid Smoke
+
 ### Mirin
 * Mitoku Organic Mikawa Mirin Sweet Rice Seasoning
+
+### Molasses
+1. Brer Rabbit All Natural Unsulphured Molasses Mild Flavor
+2. Plantation Barbados Unsulphured Molasses
+3. Grandma’s Molasses Unsulphured Original
 
 ### Oyster Sauce
 * Lee Kum Kee's Premium Oyster Flavored Sauce
@@ -115,8 +150,20 @@
 1. Lundberg Organic Long-Grain White Rice
 2. Carolina Enriched Extra-Long-Grain Rice
 
+### Saffron
+1. Morton & Bassett Saffron Threads
+2. Penzeys Spices Saffron, Coupe Grade
+
 ### Salsa (Medium, Jarred)
   Chi-Chi’s Medium Thick and Chunky Salsa
+
+### Salt (Baking)
+1. Morton Iodized Table Salt
+
+### Salt
+1. Maldon Sea Salt (Cooking)
+2. Fleur de Sel de Camargue
+3. Morton Coarse Kosher Salt
 
 ### Spaghetti
 * De Cecco Spaghetti No. 12
