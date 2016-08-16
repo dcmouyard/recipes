@@ -70,6 +70,9 @@
 ### Fish Sauce
 * Red Boat 40° N Fish Sauce
 
+### Five Spice Powder
+* Frontier Natural Products Co-op Five Spice Powder
+
 ### Hoisin Sauce
 * Kikkoman Hoisin Sauce
 
