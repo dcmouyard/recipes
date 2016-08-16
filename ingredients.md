@@ -42,6 +42,10 @@
 ### Coconut Milk (Sweet)
 * Ka-Me Coconut Milk
 
+### Creole Seasoning
+1. Tony Chachere’s Original Creole Seasoning
+2. McCormick Perfect Pinch Cajun Seasoning
+
 ### Curry Powder
 * Penzeys Sweet Curry Powder
 
