@@ -1,5 +1,7 @@
 # White Butter Sauce
 
+★★★★★
+
 Makes about ⅔ cup
 
 ## Ingredients

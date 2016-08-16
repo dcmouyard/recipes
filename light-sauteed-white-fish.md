@@ -1,5 +1,7 @@
 # Light Sautéed White Fish
 
+★★★★☆
+
 Serves: 4
 
 ## Ingredients
