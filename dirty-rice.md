@@ -15,7 +15,7 @@ Serves: 4-6
 * 4 ounces chicken livers, rinsed, trimmed of fat, and chopped fine
 * ¼ teaspoon dried thyme
 * ¼ teaspoon cayenne pepper
-* Table salt
+* table salt
 * 2¼ cups low-sodium chicken broth
 * 2 bay leaves
 * 1½ cups long grain white rice, rinsed
