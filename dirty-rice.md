@@ -1,5 +1,7 @@
 # Dirty Rice
 
+★★★★★
+
 Serves: 4-6
 
 ## Ingredients
