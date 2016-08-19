@@ -11,6 +11,9 @@
 * Bull’s-Eye Original Barbecue Sauce
   * Peapod ($1.89)
 
+### Bay Leaves
+  * Store in airtight container in freezer
+
 ### Beef Broth
 * Better Than Bouillon Beef Base
 
