@@ -3,6 +3,7 @@
 ★★☆☆☆
 
 Serves: 6-8
+Time: 3.5 hours
 
 Top blade-roast may also be labeled chuck roast first cut, top chuck roast, flat iron roast, or simply blade roast. Use low-sodium chicken broth or the gravy will be too salty.
 
