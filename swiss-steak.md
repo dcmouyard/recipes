@@ -1,6 +1,6 @@
 # Swiss Steak with Tomato Gravy
 
-★★★☆☆
+★★☆☆☆
 
 Serves: 6-8
 

@@ -1,5 +1,7 @@
 # Smothered Pork Chops
 
+★★★☆☆
+
 Serves: 4
 
 Goes well with egg noodles, mashed potatoes, or rice.
