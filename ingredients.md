@@ -1,5 +1,9 @@
 # Ingredients
 
+### Anchovies
+1. King Oscar Anchovies – Flat Fillets in Olive Oil
+  * Instacart Safeway ($1.65/oz)
+
 ### Bacon
 1. Plumrose Premium Thick Sliced Bacon (slightly healthier)
 2. Farmland Thick Sliced Bacon
@@ -76,6 +80,13 @@
 ### Coconut Milk (Sweet)
 1. Ka-Me Coconut Milk
 
+### Corn (Canned)
+* Best if you want to puree corn
+1. Libby’s Organic Whole Kernel Sweet Corn
+2. Del Monte Fresh Cut Golden Sweet Whole Kernel Corn
+  * Instacart Harris Teeter ($.13/oz)
+  * Instacart Safeway ($.14/oz)
+
 ### Cornmeal
 1. Arrowhead Mills Organic Yellow Cornmeal
   * Instacart Whole Foods ($.11/oz)
@@ -108,6 +119,7 @@
   * Instacart Harris Teeter ($.41/oz)
 2. Annie Chun’s Pad Thai Rice Noodles
   * Amazon ($.32/oz)
+  * Instacart Whole Foods ($.44/oz)
 
 ### Egg Noodles
 1. Pennsylvania Dutch Wide Egg Noodles
@@ -223,6 +235,12 @@
 1. Bionaturae Organic 100% Whole Wheat Spaghetti
 2. Barilla Plus Multigrain Spaghetti
 
+### Peas (Frozen)
+1. Birds Eye Frozen Peas
+  * Instacart Safeway ($.25/oz)
+2. Green Giant Frozen Peas
+3. Cascadian Farm Frozen Peas
+
 ### Rice (Arborio)
 1. RiceSelect Arborio Rice
   * Amazon ($.30/oz)
@@ -301,11 +319,15 @@
 6. Barilla Spaghetti
 
 ### Soy Sauce (Cooking)
-* Lee Kum Kee Table Top Premium Soy Sauce
+1. Kikkoman Soy Sauce
+  * Instacart Safeway ($.26/oz)
+2. Lee Kum Kee Table Top Premium Soy Sauce
   * Instacart Harris Teeter ($.68/oz)
 
 ### Soy Sauce (Dipping)
-* Ohsawa Nama Shoyu Organic Unpasteurized Soy Sauce
+1. Kikkoman Soy Sauce
+  * Instacart Safeway ($.26/oz)
+2. Ohsawa Nama Shoyu Organic Unpasteurized Soy Sauce
   * Instacart Whole Foods ($1.25/oz)
 
 ## Teriyaki Sauce
