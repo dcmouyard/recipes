@@ -1,6 +1,9 @@
 # Chinese Glazed Pork Chops
 
+★★★★☆
+
 Serves: 4
+Time: 1 hour
 
 ## Ingredients
 

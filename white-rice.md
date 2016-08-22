@@ -1,6 +1,9 @@
 # White Rice
 
+★★★☆☆
+
 Serves: 6-8
+Time: 40 minutes
 
 ## Ingredients
 
