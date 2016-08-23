@@ -1,5 +1,7 @@
 # Fried Rice
 
+★★★★☆
+
 Serves: 4
 
 Make sure the pan is smoking hot, and stir the rice constantly when cooking. If the pan isn’t hot enough, the food will steam and stick together.
@@ -14,8 +16,8 @@ Make sure the pan is smoking hot, and stir the rice constantly when cooking. If 
 * 4 teaspoons vegetable oil
 * 4 large eggs, beaten lightly
 * 8-10 scallions, white parts sliced thin, green parts cut into ½-inch pieces
-* 2 shallots, minced (optional)
-* 1 cup vegetables, thawed if frozen (optional)
+* 1 shallot, minced (optional)
+* 1 cup vegetables, fresh or cooked (optional)
 
 ## Instructions
 
