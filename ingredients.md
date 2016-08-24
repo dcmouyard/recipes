@@ -14,8 +14,8 @@
 ### Barbecue Sauce (Supermarket)
 1. Bull’s-Eye Original Barbecue Sauce
   * Amazon ($.47/oz)
-  * Peapod ($.11/oz)
   * Instacart Safeway ($.17/oz)
+  * Peapod ($.11/oz)
 
 ### Bay Leaves
 * Store in airtight container in freezer
@@ -56,16 +56,13 @@
 
 ### Chicken Broth
 1. Swanson Unsalted Chicken Cooking Stock
+  * Peapod ($.06/oz)
 
 
 ### Chili Powder
 1. Morton & Bassett Chili Powder
 2. Penzeys Spices Medium Hot Chili Powder
   * $2.85/oz
-
-### Cider Vinegar
-1. Spectrum Naturals Organic Apple Cider Vinegar, Unfiltered
-  * Instacart Whole Foods ($.26/oz)
 
 ### Cinnamon
 1. Penzeys Extra Fancy Vietnamese Cassia Cinnamon
@@ -108,6 +105,7 @@
   * Instacart Harris Teeter ($.79/oz)
   * Instacart Safeway ($.75/oz)
   * Instacart Whole Foods ($.56/oz)
+  * Peapod ($.60/oz)
 3. Roland Extra Strong Dijon Mustard
 4. French’s Dijon Mustard
   * Amazon ($.21/oz)
@@ -123,7 +121,7 @@
 
 ### Egg Noodles
 1. Pennsylvania Dutch Wide Egg Noodles
-  * Peapod ($1.99)
+  * Peapod ($.17/oz)
 2. De Cecco Egg Pappardelle
   * Amazon ($.65/oz)
 2. Light ’n Fluffy Egg Noodles, Wide
@@ -193,7 +191,8 @@
 2. Eden Mirin Rice Cooking Wine
   * Instacart Whole Foods ($1.05/oz)
 3. Sushi Chef Mirin Sweetened Sake
-4. Kikkoman Aji-Mirin Sweet Cooking Rice Seasoning
+4. Kikkoman Aji-Mir/ozin Sweet Cooking Rice Seasoning
+  * Peapod ($.69)
 
 ### Molasses
 1. Brer Rabbit All Natural Unsulphured Molasses Mild Flavor
@@ -201,6 +200,7 @@
 3. Grandma’s Molasses Unsulphured Original
   * Instacart Harris Teeter ($.38/oz)
   * Instacart Safeway ($.34/oz)
+  * Peapod ($.27/oz)
 
 ### Olive Oil (Extra Virgin)
 1. California Olive Ranch Everyday Extra Virgin Olive Oil
@@ -209,9 +209,11 @@
 2. Lucini Premium Select Extra Virgin Olive Oil
 3. Colavita Extra Virgin Olive Oil, Premium Italian
   * Amazon ($.31/oz)
+  * Peapod ($.56/oz)
 
 ### Oyster Sauce
 1. Lee Kum Kee's Premium Oyster Flavored Sauce
+  * Instacart HMart ($.17/oz)
 
 ### Paprika (Sweet)
 1. The Spice House Hungarian Sweet Paprika
@@ -286,11 +288,13 @@
 1. Chi-Chi’s Medium Thick and Chunky Salsa
   * Instacart Harris Teeter ($.24/oz)
   * Instacart Safeway ($.20/oz)
+  * Peapod ($.12/oz)
 
 ### Salt (Baking)
 1. Morton Iodized Table Salt
   * Amazon ($.03/oz)
   * Instacart Safeway ($.07/oz)
+  * Peapod ($.04/oz)
 
 ### Salt
 1. Maldon Sea Salt (Cooking)
@@ -298,6 +302,7 @@
 3. Morton Coarse Kosher Salt
   * Amazon ($.05/oz)
   * Instacart Safeway ($.16/oz)
+  * Peapod ($.05/oz)
 
 ### Sherry
 1. Lustau Palo Cortado Península Sherry
@@ -312,6 +317,7 @@
   * Instacart Harris Teeter ($.23/oz)
   * Instacart Safeway ($.21/oz)
   * Instacart Whole Foods ($.19/oz)
+  * Peapod ($.12/oz)
 2. Rustichella D’Abruzzo Pasta Abruzzese di Semola di Grano Duro
 3. Garofalo Spaghetti
 4. DeLallo Spaghetti No. 4
@@ -321,6 +327,7 @@
 ### Soy Sauce (Cooking)
 1. Kikkoman Soy Sauce
   * Instacart Safeway ($.26/oz)
+  * Peapod ($.18/oz)
 2. Lee Kum Kee Table Top Premium Soy Sauce
   * Instacart Harris Teeter ($.68/oz)
 
@@ -354,6 +361,7 @@
 2. Pastene Fancy Tomato Paste
 3. Contadina Tomato Paste
   * Instacart Safeway ($.22/oz)
+  * Peapod ($.13/oz)
 4. Hunt’s Tomato Paste (for marinara)
 
 ### Tomato Sauce
@@ -378,13 +386,18 @@
   * Instacart Safeway ($.15/oz)
 3. Crisco Pure Vegetable Oil (soybean)
 
-
 ### Vinegar (Balsamic)
 1. Bertolli Balsamic Vinegar of Modena
   * Amazon ($.90/oz)
 2. Monari Federzoni Balsamic Vinegar of Modena
 3. Colavita Balsamic Vinegar of Modena
   * Instacart Whole Foods ($.33/oz)
+
+### Vinegar (Cider)
+1. Spectrum Naturals Organic Apple Cider Vinegar, Unfiltered
+  * Instacart Harris Tellicherryter ($.38/oz)
+  * Instacart Whole Foods ($.26/oz)
+2. Maille Apple Cider Vinegar
 
 ### Vinegar (Red Wine)
 1. Laurent du Clos Red Wine Vinegar
