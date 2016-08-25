@@ -47,7 +47,7 @@
   * Instacart HMart ($.31/oz)
   * Instacart Safeway ($.44/oz)
 * Kirkland Unsalted Butter
-  * Instacart Safeway ($.20/oz)
+  * Instacart Costco ($.20/oz)
 
 ### Chicken Breast (Boneless, Skinless)
 1. Bell & Evans Air Chilled Boneless, Skinless Chicken Breasts
@@ -212,7 +212,7 @@
   * Peapod ($.56/oz)
 
 ### Oyster Sauce
-1. Lee Kum Kee's Premium Oyster Flavored Sauce
+1. Lee Kum Kee’s Premium Oyster Flavored Sauce
   * Instacart HMart ($.17/oz)
 
 ### Paprika (Sweet)
