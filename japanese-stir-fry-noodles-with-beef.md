@@ -1,8 +1,11 @@
 # Japanese Stir-Fry Noodles with Beef
 
+★★★☆☆
+
 This recipe calls for lo mein noodles, but use yakisoba noodles if you can find them and follow the same cooking directions. Garnish the noodles with pickled ginger (often found in the refrigerated section of the grocery store near tofu) and our Sesame-Orange Spice Blend (see related content) or, if you can find it, commercial shichimi togarashi.
 
 Serves: 4-6
+Time: 1 hour 45 minutes
 
 ## Ingredients
 
@@ -45,3 +48,4 @@ Serves: 4-6
 ## Resources
 
 * [Cook’s Illustrated](http://www.cooksillustrated.com/recipes/8201-japanese-style-stir-fried-noodles-with-beef)
+* [America’s Test Kitchen](https://www.americastestkitchen.com/videos/3208-serving-up-noodles-and-rice)
