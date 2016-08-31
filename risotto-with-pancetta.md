@@ -1,8 +1,11 @@
 # Risotto with Pancetta
 
+★★★★☆
+
 When the rice is done, stir in a little extra liquid as the sauce will set up a bit when served. If you have it on hand, use 5 cups of homemade chicken broth (at room temperature) instead of the water/canned broth combination.
 
-Serves:
+Serves: 4-6
+Time: 1 hour
 
 ## Ingredients
 
