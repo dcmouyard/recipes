@@ -3,18 +3,22 @@
 ★★★★☆
 
 Serves: 4
+Time: 30 minutes
 
 Make sure the pan is smoking hot, and stir the rice constantly when cooking. If the pan isn’t hot enough, the food will steam and stick together.
 
 ## Ingredients
 
 * 4 cups leftover white rice
-* 6 tablespoons soy sauce
-* 2 tablespoons rice vinegar
-* 1 tablespoons hot sauce
-* 1 tablespoons grated ginger (optional)
 * 4 teaspoons vegetable oil
+
+* 5 tablespoons soy sauce
+* 2 tablespoons rice vinegar
+* 1 tablespoon hot sauce (optional)
+* 1 tablespoon grated ginger (optional)
+
 * 4 large eggs, beaten lightly
+
 * 8-10 scallions, white parts sliced thin, green parts cut into ½-inch pieces
 * 1 shallot, minced (optional)
 * 1 cup vegetables, fresh or cooked (optional)
