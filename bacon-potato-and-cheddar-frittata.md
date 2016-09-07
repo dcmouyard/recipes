@@ -1,6 +1,8 @@
 # Bacon, Potato, and Cheddar Frittata
 
-Serves: 6-8
+★★★★★
+
+Serves: 4-6
 
 ## Ingredients
 
