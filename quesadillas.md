@@ -1,8 +1,11 @@
 # Quesadillas
 
-Cooling the quesadillas before cutting is important; straight from the oven the cheese is molten and will ooze out. Shred the cheese on the large holes of a box grater. Serve the quesadillas with pico de gallo, guacamole, and/or sour cream.
+★★★★☆
 
-Serves: 4-6
+Serves: 2-4
+Time: 30 minutes
+
+Cooling the quesadillas before cutting is important; straight from the oven the cheese is molten and will ooze out. Shred the cheese on the large holes of a box grater. Serve the quesadillas with pico de gallo, guacamole, and/or sour cream.
 
 ## Ingredients
 
