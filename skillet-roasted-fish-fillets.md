@@ -1,6 +1,9 @@
 # Skillet-Roasted Fish Fillets
 
+★★★★☆
+
 Serves: 4
+Time: 20 minutes
 
 ## Ingredients
 
