@@ -1,6 +1,6 @@
 # White Rice
 
-★★★☆☆
+★★★★☆
 
 Serves: 6-8
 Time: 40 minutes
@@ -8,7 +8,7 @@ Time: 40 minutes
 ## Ingredients
 
 * 2 cups long grain white rice
-* 1 tablespoon unsalted butter
+* 2 tablespoons unsalted butter
 * 3 cups water
 * 1 teaspoon salt
 
@@ -20,7 +20,7 @@ Time: 40 minutes
 
 3. Cover, reduce heat to low, and simmer until liquid is absorbed and rice is tender, about 20 minutes.
 
-4. Off heat, remove lid and place kitchen towel over saucepan. Cover and let stand for 10 minutes. Fluff with fork. Serve.
+4. Off heat, remove lid and let stand for 10 minutes. For sticky rice, place kitchen towel over saucepan. Fluff with fork. Serve.
 
 ## Resources
 
