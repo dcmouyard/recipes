@@ -3,7 +3,7 @@
 ★★★☆☆
 
 Serves: 4
-Time: 2.5 hours
+Time: 2½ hours
 
 Goes well with egg noodles, mashed potatoes, or rice.
 

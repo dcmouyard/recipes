@@ -1,8 +1,8 @@
 # Cincinnati Chili
 
-Use canned tomato sauce for this recipe—do not use jarred spaghetti sauce.
-
 Serves: 6-8
+
+Use canned tomato sauce for this recipe—do not use jarred spaghetti sauce.
 
 ## Ingredients
 

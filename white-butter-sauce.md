@@ -2,7 +2,8 @@
 
 ★★★★★
 
-Makes about ⅔ cup
+Serves: 6-8
+Time: 20 minutes
 
 ## Ingredients
 

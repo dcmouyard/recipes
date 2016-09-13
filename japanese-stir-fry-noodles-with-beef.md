@@ -2,10 +2,10 @@
 
 ★★★☆☆
 
-This recipe calls for lo mein noodles, but use yakisoba noodles if you can find them and follow the same cooking directions. Garnish the noodles with pickled ginger (often found in the refrigerated section of the grocery store near tofu) and our Sesame-Orange Spice Blend (see related content) or, if you can find it, commercial shichimi togarashi.
-
 Serves: 4-6
 Time: 1 hour 45 minutes
+
+This recipe calls for lo mein noodles, but use yakisoba noodles if you can find them and follow the same cooking directions. Garnish the noodles with pickled ginger (often found in the refrigerated section of the grocery store near tofu) and our Sesame-Orange Spice Blend (see related content) or, if you can find it, commercial shichimi togarashi.
 
 ## Ingredients
 
