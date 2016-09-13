@@ -1,6 +1,9 @@
 # Coq au Vin
 
-Serves: 4-6
+★★★★★
+
+Serves: 5-7
+Time: 2½ hours
 
 Goes well with egg noodles or mashed potatoes.
 
@@ -26,9 +29,9 @@ Goes well with egg noodles or mashed potatoes.
 
 1. Bring all but 1 tablespoon wine (reserve for later use), broth, parsley sprigs, thyme, and bay to simmer in large saucepan over medium-high heat. Cook until reduced to 3 cups, about 25 minutes. Discard herbs.
 
-2. Meanwhile, cook bacon in large Dutch oven over medium heat until browned, 7 to 8 minutes. Using slotted spoon, transfer bacon to paper-towel-lined plate. Reserve 2 tablespoons fat in small bowl; discard remaining fat.
+2. Meanwhile, cook bacon in large Dutch oven over medium heat until browned, 7 to 8 minutes. Using slotted spoon, transfer bacon to paper-towel-lined plate. Reserve 4 tablespoons fat in small bowl; discard remaining fat.
 
-3. Lightly season chicken with salt and pepper. Heat 1 tablespoon reserved bacon fat in Dutch oven over medium-high heat until just smoking. Add half of chicken in single layer and cook until lightly browned, about 2 minutes per side. Transfer to plate and repeat with remaining chicken and 1 tablespoon bacon fat.
+3. Lightly season chicken with salt and pepper. Heat 2 tablespoons reserved bacon fat in Dutch oven over medium-high heat until just smoking. Add half of chicken in single layer and cook until lightly browned, about 2 minutes per side. Transfer to plate and repeat with remaining chicken and 2 tablespoons bacon fat.
 
 4. Melt 3 tablespoons butter in now-empty Dutch oven over medium-high heat. When foaming subsides, add pearl onions and mushrooms; cook, stirring occasionally, until lightly browned, 5 to 8 minutes.
 
