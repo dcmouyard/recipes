@@ -3,6 +3,7 @@
 ★★★★★
 
 Serves: 4
+Time: 15 minutes
 
 It’s important to follow visual cues, as pan thickness will affect cooking times. If using an electric stove, heat one burner on low heat and a second on medium-high heat; move the skillet between burners for temperature adjustment. If you don’t have half-and-half, substitute 8 teaspoons of whole milk and 4 teaspoons of heavy cream. To dress up the dish, add 2 tablespoons of chopped parsley, chives, basil, or cilantro or 1 tablespoon of dill or tarragon to the eggs after reducing the heat to low.
 
