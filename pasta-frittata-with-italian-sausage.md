@@ -10,10 +10,8 @@ Serves: 6-8
 * 2 tablespoons chopped fresh parsley
 * ½ teaspoon salt
 * ½ teaspoon pepper
-
 * 8 ounces sweet or spicy Italian sausage, casings removed, crumbled
 * 2 garlic cloves, sliced thin
-
 * 3 cups water
 * ¾ teaspoon salt
 * 6 ounces angel hair pasta, broken in half
