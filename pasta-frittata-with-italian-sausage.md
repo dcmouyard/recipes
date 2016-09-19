@@ -1,6 +1,9 @@
 # Pasta Frittata with Italian Sausage
 
+★★☆☆☆
+
 Serves: 6-8
+Time: 2 hours
 
 ## Ingredients
 
