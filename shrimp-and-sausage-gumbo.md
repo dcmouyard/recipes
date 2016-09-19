@@ -1,6 +1,9 @@
 # Shrimp and Sausage Gumbo with Filé
 
+★★★☆☆
+
 Serves: 6-8
+Time: 3 hours
 
 Best served over rice.
 
