@@ -1,8 +1,11 @@
 # Chicken Parmesan
 
-Serves: 4
+★★★★★
 
-Serve with pasta.
+Serves: 4
+Time: 2 hours 20 minutes
+
+Serve with pasta. Sauce recipe needs more work.
 
 ## Ingredients
 
