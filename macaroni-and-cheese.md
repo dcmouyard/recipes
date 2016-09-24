@@ -1,13 +1,16 @@
 # Macaroni and Cheese
 
+★★★★★
+
 Serves: 6-8
+Time: 1 hour
 
 ## Ingredients
 
 * 1 pound elbow macaroni
 * Salt
 * 6 tablespoons unsalted butter
-* 1 shallot, minced
+* 2 shallots, minced
 * 6 tablespoons all-purpose flour
 * 1½ teaspoons dry mustard
 * ¼ teaspoon cayenne pepper
