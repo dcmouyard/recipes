@@ -1,6 +1,9 @@
 # Sichuan Stir-Fried Pork
 
+★★★☆☆
+
 Serves: 4-6
+Time: 2 hours
 
 ## Ingredients
 
@@ -10,7 +13,7 @@ Serves: 4-6
 * 2 tablespoons sugar
 * 2 tablespoons soy sauce
 * 4 teaspoons Chinese black vinegar (or 2 teaspoons balsamic vinegar and 2 teaspoons rice vinegar)
-* 1 tablespoon toasted sesame oil
+* 1 teaspoon toasted sesame oil
 * 1 tablespoon Chinese rice wine, or dry sherry
 * 2 teaspoons ketchup
 * 2 teaspoons fish sauce
