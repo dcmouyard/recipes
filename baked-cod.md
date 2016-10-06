@@ -1,6 +1,9 @@
 # Baked Cod
 
+★★★☆☆
+
 Serves: 4
+Time: 40 minutes
 
 ## Ingredients
 
