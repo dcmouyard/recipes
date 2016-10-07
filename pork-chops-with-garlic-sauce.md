@@ -1,6 +1,9 @@
 # Pork Chops with Garlic Sauce
 
+★★★★☆
+
 Serves: 4
+Time: 2 hours
 
 Buy chops of similar thickness so that they cook at the same rate. If using table salt, sprinkle each chop with ½ teaspoon salt. We prefer the flavor of natural chops over that of enhanced chops (which have been injected with a salt solution and sodium phosphate to increase moistness and flavor), but if processed pork is all you can find, skip the salting step below.
 
