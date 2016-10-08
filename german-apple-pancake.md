@@ -1,6 +1,9 @@
 # German Apple Pancake
 
+★★★★☆
+
 Serves: 4
+Time: 45 minutes
 
 ## Ingredients
 
@@ -26,7 +29,7 @@ Serves: 4
 
 4. Working quickly, pour batter around and over apples (see illustration 1 from "Step by Step: Preparing the Pancake). Place skillet in oven and immediately reduce oven temperature to 425 degrees; bake until pancake edges are brown and puffy and have risen above edges of skillet, about 18 minutes.
 
-5. Using oven mitts to protect hands, remove hot skillet from oven and loosen pancake edges with heatproof rubber spatula; invert pancake onto serving platter. Dust with confectioners’ sugar, cut into wedges, and serve.
+5. Using oven mitts to protect hands, remove hot skillet from oven and loosen pancake edges with heatproof rubber spatula; invert pancake onto serving platter. Cut into wedges and serve.
 
 ## Resources
 
