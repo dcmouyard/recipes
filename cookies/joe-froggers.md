@@ -1,5 +1,7 @@
 # Joe Froggers
 
+★★★★☆
+
 Makes: 2 Dozen Cookies
 
 ## Ingredients
@@ -25,9 +27,11 @@ Makes: 2 Dozen Cookies
 
 3. With electric mixer, beat butter and sugar on medium-high speed until fluffy, about 2 minutes. Reduce speed to medium-low and gradually beat in rum mixture. Add one-third of flour mixture, beating on medium-low until just incorporated, followed by half of molasses mixture, scraping down sides of bowl as needed. Add half of remaining flour mixture, followed by remaining molasses mixture, and finally remaining flour mixture. Using rubber spatula, give dough final stir (dough will be extremely sticky). Cover bowl containing dough with plastic wrap and refrigerate until stiff, at least 8 hours or up to 3 days.
 
-4. Adjust oven racks to upper-middle and lower-middle positions and heat oven to 375 degrees. Line 2 baking sheets with parchment paper. Working with half of dough at a time on a heavily floured work surface, roll out to ¼-inch thickness. Using 3½-inch cookie cutter, cut out 12 cookies. Transfer 6 cookies to each baking sheet, spacing cookies about 1½ inches apart.
+4. Adjust oven racks to upper-middle and lower-middle positions and heat oven to 375 degrees. Line 2 baking sheets with parchment paper.
 
-5. Bake until cookies are set and just beginning to crack, about 8 minutes, rotating rack position and direction of baking sheets halfway through baking time. Cool cookies on sheets 10 minutes, then transfer cookies to rack to cool completely. Repeat with remaining dough. (Cookies may be stored in airtight container for up to 1 week.)
+5. Place drops of dough on baking sheets, spacing cookies about 2 inches apart.
+
+6. Bake until cookies are set and just beginning to crack, about 8-12 minutes, rotating rack position and direction of baking sheets halfway through baking time. Cool cookies on sheets 10 minutes, then transfer cookies to rack to cool completely.
 
 ## Resources
 
