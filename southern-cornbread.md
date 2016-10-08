@@ -1,8 +1,6 @@
 # Southern Cornbread
 
-Serves:
-
-Notes about this recipe.
+Serves: 12
 
 ## Ingredients
 
