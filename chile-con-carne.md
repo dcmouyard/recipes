@@ -1,6 +1,9 @@
 # Chile con Carne
 
+★★★★★
+
 Serves: 6-8
+Time: 4 hours
 
 ## Ingredients
 
@@ -9,7 +12,7 @@ Serves: 6-8
 * 1 (3½- to 4-pound) boneless beef chuck-eye roast, trimmed and cut into 1-inch pieces
 * Salt and pepper
 * 1 onion, chopped fine
-* ½ teaspoon cayenne pepper (or 16 drops hot sauce)
+* ½ teaspoon cayenne pepper or 16 drops hot sauce (optional)
 * 3 tablespoons chili powder
 * 1½ teaspoons ground cumin
 * ½ teaspoon dried oregano
