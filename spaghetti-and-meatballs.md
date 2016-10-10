@@ -1,6 +1,9 @@
 # Spaghetti and Meatballs
 
+★★★★★
+
 Serves: 8-10
+Time: 4 hours
 
 The sauce can be prepared through step 12 and then cooled and refrigerated in the Dutch oven for up to 2 days. To reheat, drizzle ½ cup of water over the sauce (do not stir in) and warm on the lower-middle rack of a preheated 325-degree oven for 1 hour before proceeding with the recipe.
 
