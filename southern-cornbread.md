@@ -1,6 +1,6 @@
 # Southern Cornbread
 
-★★★★★
+★★★★☆
 
 Serves: 12
 Time: 40 minutes
