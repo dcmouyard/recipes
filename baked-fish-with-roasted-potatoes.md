@@ -1,6 +1,9 @@
 # Baked Fish with Roasted Potatoes
 
+★★☆☆☆
+
 Serves: 6
+Time: 2 hours
 
 ## Ingredients
 
