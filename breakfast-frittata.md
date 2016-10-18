@@ -1,4 +1,4 @@
-# Bacon, Potato, and Cheddar Frittata
+# Breakfast Frittata
 
 ★★★★★
 
