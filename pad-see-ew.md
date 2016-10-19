@@ -1,8 +1,9 @@
 # Pad See Ew
 
-The flat pad thai–style rice noodles that are used in this recipe can be found in the Asian foods section of most supermarkets. If you can’t find broccolini, you can substitute an equal amount of conventional broccoli, but be sure to trim and peel the stalks before cutting.
+★★★★☆
 
 Serves: 4
+Time: 90 minutes
 
 ## Ingredients
 
@@ -13,7 +14,7 @@ Serves: 4
 * ¼ cup oyster sauce
 * 1 tablespoon plus 2 teaspoons soy sauce
 * 2 tablespoons packed dark brown sugar
-* 1 tablespoon white vinegar
+* 1 tablespoon rice vinegar
 * 1 teaspoon molasses
 * 1 teaspoon fish sauce
 * 3 garlic cloves, sliced thin
