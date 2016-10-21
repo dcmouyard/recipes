@@ -1,6 +1,13 @@
 # Honey Cornbread
 
+★★★★☆
+
 Serves: 8
+Time: 1 hour
+
+## Notes
+
+Try increasing to 1 cup Honey and/or preheating skillet in oven.
 
 ## Ingredients
 
