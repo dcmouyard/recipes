@@ -1,6 +1,14 @@
 # Chili Mac
 
+★★★★☆
+
 Serves: 6-8
+Time: 2 hours
+
+## Notes
+Too much fresh tomato taste. Try cooking tomato sauce longer or using tomato paste instead.
+
+Doubling this recipe will not fit in the Dutch Oven. :)
 
 ## Ingredients
 
