@@ -10,7 +10,7 @@ Serves: 4-6
 * 3 tablespoons half-and-half
 * Salt and ground black pepper
 * 8 ounces bacon (about 8 slices), cut crosswise into ¼-inch pieces
-* 1 pound Yukon Gold potatoes, peeled and cut into ½-inch cubes
+* 1 pound Yukon Gold potatoes (about 3-4), peeled and cut into ½-inch cubes
 * 4 ounces cheddar cheese, cut into ¼-inch cubes (about ¾ cup)
 * 3 scallions, sliced thin on the bias (about ⅓ cup)
 
