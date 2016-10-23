@@ -3,6 +3,7 @@
 ★★★★★
 
 Serves: 4-6
+Time: 90 minutes
 
 ## Ingredients
 
