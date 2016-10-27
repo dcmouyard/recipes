@@ -1,10 +1,13 @@
 # Kidney Beans and Rice
 
+★★★☆☆
+
 Serves: 8-10
+Time: 4 hours
 
 ## Ingredients
 
-* 4 slices bacon, chopped medium
+* 8 slices bacon, chopped medium
 * 1 small onion, chopped fine
 * 1 green bell pepper, chopped fine
 * 1 rib celery, chopped fine
