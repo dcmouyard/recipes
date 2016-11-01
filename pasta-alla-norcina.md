@@ -1,6 +1,9 @@
 # Pasta alla Norcina
 
+★★★★★
+
 Serves: 6
+Time: 70 minutes
 
 ## Ingredients
 
