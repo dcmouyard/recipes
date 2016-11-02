@@ -1,6 +1,6 @@
 # Kidney Beans and Rice
 
-★★★☆☆
+★★★★★
 
 Serves: 8-10
 Time: 4 hours
