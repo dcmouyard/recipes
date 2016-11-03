@@ -7,6 +7,7 @@ Rating | Minutes | Recipe
 ★★★★★ | 60 | Macaroni and Cheese
 ★★★★★ | 70 | Pasta alla Norcina
 ★★★★★ | 70? | Dirty Rice
+★★★★★ | 75 | Beef Stir-Fry
 ★★★★★ | 90 | Breakfast Frittata
 ★★★★★ | 90? | Roasted Potatoes
 ★★★★★ | 140 | Chicken Parmesan

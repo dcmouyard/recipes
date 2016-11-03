@@ -1,6 +1,9 @@
 # Beef Stir-Fry
 
+★★★★★
+
 Serves: 4
+Time: 75 minutes
 
 Serve with white rice.
 
