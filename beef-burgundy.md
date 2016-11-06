@@ -1,6 +1,6 @@
 # Beef Burgundy
 
-Serves:
+Serves: 6
 
 Serve with boiled potatoes, mashed potatoes, or buttered egg noodles.
 
