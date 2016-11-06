@@ -10,7 +10,7 @@ Time: 1 hour
 * 1 pound elbow macaroni
 * Salt
 * 6 tablespoons unsalted butter
-* 2 shallots, minced
+* 3 shallots, minced
 * 6 tablespoons all-purpose flour
 * 1½ teaspoons dry mustard
 * ¼ teaspoon cayenne pepper
