@@ -1,6 +1,9 @@
 # Beef Burgundy
 
+★★★★★
+
 Serves: 6
+Time: 6 hours
 
 Serve with boiled potatoes, mashed potatoes, or buttered egg noodles.
 

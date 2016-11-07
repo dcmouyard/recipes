@@ -15,3 +15,4 @@ Rating | Minutes | Recipe
 ★★★★★ | 240 | Chile con Carne
 ★★★★★ | 240 | Kidney Beans and Rice
 ★★★★★ | 240 | Spaghetti and Meatballs
+★★★★★ | 360 | Beef Burgundy
