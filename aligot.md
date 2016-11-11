@@ -1,6 +1,9 @@
 # Aligot
 
+★★★★★
+
 Serves: 6
+Time: 90 minutes
 
 The finished potatoes should have a smooth and slightly elastic texture. Use 24 ounces Tomme d'Auvergne cheese if available instead of Gruyère and Mozzarella. White cheddar can be substituted for the Gruyère. For richer, stretchier aligot, double the mozzarella.
 
@@ -19,7 +22,7 @@ The finished potatoes should have a smooth and slightly elastic texture. Use 24 
 
 1. Place potatoes in large saucepan; add cold water to cover by 1-2 inches and add 1 tablespoon salt. Partially cover saucepan with lid and bring potatoes to boil over high heat. Reduce heat to medium-low and simmer until potatoes are tender and just break apart when poked with fork, 12 to 17 minutes. Drain potatoes and dry saucepan.
 
-2. Transfer potatoes to food processor; add butter, garlic, and 1½ teaspoons salt. Pulse until butter is melted and incorporated into potatoes, about ten 1-second pulses. Add 1 cup milk and continue to process until potatoes are smooth and creamy, about 20 seconds, scraping down sides halfway through.
+2. Transfer potatoes to food processor; add butter, garlic, and ½ teaspoon salt. Pulse until butter is melted and incorporated into potatoes, about ten 1-second pulses. Gradually add 1 cup milk and continue to process until potatoes are smooth and creamy, about 20 seconds, scraping down sides halfway through. You might not need all of the milk.
 
 3. Return potato mixture to saucepan and set over medium heat. Stir in cheeses, 1 cup at a time, until incorporated. Continue to cook potatoes, stirring vigorously, until cheese is fully melted and mixture is smooth and elastic, 3 to 5 minutes. If mixture is difficult to stir and seems thick, stir in 2 tablespoons milk at a time (up to ½ cup) until potatoes are loose and creamy. Season with salt and pepper. Serve immediately.
 
