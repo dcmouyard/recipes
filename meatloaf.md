@@ -1,12 +1,15 @@
 # Meatloaf
 
+★★★★★
+
 Serves: 6-8
+Time: 140 minutes
 
 You can use 2 pounds meatloaf mix in place of the ground beef, pork, and veal. If you like, you can also omit the bacon topping from the loaf. In this case, brush on half the glaze before baking and the other half during the last fifteen minutes of baking.
 
 ## Ingredients
 
-* ½ cup ketchup, or chili sauce
+* ½ cup Heinz 57 sauce, chili sauce, or ketchup
 * 4 tablespoons brown sugar
 * 4 teaspoons cider vinegar, or white vinegar
 * 2 teaspoons vegetable oil
@@ -23,7 +26,7 @@ You can use 2 pounds meatloaf mix in place of the ground beef, pork, and veal. I
 * 1 pound ground beef chuck
 * ½ pound ground pork
 * ½ pound ground veal
-* ⅔ cup Saltine crackers, crushed (about 16), or quick oatmeal, or 1⅓ cups fresh bread crumbs
+* ⅔ cup Ritz crackers, crushed (about 16), or quick oatmeal, or 1⅓ cups fresh bread crumbs
 * ⅓ cup minced fresh parsley leaves
 * 6-8 ounces bacon, thin sliced (8 to 12 slices, depending on loaf shape)
 

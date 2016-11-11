@@ -12,6 +12,7 @@ Rating | Minutes | Recipe
 ★★★★★ | 90 | Breakfast Frittata
 ★★★★★ | 90? | Roasted Potatoes
 ★★★★★ | 140 | Chicken Parmesan
+★★★★★ | 140 | Meatloaf
 ★★★★★ | 150 | Coq au Vin
 ★★★★★ | 240 | Chile con Carne
 ★★★★★ | 240 | Kidney Beans and Rice
