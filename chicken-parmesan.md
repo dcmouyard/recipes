@@ -5,20 +5,21 @@
 Serves: 4
 Time: 2 hours 20 minutes
 
-Serve with pasta. Sauce recipe needs more work.
+Serve with pasta.
 
 ## Ingredients
 
 ### Sauce
 
-* 2 tablespoons extra-virgin olive oil
-* 2 garlic cloves, minced
-* Kosher salt, and pepper
-* ¼ teaspoon dried oregano
-* Pinch red pepper flakes
-* 1 (28-ounce) can crushed tomatoes
-* ¼ teaspoon sugar
-* 2 tablespoons coarsely chopped fresh basil
+* 1 tablespoon extra-virgin olive oil
+* 1 medium yellow onion, chopped fine (about 2 cups)
+* 8 ounces Italian sausage links
+* ⅝ teaspoons dried oregano
+* 2 tablespoons tomato paste
+* 2 medium garlic cloves, minced or pressed through garlic press (about 4 teaspoons)
+* 1 (28-ounce) cans crushed tomatoes
+* ⅓ cup beef broth
+* ⅛ cup chopped fresh basil leaves
 
 ### Chicken
 
@@ -40,13 +41,18 @@ Serve with pasta. Sauce recipe needs more work.
 
 ### Sauce
 
-1. Heat 1 tablespoon olive oil in medium saucepan over medium heat until just shimmering. Add garlic, ¾ teaspoon salt, oregano, and pepper flakes; cook, stirring occasionally, until fragrant, about 30 seconds.
+1. Adjust oven rack to lower-middle position and heat oven to 325 degrees.
 
-2. Stir in tomatoes and sugar; increase heat to high and bring to simmer.
+2. Heat oil in large Dutch oven over medium-high heat until just smoking. Add Italian sausages and brown them on all sides, 5 to 7 minutes total. Transfer sausages to plate.
 
-3. Reduce heat to medium-low and simmer until thickened, about 20 minutes.
+3. Reduce heat to medium, add onions and oregano; cook, stirring occasionally, until beginning to brown, about 5 minutes.
 
-4. Off heat, stir in basil and remaining 1 tablespoon olive oil; season with salt and pepper to taste. Cover and keep warm.
+4. Add tomato paste and cook, stirring constantly, until very dark, about 3 minutes.
+
+5. Stir in garlic and cook until fragrant, about 30 seconds.
+
+6. Add crushed tomatoes and broth, scraping up any browned bits. Return sausage to pot; bring to simmer, cover, and transfer to oven. Cook until sausages reach 160 degrees.
+
 
 ### Chicken
 
