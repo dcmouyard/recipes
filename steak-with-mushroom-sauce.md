@@ -1,6 +1,9 @@
 # Steak with Mushroom Sauce
 
+★★★★★
+
 Serves: 4
+Time: 90 minutes
 
 ## Ingredients
 

@@ -1,6 +1,9 @@
 # Steak Fries
 
+★★★★★
+
 Serves: 4
+Time: 180 minutes
 
 The potatoes must be soaked in cold water, fried once, cooled, and then fried a second time—so start this recipe at least one hour before dinner.
 

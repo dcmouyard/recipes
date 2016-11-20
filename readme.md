@@ -11,9 +11,11 @@ Rating | Minutes | Recipe
 ★★★★★ | 90 | Aligot
 ★★★★★ | 90 | Breakfast Frittata
 ★★★★★ | 90? | Roasted Potatoes
+★★★★★ | 90? | Steak with Mushroom Sauce
 ★★★★★ | 140 | Chicken Parmesan
 ★★★★★ | 140 | Meatloaf
 ★★★★★ | 150 | Coq au Vin
+★★★★★ | 180 | Steak Fries
 ★★★★★ | 240 | Chile con Carne
 ★★★★★ | 240 | Kidney Beans and Rice
 ★★★★★ | 240 | Spaghetti and Meatballs
