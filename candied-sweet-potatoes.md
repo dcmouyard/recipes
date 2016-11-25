@@ -1,5 +1,7 @@
 # Candied Sweet Potatoes
 
+★★★★☆
+
 Serves: 10-12
 
 For a more intense molasses flavor, use dark brown sugar in place of light brown sugar. To make ahead, follow the recipe through step 3. Refrigerate the sweet-potato mixture in a large microwave-safe bowl, tightly wrapped with plastic wrap, for up to 24 hours. When ready to bake, poke several vent holes in the plastic wrap covering the potatoes and microwave on medium-high power until hot, 3 to 5 minutes. Continue to assemble and bake the casserole as directed in steps 4 and 5.

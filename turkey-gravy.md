@@ -1,6 +1,10 @@
 # Turkey Gravy
 
+★★★☆☆
+
 Makes: 1 quart
+
+Needs more turkey flavor.
 
 ## Ingredients
 

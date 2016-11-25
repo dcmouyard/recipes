@@ -1,6 +1,9 @@
 # Mashed Potatoes
 
+★★★★★
+
 Serves: 10-12
+Time: 120 minutes
 
 ## Ingredients
 

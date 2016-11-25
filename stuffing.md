@@ -1,6 +1,9 @@
 # Stuffing
 
+★★★★★
+
 Serves: 8
+Time: 240 minutes
 
 You can substitute 2¼ cups chicken broth and 1½ cups apple cider for the 3¾ cups chicken broth.
 

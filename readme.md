@@ -12,6 +12,7 @@ Rating | Minutes | Recipe
 ★★★★★ | 90 | Breakfast Frittata
 ★★★★★ | 90? | Roasted Potatoes
 ★★★★★ | 90? | Steak with Mushroom Sauce
+★★★★★ | 120? | Mashed Potatoes
 ★★★★★ | 140 | Chicken Parmesan
 ★★★★★ | 140 | Meatloaf
 ★★★★★ | 150 | Coq au Vin
@@ -19,4 +20,5 @@ Rating | Minutes | Recipe
 ★★★★★ | 240 | Chile con Carne
 ★★★★★ | 240 | Kidney Beans and Rice
 ★★★★★ | 240 | Spaghetti and Meatballs
+★★★★★ | 240? | Stuffing
 ★★★★★ | 360 | Beef Burgundy
