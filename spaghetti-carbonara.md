@@ -2,6 +2,8 @@
 
 Serves: 4
 
+To help the sauced pasta stay creamy longer, warm the mixing bowl (and the serving bowls). Drain the cooked spaghetti in a colander set in a large serving bowl. The water will heat the bowl, and some of it can be reserved for the sauce.
+
 ## Ingredients
 
 * 8 slices bacon, cut into ½-inch pieces
