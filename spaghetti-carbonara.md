@@ -1,14 +1,15 @@
 # Spaghetti Carbonara
 
-Serves: 4
+★★★★☆
+
+Serves: 4-6
 
 To help the sauced pasta stay creamy longer, warm the mixing bowl (and the serving bowls). Drain the cooked spaghetti in a colander set in a large serving bowl. The water will heat the bowl, and some of it can be reserved for the sauce.
 
 ## Ingredients
 
-* 8 slices bacon, cut into ½-inch pieces
-* ½ cup water
-* 3 garlic cloves, minced
+* 8-12 slices bacon, cut into ½-inch pieces
+* 5 garlic cloves, minced
 * 2½ ounces Pecorino Romano, grated (1¼ cups)
 * 3 large eggs, plus 1 large yolk
 * 1 teaspoon pepper
@@ -17,7 +18,7 @@ To help the sauced pasta stay creamy longer, warm the mixing bowl (and the servi
 
 ## Instructions
 
-1. Bring bacon and water to simmer in 10-inch nonstick skillet over medium heat; cook until water evaporates and bacon begins to sizzle, about 8 minutes.
+1. Bring bacon and ½ cup water to simmer in 10-inch nonstick skillet over medium heat; cook until water evaporates and bacon begins to sizzle, about 8 minutes.
 
 2. Reduce heat to medium-low and continue to cook until fat renders and bacon browns, 5 to 8 minutes longer.
 
@@ -25,7 +26,7 @@ To help the sauced pasta stay creamy longer, warm the mixing bowl (and the servi
 
 4. Strain bacon mixture through fine-mesh strainer set in bowl. Set aside bacon mixture. Measure out 1 tablespoon fat and place in medium bowl. Whisk Pecorino, eggs and yolk, and pepper into fat until combined.
 
-5. Meanwhile, bring 2 quarts water to boil in Dutch oven. Add spaghetti and salt to pot; cook, stirring frequently, until al dente.
+5. Meanwhile, bring 2 quarts water to a boil. Add spaghetti and 1 teaspoon salt to pot; cook, stirring frequently, until al dente, about 6 minutes.
 
 6. Drain spaghetti in colander set in bowl, reserving cooking water. Pour 1 cup cooking water into liquid measuring cup and discard remainder. Return spaghetti to now-empty bowl.
 
