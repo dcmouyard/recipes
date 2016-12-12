@@ -17,6 +17,7 @@ Rating | Minutes | Recipe
 ★★★★★ | 140 | Meatloaf
 ★★★★★ | 150 | Coq au Vin
 ★★★★★ | 180 | Steak Fries
+★★★★★ | 210 | Ranch Chili
 ★★★★★ | 240 | Chile con Carne
 ★★★★★ | 240 | Kidney Beans and Rice
 ★★★★★ | 240 | Spaghetti and Meatballs

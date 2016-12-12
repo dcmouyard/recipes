@@ -1,8 +1,11 @@
 # Ranch Chili
 
-Serves: 4-6
+★★★★★
 
-Notes about this recipe.
+Serves: 4-6
+Time: 210 minutes
+
+If not using canned kidney beans, let then soak overnight.
 
 ## Ingredients
 
