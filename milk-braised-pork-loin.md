@@ -1,8 +1,9 @@
 # Milk-Braised Pork Loin
 
-Serves: 4-6
+★★★★☆
 
-Notes about this recipe.
+Serves: 4-6
+Time: 5 hours
 
 ## Ingredients
 
@@ -11,7 +12,7 @@ Notes about this recipe.
 * 1 (2- to 2½-pound) boneless pork loin roast, trimmed
 * 2 ounces salt pork, chopped coarse
 * 3 cups whole milk
-* 5 garlic cloves, peeled
+* 5 garlic cloves, peeled and minced
 * 1 teaspoon minced fresh sage
 * ¼ teaspoon baking soda
 * ½ cup dry white wine
