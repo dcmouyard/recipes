@@ -1,6 +1,9 @@
 # Salty Oatmeal Cookies
 
-Serves:
+★★★★★
+
+Makes: 28
+Time: 1 hour
 
 ## Ingredients
 
