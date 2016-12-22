@@ -1,5 +1,7 @@
 # Sables
 
+★★★★★
+
 Makes: 40
 
 ## Ingredients
