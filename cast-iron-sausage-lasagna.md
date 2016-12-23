@@ -1,6 +1,9 @@
 # Cast-Iron Sausage Lasagna
 
-Serves: 6
+★★★★★
+
+Serves: 8
+Time: 2½ hours
 
 ## Ingredients
 

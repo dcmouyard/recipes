@@ -15,6 +15,7 @@ Rating | Minutes | Recipe
 ★★★★★ | 120? | Mashed Potatoes
 ★★★★★ | 140 | Chicken Parmesan
 ★★★★★ | 140 | Meatloaf
+★★★★★ | 150 | Cast-Iron Sausage Lasagna
 ★★★★★ | 150 | Coq au Vin
 ★★★★★ | 180 | Steak Fries
 ★★★★★ | 210 | Ranch Chili
