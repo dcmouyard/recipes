@@ -12,7 +12,6 @@ Serves:
 * 1 celery rib, chopped coarse
 * 4 ounces pancetta, chopped fine
 * 4 ounces mortadella, chopped
-* 6 ounces chicken livers, trimmed
 * 3 tablespoons extra-virgin olive oil
 * ¾ pound 85 percent lean ground beef
 * ¾ pound ground veal
