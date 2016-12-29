@@ -10,6 +10,7 @@ Rating | Minutes | Recipe
 ★★★★★ | 75 | Beef Stir-Fry
 ★★★★★ | 90 | Aligot
 ★★★★★ | 90 | Breakfast Frittata
+★★★★★ | 90 | Scalloped Potatoes
 ★★★★★ | 90? | Roasted Potatoes
 ★★★★★ | 90? | Steak with Mushroom Sauce
 ★★★★★ | 120? | Mashed Potatoes

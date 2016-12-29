@@ -1,6 +1,9 @@
 # Scalloped Potatoes
 
+★★★★★
+
 Serves: 8-10
+Time: 90 minutes
 
 ## Ingredients
 
