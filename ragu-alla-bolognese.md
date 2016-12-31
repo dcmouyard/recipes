@@ -1,6 +1,11 @@
 # Ragu alla Bolognese
 
-Serves:
+★★★★☆
+
+Serves: 8-10
+Time: 3 Hours
+
+Needs more tomato flavor.
 
 ## Ingredients
 
