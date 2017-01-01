@@ -1,6 +1,9 @@
 # Grilled Reuben Casserole
 
-Serves:
+★★★☆☆
+
+Serves: 4
+Time: 1 hour
 
 ## Ingredients
 
