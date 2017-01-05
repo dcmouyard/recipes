@@ -1,8 +1,9 @@
 # Light Sautéed White Fish
 
-★★★★★
+★★★★☆
 
 Serves: 4
+Time: 45 minutes
 
 Cook sauce recipes before cooking fish and keep warm until serving.
 

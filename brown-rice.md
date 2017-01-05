@@ -1,6 +1,9 @@
 # Brown Rice
 
+★★★☆☆
+
 Serves: 6-8
+Time: 45 minutes
 
 ## Ingredients
 
