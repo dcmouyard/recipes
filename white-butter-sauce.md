@@ -5,6 +5,8 @@
 Serves: 6-8
 Time: 20 minutes
 
+Serve this simple sauce with fish or vegetables.
+
 ## Ingredients
 
 * 3 tablespoons dry white wine
@@ -16,6 +18,12 @@ Time: 20 minutes
 
 ## Instructions
 
-Serve this simple sauce with fish or vegetables.
+1. Bring white wine, vinegar, shallots, and salt to boil in a small, heavy-bottomed sauce pan over medium-high heat.
 
-Bring white wine, vinegar, shallots, and salt to boil in a small, heavy-bottomed sauce pan over medium-high heat. Reduce heat to medium-low and simmer until reduced by two-thirds, about 5 minutes. Whisk in heavy cream. Increase heat to high and add unsalted butter. Whisk vigorously until butter is incorporated and forms thick, pale yellow sauce, 30 to 60 seconds. Remove pan from heat and serve sauce immediately.
+2. Reduce heat to medium-low and simmer until reduced by two-thirds, about 5 minutes.
+
+3. Whisk in heavy cream.
+
+4. Increase heat to high and add unsalted butter. Whisk vigorously until butter is incorporated and forms thick, pale yellow sauce, 30 to 60 seconds.
+
+5. Remove pan from heat and serve sauce immediately.
