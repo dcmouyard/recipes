@@ -19,7 +19,6 @@ Serves: 4-6
 * 2¼ cups low-sodium chicken broth
 * 2 bay leaves
 * 1½ cups long grain white rice, rinsed
-* 3 scallions, sliced thin
 
 ## Instructions
 
@@ -33,7 +32,7 @@ Serves: 4-6
 
 5. Increase heat to high and add chicken broth, bay leaves, and rice to empty pot. Scrape bottom of pot with wooden spoon to remove browned bits. Bring to boil, reduce heat to low, cover, and cook until rice is tender, 15 to 17 minutes.
 
-6. Remove from heat, discard bay leaves, and fluff rice with fork. Gently stir in drained meat and vegetable mixture (discarding any accumulated juices) and sprinkle with scallions. Serve immediately.
+6. Remove from heat, discard bay leaves, and fluff rice with fork. Gently stir in drained meat and vegetable mixture, discarding any accumulated juices. Serve immediately.
 
 ## Resources
 
