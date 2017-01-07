@@ -1,6 +1,9 @@
 # Drop Biscuits
 
+★★★★★
+
 Makes: 12
+Time: 30 minutes
 
 ## Ingredients
 

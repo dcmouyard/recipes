@@ -4,10 +4,11 @@ Rating | Minutes | Recipe
 --- | --- | ---
 ★★★★★ | 15 | Scrambled Eggs
 ★★★★★ | 20 | White Butter Sauce
+★★★★★ | 30 | Drop Biscuits
 ★★★★★ | 60 | Macaroni and Cheese
 ★★★★★ | 70 | Pasta alla Norcina
-★★★★★ | 70? | Dirty Rice
 ★★★★★ | 75 | Beef Stir-Fry
+★★★★★ | 75 | Dirty Rice
 ★★★★★ | 90 | Aligot
 ★★★★★ | 90 | Breakfast Frittata
 ★★★★★ | 90 | Scalloped Potatoes
