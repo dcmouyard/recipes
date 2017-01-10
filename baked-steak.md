@@ -1,6 +1,9 @@
 # Baked Steak
 
+★★☆☆☆
+
 Serves: 8
+Time: 2 hours
 
 Original recipe from Alice Smith via Jeannie Soukup.
 
