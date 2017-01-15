@@ -2,6 +2,8 @@
 
 Serves: 4
 
+Try this using pork tenderloin medallions pounded thin or veal instead of chicken.
+
 ## Ingredients
 
 * 4 boneless, skinless chicken breasts, (about 5 ounces each)
@@ -9,12 +11,12 @@ Serves: 4
 * table salt
 * ground black pepper
 * 2 tablespoons vegetable oil
-* 2 ½ ounces pancetta, (about 3 slices), cut into pieces 1 inch long and 1/8 inch wide
+* 2½ ounces pancetta, (about 3 slices), cut into pieces 1 inch long and ⅛ inch wide
 * 8 ounces white mushrooms, sliced (about 2 cups)
 * 1 medium clove garlic, minced (about 1 teaspoon)
 * 1 teaspoon tomato paste
-* 1 ½ cups marsala wine, (sweet)
-* 1 ½ tablespoons lemon juice, from 1 small lemon
+* 1½ cups marsala wine, (sweet)
+* 1½ tablespoons lemon juice, from 1 small lemon
 * 4 tablespoons unsalted butter, cut into 4 pieces, softened
 * 2 tablespoons chopped fresh parsley leaves
 
@@ -26,7 +28,7 @@ Serves: 4
 
 3. Pat chicken breasts dry. Meanwhile, place flour in shallow baking dish or pie plate. Season both sides of chicken cutlets with salt and pepper; working one piece at a time, coat both sides with flour. Lift breast from tapered end and shake to remove excess flour; set aside.
 
-4. Add oil to hot skillet and heat until shimmering. Place floured cutlets in single layer in skillet and cook until golden brown, about 3 minutes.
+4. Add 2 tablespoons vegetable oil to hot skillet and heat until shimmering. Place floured cutlets in single layer in skillet and cook until golden brown, about 3 minutes.
 
 5. Using tongs, flip cutlets and cook on second side until golden brown and meat feels firm when pressed with finger, about 3 minutes longer. Transfer chicken to heated plate and return plate to oven.
 
