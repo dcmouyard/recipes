@@ -1,6 +1,11 @@
 # Fried Brown Rice with Pork and Shrimp
 
+★★★☆☆
+
 Serves: 6
+Time: 75 minutes
+
+Shrimp and pork didn’t go well together. Leftover white rice has a better texture and flavor than brown rice.
 
 ## Ingredients
 
