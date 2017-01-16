@@ -1,6 +1,9 @@
 # Chicken Marsala
 
+★★★★☆
+
 Serves: 4
+Time: 2 hours
 
 Try this using pork tenderloin medallions pounded thin or veal instead of chicken.
 
