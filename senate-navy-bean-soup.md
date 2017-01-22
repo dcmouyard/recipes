@@ -1,6 +1,9 @@
 # Senate Navy Bean Soup
 
+★★★☆☆
+
 Serves: 6-8
+Time: 3 hours
 
 ## Ingredients
 
