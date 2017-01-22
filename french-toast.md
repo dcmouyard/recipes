@@ -1,10 +1,13 @@
 # French Toast
 
+★★★★★
+
 Serves: 4
+Time: 45 minutes
 
 ## Ingredients
 
-* 8 large slices hearty white sandwich bread, or good-quality challah (see note)
+* 8 large slices hearty white sandwich bread, or good-quality challah
 * 1½ cups whole milk, warmed
 * 3 large egg yolks
 * 3 tablespoons light brown sugar

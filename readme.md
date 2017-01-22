@@ -6,6 +6,7 @@ Rating | Minutes | Recipe
 ★★★★★ | 20 | White Butter Sauce
 ★★★★★ | 30 | Drop Biscuits
 ★★★★★ | 30 | Fettuccine with Butter and Parmigiano
+★★★★★ | 45 | French Toast
 ★★★★★ | 60 | Macaroni and Cheese
 ★★★★★ | 70 | Pasta alla Norcina
 ★★★★★ | 75 | Beef Stir-Fry
