@@ -2,8 +2,6 @@
 
 Serves: 6-8
 
-Notes about this recipe.
-
 ## Ingredients
 
 * 6 tablespoons unsalted butter
