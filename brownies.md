@@ -1,11 +1,13 @@
 # Brownies
 
-Serves:
+★★★★★
+
+Time: 1½ hours
 
 ## Ingredients
 
 * ⅓ cup Dutch-processed cocoa
-* 1½ teaspoons instant espresso, (optional)
+* 1½ teaspoons instant espresso
 * ½ cup plus 2 tablespoons boiling water
 * 2 ounces unsweetened chocolate, finely chopped
 * 4 tablespoons (½ stick) unsalted butter, melted
