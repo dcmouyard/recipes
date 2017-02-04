@@ -1,6 +1,11 @@
 # Potato-Leek Soup
 
+★★★☆☆
+
 Serves: 6-8
+Time: 75 minutes
+
+The leeks need to be puréed, perhaps in step 4 before adding bay leaf and potatoes. Needs more umami flavor.
 
 ## Ingredients
 
@@ -14,11 +19,11 @@ Serves: 6-8
 
 ## Instructions
 
-1. Cut off roots and tough dark green portion of leeks, leaving white portion and about 3 inches of light green. Slice in half lengthwise and chop into 1-inch sections. (You should have about 11 cups).
+1. Cut off roots and tough dark green portion of leeks, leaving white portion and about 3 inches of light green. Slice in half lengthwise and chop into 1-inch sections.
 
-2. Heat butter in Dutch oven over medium-low heat until foaming; stir in leeks, increase heat to medium, cover and cook, stirring occasionally, until leeks are tender but not mushy, 15 to 20 minutes; do not brown.
+2. Heat butter in Dutch oven over medium-low heat until foaming; stir in leeks, increase heat to medium, cover and cook, stirring occasionally, until leeks are tender but not mushy, about 15 minutes; do not brown.
 
-3. Sprinkle flour over leeks and stir to coat evenly; cook until flour dissolves, about 2 minutes.
+3. Sprinkle 1 tablespoon flour over leeks and stir to coat evenly; cook until flour dissolves, about 2 minutes.
 
 4. Increase heat to high; whisking constantly, gradually add stock. Add bay leaf and potatoes; cover and bring to boil. Reduce heat to medium-low and simmer, covered, until potatoes are almost tender, 5 to 7 minutes.
 
