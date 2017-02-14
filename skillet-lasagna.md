@@ -1,6 +1,11 @@
 # Skillet Lasagna
 
+★★★★☆
+
 Serves: 4-6
+Time: 50 minutes
+
+Use less diced tomatoes and more garlic next time.
 
 ## Ingredients
 
@@ -8,13 +13,13 @@ Serves: 4-6
 * Water
 * 1 tablespoon olive oil
 * 1 medium onion, minced
-Table salt
+* Table salt
 * 3 medium cloves garlic, minced or pressed through a garlic press (about 1 tablespoon)
 * ⅛ teaspoon red pepper flakes
 * 1 pound meatloaf mix
 * 10 curly-edged lasagna noodles, broken into 2-inch lengths
 * 1 (8-ounce) can tomato sauce (or 3.5 ounces tomato paste mixed with 4.5 ounces water)
-*    grated Parmesan cheese, plus 2 additional tablespoons
+* ½ cup grated Parmesan cheese, plus 2 additional tablespoons
 * Ground black pepper
 * 1 cup ricotta cheese
 * 3 tablespoons chopped fresh basil
