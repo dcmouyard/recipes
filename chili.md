@@ -1,13 +1,16 @@
 # Chili
 
+★★★★☆
+
 Serves: 8-10
+Time: 2½ hours
 
 Goes well with lime wedges, cilantro, chopped red onions, shredded Monterey Jack, sour cream, and diced avocados.
 
 ## Ingredients
 
 * 2 pounds 85 percent lean ground beef
-* 2 tablespoons plus 2 cups water
+* 2 tablespoons water
 * Salt and pepper
 * ¾ teaspoon baking soda
 * 6 dried ancho chiles, (about 1¾ ounces), stemmed, seeded, and torn into 1-inch pieces (or ½ cup chili powder)
@@ -22,6 +25,7 @@ Goes well with lime wedges, cilantro, chopped red onions, shredded Monterey Jack
 * 1 tablespoon vegetable oil
 * 1 onion, chopped fine
 * 3 garlic cloves, minced
+* 2 cups decaf coffee
 * 1—2 teaspoons minced canned chipotle chiles in adobo sauce
 * 1 (15-ounce) can pinto beans
 * 2 teaspoons brown sugar
