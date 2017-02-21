@@ -22,6 +22,7 @@ Rating | Minutes | Recipe
 ★★★★★ | 140 | Meatloaf
 ★★★★★ | 150 | Cast-Iron Sausage Lasagna
 ★★★★★ | 150 | Coq au Vin
+★★★★★ | 150 | Shepherd’s Pie
 ★★★★★ | 180 | Steak Fries
 ★★★★★ | 210 | Ranch Chili
 ★★★★★ | 240 | Chile con Carne

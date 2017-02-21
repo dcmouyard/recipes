@@ -1,6 +1,9 @@
 # Shepherd’s Pie
 
+★★★★★
+
 Serves: 4-6
+Time: 2½ hours
 
 ## Ingredients
 
@@ -35,17 +38,17 @@ Serves: 4-6
 
 3. Drain potatoes and return to saucepan. Return saucepan to low heat and cook, shaking pot occasionally, until any surface moisture on potatoes has evaporated, about 1 minute.
 
-4. Remove pan from heat and mash potatoes well. Stir in melted butter. Whisk together milk and egg yolk in small bowl, then stir into potatoes. Stir in scallion greens and season with salt and pepper to taste. Cover and set aside.
+4. Remove pan from heat and mash potatoes well. Stir in 4 tablespoons melted butter. Whisk together ½ cup milk and egg yolk in small bowl, then stir into potatoes. Stir in scallion greens and season with salt and pepper to taste. Cover and set aside.
 
-5. Heat oil in broiler-safe 10-inch skillet over medium heat until shimmering. Add onion, mushrooms, ½ teaspoon salt, and ¼ teaspoon pepper; cook, stirring occasionally, until vegetables are just starting to soften and dark bits form on bottom of skillet, 4 to 6 minutes.
+5. Heat 2 teaspoons oil in broiler-safe 10-inch skillet over medium heat until shimmering. Add onion, mushrooms, ½ teaspoon salt, and ¼ teaspoon pepper; cook, stirring occasionally, until vegetables are just starting to soften and dark bits form on bottom of skillet, 4 to 6 minutes.
 
-6. Stir in tomato paste and garlic; cook until bottom of skillet is dark brown, about 2 minutes.
+6. Stir in 1 tablespoon tomato paste and garlic; cook until bottom of skillet is dark brown, about 2 minutes.
 
-7. Add Madeira and cook, scraping up any browned bits, until evaporated, about 1 minute.
+7. Add 2 tablespoons Madeira and cook, scraping up any browned bits, until evaporated, about 1 minute.
 
 8. Stir in 2 tablespoons flour and cook for 1 minute.
 
-9. Add broth, Worcestershire, thyme, bay leaf, and carrots; bring to boil, scraping up any browned bits. Reduce heat to medium-low, add beef in 2-inch chunks to broth, and bring to gentle simmer. Cover and cook until beef is cooked through, 10 to 12 minutes, stirring and breaking up meat chunks with 2 forks halfway through.
+9. Add 1¼ beef broth, 2 teaspoons Worcestershire, thyme, bay leaf, and carrots; bring to boil, scraping up any browned bits. Reduce heat to medium-low, add beef in 2-inch chunks to broth, and bring to gentle simmer. Cover and cook until beef is cooked through, 10 to 12 minutes, stirring and breaking up meat chunks with 2 forks halfway through.
 
 10. Stir 2 teaspoons cornstarch and 2 teaspoons water together in bowl. Stir cornstarch mixture into filling and continue to simmer for 30 seconds.
 
