@@ -1,5 +1,7 @@
 # Chicken Tikka Masala
 
+★★★★☆
+
 Serves: 4-6
 
 Best served with Basmati rice. You can substitute 2 teaspoons ground coriander, ¼ teaspoon ground cardamom, ¼ teaspoon ground cinnamon, and ½ teaspoon ground black pepper for the garam masala.
