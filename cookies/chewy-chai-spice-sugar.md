@@ -1,6 +1,11 @@
 # Chewy Chai-Spice Sugar Cookies
 
-Makes: 2 dozen
+★★★★★
+
+Makes: 2 Dozen Cookies
+Time: 50 minutes
+
+Too sweet; try without rolling in sugar next time.
 
 ## Ingredients
 
