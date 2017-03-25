@@ -8,6 +8,7 @@ Rating | Minutes | Recipe
 ★★★★★ | 30 | Fettuccine with Butter and Parmigiano
 ★★★★★ | 45 | French Toast
 ★★★★★ | 60 | Macaroni and Cheese
+★★★★★ | 60 | Mashed Sweet Potatoes
 ★★★★★ | 70 | Pasta alla Norcina
 ★★★★★ | 75 | Beef Stir-Fry
 ★★★★★ | 75 | Dirty Rice

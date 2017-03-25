@@ -1,6 +1,9 @@
 # Mashed Sweet Potatoes
 
+★★★★★
+
 Serves: 4
+Time: 60 minutes
 
 ## Ingredients
 
