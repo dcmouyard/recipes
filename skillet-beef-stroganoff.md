@@ -1,6 +1,11 @@
 # Skillet Beef Stroganoff
 
-Serves: 4
+★★★★★
+
+Serves: 3
+Time: 105 minutes
+
+Try doubling the recipe next time (with less liquid) and cook noodles separately.
 
 ## Ingredients
 

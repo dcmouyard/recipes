@@ -18,6 +18,7 @@ Rating | Minutes | Recipe
 ★★★★★ | 90 | Scalloped Potatoes
 ★★★★★ | 90? | Roasted Potatoes
 ★★★★★ | 90? | Steak with Mushroom Sauce
+★★★★★ | 105 | Skillet Beef Stroganoff
 ★★★★★ | 120? | Mashed Potatoes
 ★★★★★ | 140 | Chicken Parmesan
 ★★★★★ | 140 | Meatloaf
