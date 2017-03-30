@@ -1,6 +1,9 @@
 # Buttermilk Pancakes
 
-Serves:
+★★★☆☆
+
+Serves: 4-6
+Time: 30 minutes
 
 ## Ingredients
 
