@@ -1,10 +1,16 @@
 # Country-Fried Steak
 
+★★★☆☆
+
 Serves: 6
+Time: 105 minutes
+
+Too salty and too much onion in the gravy.
 
 ## Ingredients
 
 * 3 cups unbleached all-purpose flour
+* 5 teaspoons salt (use much less)
 * ⅛ teaspoon cayenne pepper
 * 1 large egg
 * 1 teaspoon baking powder
@@ -15,13 +21,13 @@ Serves: 6
 
 ### Cream Gravy
 
-* 1 medium onion, minced
+* 1 medium onion, minced (use less)
 * ⅛ teaspoon dried thyme
 * 2 medium cloves garlic, minced or pressed through a garlic press
 * 3 tablespoons unbleached all-purpose flour
 * ½ cup low-sodium chicken broth
 * 2 cups whole milk
-* ¾ teaspoon table salt
+* ¾ teaspoon table salt (use a little less)
 * ¼ teaspoon ground black pepper
 * cayenne pepper
 
