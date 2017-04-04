@@ -1,6 +1,9 @@
 # Cheese Soufflé
 
+★★★★☆
+
 Serves: 3-4
+Time: 105 minutes
 
 ## Ingredients
 
