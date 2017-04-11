@@ -11,7 +11,7 @@ Rating | Minutes | Recipe
 ★★★★★ | 60 | Mashed Sweet Potatoes
 ★★★★★ | 70 | Pasta alla Norcina
 ★★★★★ | 75 | Beef Stir-Fry
-★★★★★ | 75 | Dirty Rice
+★★★★★ | 80 | Dirty Rice
 ★★★★★ | 90 | Aligot
 ★★★★★ | 90 | Breakfast Frittata
 ★★★★★ | 90 | Brownies

@@ -3,11 +3,14 @@
 ★★★★★
 
 Serves: 4-6
-Time: 75 minutes
+Time: 80 minutes
+
+Can double the recipe and still fit in the Dutch oven.
 
 ## Ingredients
 
 * 1 tablespoon vegetable oil
+* 8 ounces ground beef
 * 8 ounces ground pork
 * 1 medium onion, chopped fine
 * 1 rib celery, chopped fine
@@ -23,7 +26,7 @@ Time: 75 minutes
 
 ## Instructions
 
-1. Heat oil in Dutch oven over medium heat until shimmering. Add pork and cook until browned, about 5 minutes.
+1. Heat oil in Dutch oven over medium heat until shimmering. Add beef and pork and cook until browned, about 5 minutes.
 
 2. Stir in onion, celery, and bell pepper and cook until softened, about 10 minutes.
 
