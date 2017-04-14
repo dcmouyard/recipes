@@ -1,6 +1,9 @@
 # Baked Fish
 
+★★★★☆
+
 Serves: 4
+Time: 90 minutes
 
 Best with cod, haddock, or halibut fillets.
 
