@@ -1,6 +1,9 @@
 # Crispy Orange Beef
 
+★★★★☆
+
 Serves: 4
+Time: 2½ hours
 
 ## Ingredients
 
