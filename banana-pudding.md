@@ -1,5 +1,7 @@
 # Banana Pudding
 
+★★★★★
+
 Serves: 4
 
 ## Ingredients
