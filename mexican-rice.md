@@ -1,10 +1,13 @@
 # Mexican Rice
 
+★★★★★
+
 Serves: 6-8
+Time: 1 hour
 
 ## Ingredients
 
-* 1 can diced tomatoes
+* 1 can (14½ ounces) diced tomatoes
 * 1 medium white onion, minced
 * 3 medium jalapeño chiles
 * 2 cups long grain white rice

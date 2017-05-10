@@ -9,6 +9,7 @@ Rating | Minutes | Recipe
 ★★★★★ | 45 | French Toast
 ★★★★★ | 60 | Macaroni and Cheese
 ★★★★★ | 60 | Mashed Sweet Potatoes
+★★★★★ | 60 | Mexican Rice
 ★★★★★ | 70 | Pasta alla Norcina
 ★★★★★ | 75 | Beef Stir-Fry
 ★★★★★ | 80 | Dirty Rice
