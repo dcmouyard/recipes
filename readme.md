@@ -3,6 +3,7 @@
 Rating | Minutes | Recipe
 --- | --- | ---
 ★★★★★ | 15 | Scrambled Eggs
+★★★★★ | 20 | Blueberry Pancakes
 ★★★★★ | 20 | White Butter Sauce
 ★★★★★ | 30 | Drop Biscuits
 ★★★★★ | 30 | Fettuccine with Butter and Parmigiano

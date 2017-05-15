@@ -1,6 +1,9 @@
 # Blueberry Pancakes
 
+★★★★★
+
 Serves: 4-6
+Time: 20 minutes
 
 If you don’t have buttermilk, combine 1 tablespoon lemon juice with 2 cups milk and set aside to thicken.
 
