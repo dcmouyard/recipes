@@ -1,6 +1,9 @@
 # Noodle Cake with Stir-fried Chicken and Bok Choy
 
+★★★☆☆
+
 Serves: 4
+Time: 120 minutes
 
 ## Ingredients
 

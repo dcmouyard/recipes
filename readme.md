@@ -21,6 +21,7 @@ Rating | Minutes | Recipe
 ★★★★★ | 90? | Roasted Potatoes
 ★★★★★ | 90? | Steak with Mushroom Sauce
 ★★★★★ | 105 | Skillet Beef Stroganoff
+★★★★★ | 120 | Noodle Cake with Stir-fried Chicken and Bok Choy
 ★★★★★ | 120? | Mashed Potatoes
 ★★★★★ | 140 | Chicken Parmesan
 ★★★★★ | 140 | Meatloaf
