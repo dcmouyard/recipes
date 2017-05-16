@@ -1,6 +1,9 @@
 # Rhubarb Fool
 
+★★★★☆
+
 Serves: 8
+Time: 45 minutes
 
 ## Ingredients
 
