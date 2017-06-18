@@ -1,6 +1,9 @@
 # Cuban-Style Picadillo
 
+★★★★☆
+
 Serves: 6
+Time: 90 minutes
 
 ## Ingredients
 
@@ -19,7 +22,7 @@ Serves: 6
 * 1 (14.5-ounce) can diced tomatoes, drained
 * ¾ cup dry white wine
 * ½ cup beef broth
-* ½ cup raisins
+* ½ cup raisins (or 2 tablespoons brown sugar)
 * 3 bay leaves
 * ½ cup pimento-stuffed green olives, chopped coarse
 * 2 tablespoons capers, rinsed
