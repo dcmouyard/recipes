@@ -14,6 +14,8 @@
 * 6 Villagers (+6)
 * 2 Mafia Goons (-12)
 
+<hr>
+
 * 1 Sheriff (+7)
 * 2 Villagers (+2)
 * 3 Mafia Goons (-18)
@@ -27,11 +29,15 @@
 * 2 Mafia Goons (-12)
 * 2 Yakuza Goons (-12)
 
+<hr>
+
 * 1 Sheriff (+7)
 * 1 Deputy (+4)
 * 1 Doctor (+3)
 * 3 Villagers (+3)
 * 3 Mafia Goons (-18)
+
+<hr>
 
 * 1 Sheriff (+7)
 * 1 Deputy (+4)
@@ -40,6 +46,8 @@
 * 2 Villagers (+2)
 * 3 Mafia Goons (-18)
 
+<hr>
+
 * 1 Sheriff (+7)
 * 1 Deputy (+4)
 * 1 Doctor (+3)
@@ -47,11 +55,15 @@
 * 2 Villagers (+2)
 * 3 Mafia Goons (-18)
 
+<hr>
+
 * 1 Sheriff (+7)
 * 1 Deputy (+4)
 * 2 Masons (+4)
 * 2 Villagers (+2)
 * 3 Mafia Goons (-18)
+
+<hr>
 
 * 1 Sheriff (+7)
 * 1 Doctor (+3)
