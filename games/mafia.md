@@ -19,7 +19,7 @@
 * 1 Sheriff (+7)
 * 2 Villagers (+2)
 * 3 Mafia Goons (-18)
-** Choose 3: (1 Coroner, 1 Diplomat, 1 Doctor, 1 Mason, 1 Mason, 1 Mason, 1 Mayor)
+  * Choose 3: (1 Coroner, 1 Diplomat, 1 Doctor, 1 Mason, 1 Mason, 1 Mason, 1 Mayor)
 
 ## 9 Players (Moderated)
 
