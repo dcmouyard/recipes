@@ -11,6 +11,9 @@ Time: 1 hour
 * Salt
 * 6 tablespoons unsalted butter
 * 3 shallots, minced
+* 1 onion (optional)
+* 3 cloves garlic (optional)
+* 12 ounces kielbasa (optional)
 * 6 tablespoons all-purpose flour
 * 1½ teaspoons dry mustard
 * ¼ teaspoon cayenne pepper
@@ -22,7 +25,7 @@ Time: 1 hour
 
 1. Bring 4 quarts water to boil in Dutch oven. Add macaroni and 1 tablespoon salt and cook, stirring often, until tender. Drain macaroni and set aside in colander.
 
-2. Melt butter in now-empty pot over medium heat. Add shallot and sautè until softened, about 2 minutes.
+2. Melt butter in now-empty pot over medium heat. Sautè shallots, onions, and kielbasa until softened, about 2 minutes. Add garlic and cook for 30 seconds.
 
 3. Increase heat to medium-high. Whisk in flour, mustard, cayenne, and 1 teaspoon salt and cook for 1 minute.
 
