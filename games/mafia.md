@@ -1,5 +1,20 @@
 # Mafia Setups
 
+## Roles
+* Sheriff (+7)
+* Diplomat (+3)
+* Doctor (+3)
+* Coroner (+2)
+* Secret Society (+2)
+* Villager (+1)
+* Mafia (-6)
+
+<hr>
+
+* Deputy (+4)
+* Mayor (+2)
+* Serial Killer (-5)
+
 ## Night Actions
 
 1. Sheriff investigation
@@ -19,7 +34,7 @@
 * 1 Sheriff (+7)
 * 2 Villagers (+2)
 * 3 Mafia Goons (-18)
-  * Choose 3: (1 Coroner, 1 Diplomat, 1 Doctor, 1 Mason, 1 Mason, 1 Mason, 1 Mayor)
+** Choose 3: (1 Coroner, 1 Diplomat, 1 Doctor, 1-3 Secret Society)
 
 ## 9 Players (Moderated)
 
