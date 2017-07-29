@@ -6,13 +6,16 @@
 * Doctor (+3)
 * Coroner (+2)
 * Secret Society (+2)
+* Village Idiot (+2)
 * Villager (+1)
-* Mafia (-6)
+* Pacifist (-1)
+* Mafia/Yakuza (-6)
 
 <hr>
 
 * Deputy (+4)
-* Mayor (+2)
+* Nurse (+2)
+* Miller (-1)
 * Serial Killer (-5)
 
 ## Night Actions
