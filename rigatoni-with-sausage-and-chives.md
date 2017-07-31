@@ -1,6 +1,9 @@
 # Rigatoni with Sausage and Chives
 
+★★★★☆
+
 Serves: 4
+Time: 50 minutes
 
 ## Ingredients
 
