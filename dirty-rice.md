@@ -16,7 +16,7 @@ Can double the recipe and still fit in the Dutch oven.
 * 1 rib celery, chopped fine
 * 1 red bell pepper, seeded and chopped fine
 * 3 cloves garlic, minced
-* 4 ounces chicken livers, rinsed, trimmed of fat, and chopped fine
+* 4 ounces chicken livers, rinsed, trimmed of fat, and chopped fine (optional)
 * ¼ teaspoon dried thyme
 * ¼ teaspoon cayenne pepper
 * table salt
