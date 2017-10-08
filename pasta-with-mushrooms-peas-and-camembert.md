@@ -1,6 +1,9 @@
 # Pasta with Mushrooms, Peas, and Camembert
 
+★★★★☆
+
 Serves: 4 (6-8 as side dish)
+Time: 120 minutes
 
 So that the sauce and pasta finish cooking at the same time, drop the pasta into boiling water just after adding the cremini to the skillet. To make the dish vegetarian, substitute vegetable broth for chicken broth.
 
@@ -18,7 +21,7 @@ So that the sauce and pasta finish cooking at the same time, drop the pasta into
 * 1¼ cups low-sodium chicken broth
 * ½ cup heavy cream
 * 1 tablespoon lemon juice from one lemon
-* Ground black pepper
+* ground black pepper
 * 6 ounces Camembert, cut into ½-inch cubes (do not remove rind)
 * 2 tablespoons chopped fresh chives
 
