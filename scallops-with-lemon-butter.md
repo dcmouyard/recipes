@@ -1,6 +1,9 @@
 # Scallops with Lemon Butter
 
+★★★★☆
+
 Serves: 4
+Time: 60 minutes
 
 Use “dry” scallops (those without chemical additives). If you can only find “wet” scallops, soak them in a solution of 1 quart cold water, ¼ cup lemon juice, and 2 tablespoons table salt for 30 minutes before proceeding with step 1. In step 4, season the scallops with pepper only. If you are unsure whether your scallops are wet or dry, conduct this quick test: Place 1 scallop on a paper towel-lined, microwave-safe plate and microwave on high power for 15 seconds. If the scallop is “dry,” it will exude very little water. If it is “wet,” there will be a sizable ring of moisture on the paper towel. (The microwaved scallop can be cooked as is.) Prepare the sauce (if serving) while the scallops dry (between steps 1 and 2) and keep it warm while cooking them.
 
