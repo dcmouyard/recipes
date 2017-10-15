@@ -1,4 +1,4 @@
-# Grilled Reuben Casserole
+  # Grilled Reuben Casserole
 
 ★★★☆☆
 
@@ -10,7 +10,8 @@ Time: 1 hour
 * 6 slices rye bread, cubed
 * 1 16 ounce can sauerkraut, drained
 * 1 pound deli sliced corned beef
-* 2 cups shredded swiss cheese
+* 2 cups shredded swiss cheese (about 8 ounces)
+* ¾ cup Russian-style salad dressing
 
 ## Instructions
 
