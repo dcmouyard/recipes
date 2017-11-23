@@ -21,9 +21,9 @@ Time: 120 minutes
 
 2. Reduce heat to medium and boil until potatoes are tender, about 25 minutes. Potatoes should fall apart when prodded with a fork.
 
-3. Melt butter in small saucepan over medium heat. Add garlic and sugar, stirring often, 3 to 4 minutes.
+3. Melt 15 tablespoons butter in small saucepan over medium heat. Add garlic and 1¼ teaspoons sugar, stirring often, 3 to 4 minutes.
 
-4. Warm heavy cream in a separate saucepan, and cook until warm, about 5 minutes. Keep warm.
+4. Warm 1⅞ cups heavy cream in a separate saucepan, and cook until warm, about 5 minutes. Keep warm.
 
 5. Drain potatoes and return to Dutch oven. Stir over low heat until potatoes are thoroughly dried, 1 to 2 minutes.
 
