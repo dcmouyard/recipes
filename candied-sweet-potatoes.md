@@ -27,7 +27,7 @@ For a more intense molasses flavor, use dark brown sugar in place of light brown
 
 ## Instructions
 
-1. Melt the butter in a large Dutch oven over medium-high heat. Add the sweet potatoes, brown sugar, molasses, salt, pepper, and water; bring to a simmer.
+1. Melt 8 tablespoons butter in a large Dutch oven over medium-high heat. Add the sweet potatoes, 1 cup brown sugar, 2 tablespoons molasses, 1½ teaspoons salt, ½ teaspoon pepper, and 1½ cup water; bring to a simmer.
 
 2. Reduce the heat to medium-low, cover, and cook, stirring often, until the sweet potatoes are tender (a paring knife can be slipped into and out of the center of the potatoes with very little resistance), 45 to 60 minutes.
 
