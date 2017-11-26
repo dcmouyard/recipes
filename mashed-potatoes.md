@@ -12,7 +12,7 @@ Time: 120 minutes
 * 15 tablespoons unsalted butter, cut into 8 pieces
 * 5-10 medium garlic cloves, minced or pressed through a garlic press
 * 1¼ teaspoon sugar
-* 1⅞ cups heavy cream
+* 1 cup heavy cream
 * 1 tablespoon plus 2½ teaspoons salt
 
 ## Instructions
