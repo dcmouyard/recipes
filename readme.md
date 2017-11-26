@@ -1,25 +1,25 @@
 # Recipes
 
 Rating | Minutes | Recipe
---- | --- | ---
-★★★★★ | 15 | Scrambled Eggs
-★★★★★ | 20 | Blueberry Pancakes
-★★★★★ | 20 | White Butter Sauce
-★★★★★ | 30 | Drop Biscuits
-★★★★★ | 30 | Fettuccine with Butter and Parmigiano
-★★★★★ | 45 | French Toast
-★★★★★ | 60 | Macaroni and Cheese
-★★★★★ | 60 | Mashed Sweet Potatoes
-★★★★★ | 60 | Mexican Rice
-★★★★★ | 70 | Pasta alla Norcina
-★★★★★ | 75 | Beef Stir-Fry
-★★★★★ | 80 | Dirty Rice
-★★★★★ | 90 | Aligot
-★★★★★ | 90 | Breakfast Frittata
-★★★★★ | 90 | Brownies
-★★★★★ | 90 | Scalloped Potatoes
-★★★★★ | 90? | Roasted Potatoes
-★★★★★ | 90? | Steak with Mushroom Sauce
+:----:|:---:| ---
+★★★★★ |  15 | Scrambled Eggs
+★★★★★ |  20 | Pancakes
+★★★★★ |  20 | White Butter Sauce
+★★★★★ |  30 | Drop Biscuits
+★★★★★ |  30 | Fettuccine with Butter and Parmigiano
+★★★★★ |  45 | French Toast
+★★★★★ |  60 | Macaroni and Cheese
+★★★★★ |  60 | Mashed Sweet Potatoes
+★★★★★ |  60 | Mexican Rice
+★★★★★ |  70 | Pasta alla Norcina
+★★★★★ |  75 | Beef Stir-Fry
+★★★★★ |  80 | Dirty Rice
+★★★★★ |  90 | Aligot
+★★★★★ |  90 | Breakfast Frittata
+★★★★★ |  90 | Brownies
+★★★★★ |  90 | Scalloped Potatoes
+★★★★★ |  90? | Roasted Potatoes
+★★★★★ |  90? | Steak with Mushroom Sauce
 ★★★★★ | 105 | Skillet Beef Stroganoff
 ★★★★★ | 120 | Noodle Cake with Stir-fried Chicken and Bok Choy
 ★★★★★ | 120? | Mashed Potatoes
