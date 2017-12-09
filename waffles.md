@@ -6,22 +6,22 @@ While the waffles can be eaten as soon as they are removed from the waffle iron,
 
 ## Ingredients
 
-* 2	cups (10 ounces) unbleached all-purpose flour
-* 1	tablespoon sugar
-* ¾	teaspoon table salt
-* ½	cup dried buttermilk powder
-* ½	teaspoon baking soda
-* ½	cup sour cream
-* 2	large eggs
-* ¼	teaspoon vanilla extract
-* ¼	cup vegetable oil
+* 2 cups (10 ounces) unbleached all-purpose flour
+* 1 tablespoon sugar
+* ¾ teaspoon table salt
+* ½ cup dried buttermilk powder
+* ½ teaspoon baking soda
+* ½ cup sour cream
+* 2 large eggs
+* ¼ teaspoon vanilla extract
+* ¼ cup vegetable oil
 * 1¼ cups unflavored seltzer water
 
 ## Instructions
 
 1. Adjust oven rack to middle position and heat oven to 250 degrees. Set wire rack in rimmed baking sheet and place baking sheet in oven.
 
-2. Whisk 2 cups flour, 1 tablespoon sugar, ¾	teaspoon salt, ½	cup buttermilk powder, and ½teaspoon baking soda in large bowl to combine.
+2. Whisk 2 cups flour, 1 tablespoon sugar, ¾ teaspoon salt, ½ cup buttermilk powder, and ½ teaspoon baking soda in large bowl to combine.
 
 3. Whisk ½ cup sour cream, 2 eggs, ¼ teaspoon vanilla, and ¼ cup oil in medium bowl to combine. Gently stir 1¼ cups seltzer into wet ingredients.
 
