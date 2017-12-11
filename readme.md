@@ -3,11 +3,13 @@
 Rating | Minutes | Recipe
 :----:|:---:| ---
 ★★★★★ |  15 | Scrambled Eggs
+★★★★★ |  20 | Bacon
 ★★★★★ |  20 | Pancakes
 ★★★★★ |  20 | White Butter Sauce
 ★★★★★ |  30 | Drop Biscuits
 ★★★★★ |  30 | Fettuccine with Butter and Parmigiano
 ★★★★★ |  45 | French Toast
+★★★★★ |  45 | Waffles
 ★★★★★ |  60 | Macaroni and Cheese
 ★★★★★ |  60 | Mashed Sweet Potatoes
 ★★★★★ |  60 | Mexican Rice
