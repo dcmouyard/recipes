@@ -14,7 +14,6 @@
 1. Bull’s-Eye Original Barbecue Sauce
 
 ### Bay Leaves
-* Store in airtight container in freezer
 * Penzeys
 
 ### Beef Broth
