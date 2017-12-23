@@ -44,3 +44,14 @@ If using a 70 percent bittersweet chocolate, reduce the amount of chocolate to 8
 ## Resources
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/3196-chocolate-pots-de-creme)
+
+## x1.6
+
+* 16 ounces bittersweet chocolate, chopped fine
+* 8 large egg yolks
+* 8 tablespoons sugar
+* ⅜ teaspoon table salt
+* 2⅜ cups heavy cream
+* 1¼ cups half-and-half
+* 5 teaspoons vanilla extract
+* ¾ teaspoon instant espresso powder, mixed with 5 teaspoons water (or 5 teaspoons strong brewed coffee)
