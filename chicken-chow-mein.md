@@ -1,6 +1,9 @@
 # Chicken Chow Mein
 
+★★★★★
+
 Serves: 4
+Time: 90 minutes
 
 Notes about this recipe.
 
@@ -29,9 +32,9 @@ Notes about this recipe.
 
 1. Bring 4 quarts water to boil in large pot. Add noodles to boiling water and cook until tender, 2 to 4 minutes. Drain noodles, rinse thoroughly with cold water, then drain again. Toss noodles with 1 tablespoon sesame oil in bowl; set aside.
 
-2. Meanwhile, dissolve baking soda in ½ cup cold water in second bowl. Add chicken and let sit at room temperature for 15 minutes. Drain chicken, rinse under cold water, then drain again. Pat chicken dry with paper towels. Combine 1 tablespoon rice wine, 2 teaspoons cornstarch, and chicken in bowl; set aside.
+2. Meanwhile, dissolve 1 teaspoon baking soda in ½ cup cold water in second bowl. Add chicken and let sit at room temperature for 15 minutes. Drain chicken, rinse under cold water, then drain again. Pat chicken dry with paper towels. Combine 1 tablespoon rice wine, 2 teaspoons cornstarch, and chicken in bowl; set aside.
 
-3. Whisk ½ cup chicken stock, 3 tablespoons soy sauce, 3 tablespoons oyster sauce, ¼	teaspoon pepper, remaining 2 tablespoons rice wine, and remaining 1 teaspoon cornstarch together in bowl; set aside.
+3. Whisk ½ cup chicken stock, 3 tablespoons soy sauce, 3 tablespoons oyster sauce, ¼ teaspoon pepper, remaining 2 tablespoons rice wine, and remaining 1 teaspoon cornstarch together in bowl; set aside.
 
 4. Heat oil in 12-inch nonstick skillet over high heat until just smoking. Add chicken and cook, stirring frequently, until opaque, about 2 minutes. Add mushrooms and carrot and cook, stirring frequently, until tender, about 2 minutes. Add celery and cook until crisp-tender, about 1 minute. Add scallion whites, garlic, and ginger and cook until fragrant, about 30 seconds.
 

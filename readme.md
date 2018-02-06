@@ -19,6 +19,7 @@ Rating | Minutes | Recipe
 ★★★★★ |  90 | Aligot
 ★★★★★ |  90 | Breakfast Frittata
 ★★★★★ |  90 | Brownies
+★★★★★ |  90 | Chicken Chow Mein
 ★★★★★ |  90 | Scalloped Potatoes
 ★★★★★ |  90? | Roasted Potatoes
 ★★★★★ |  90? | Steak with Mushroom Sauce
