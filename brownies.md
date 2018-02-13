@@ -26,7 +26,7 @@ Time: 1½ hours
 
 2. Make foil sling using the following steps: Cut 18-inch length foil and fold lengthwise to 8-inch width. Fit foil into length of 13 by 9-inch baking pan, pushing it into corners and up sides of pan; allow excess to overhang pan edges. Cut 14-inch length foil and fit into width of pan in the same manner, perpendicular to the first sheet (if using extra-wide foil, fold second sheet lengthwise to 12-inch width). Spray with nonstick cooking spray.
 
-3. Whisk ⅓ cup cocoa, 1½ teaspoonsespresso powder, and ½ cup plus 2 tablespoons boiling water together in large bowl until smooth.
+3. Whisk ⅓ cup cocoa, 1½ teaspoons espresso powder, and ½ cup plus 2 tablespoons boiling water together in large bowl until smooth.
 
 4. Add 2 ounces finely chopped unsweetened chocolate and whisk until chocolate is melted.
 
