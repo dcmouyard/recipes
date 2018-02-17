@@ -13,6 +13,8 @@ Rating | Minutes | Recipe
 ★★★★★ |  60 | Macaroni and Cheese
 ★★★★★ |  60 | Mashed Sweet Potatoes
 ★★★★★ |  60 | Mexican Rice
+★★★★★ |  60 | Roasted Potatoes
+★★★★★ |  60 | Steak with Mushroom Sauce
 ★★★★★ |  70 | Pasta alla Norcina
 ★★★★★ |  75 | Beef Stir-Fry
 ★★★★★ |  80 | Dirty Rice
@@ -21,8 +23,6 @@ Rating | Minutes | Recipe
 ★★★★★ |  90 | Brownies
 ★★★★★ |  90 | Chicken Chow Mein
 ★★★★★ |  90 | Scalloped Potatoes
-★★★★★ |  90? | Roasted Potatoes
-★★★★★ |  90? | Steak with Mushroom Sauce
 ★★★★★ | 105 | Skillet Beef Stroganoff
 ★★★★★ | 120 | Noodle Cake with Stir-fried Chicken and Bok Choy
 ★★★★★ | 120? | Mashed Potatoes
