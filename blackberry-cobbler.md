@@ -1,6 +1,11 @@
 # Blackberry Cobbler
 
-Serves:
+★★★☆☆
+
+Serves: 6-8
+Time: 75 minutes
+
+One hour is too long of a bake time.
 
 ## Ingredients
 
