@@ -3,7 +3,7 @@
 ★★★★☆
 
 Serves: 4
-Time: 1 hour
+Time: 45 minutes
 
 ## Ingredients
 
