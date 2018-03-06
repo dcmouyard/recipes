@@ -1,6 +1,11 @@
 # Mexican Chocolate Pudding
 
+★★★★☆
+
 Serves: 4
+Time: 30 minutes
+
+Try less cinnamon next time.
 
 ## Ingredients
 
