@@ -1,6 +1,11 @@
 # Guinness Beef Stew
 
+★★★★☆
+
 Serves: 6-8
+Time: 3 hours
+
+Could use more beef and less carrots. Also, try doubling the broth and beer.
 
 ## Ingredients
 
