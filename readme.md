@@ -34,6 +34,7 @@ Rating | Minutes | Recipe
 ★★★★★ | 180 | Steak Fries
 ★★★★★ | 210 | Ranch Chili
 ★★★★★ | 240 | Chile con Carne
+★★★★★ | 240 | Deep Dish Pizza
 ★★★★★ | 240 | Kidney Beans and Rice
 ★★★★★ | 240 | Spaghetti and Meatballs
 ★★★★★ | 240? | Stuffing

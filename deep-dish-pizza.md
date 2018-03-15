@@ -1,6 +1,9 @@
 # Deep Dish Pizza
 
+★★★★★
+
 Makes: 2 9-inch pizzas
+Time: 4 hours
 
 ## Ingredients
 
@@ -45,7 +48,7 @@ Makes: 2 9-inch pizzas
 
 5. Coat two 9-inch round cake pans with 2 tablespoons olive oil each. Transfer 1 dough ball to dry work surface and roll out into 13-inch disk about ¼ inch thick. Transfer dough to pan by rolling dough loosely around rolling pin and unrolling into pan. Lightly press dough into pan, working into corners and 1 inch up sides. If dough resists stretching, let it relax 5 minutes before trying again. Repeat with remaining dough ball.
 
-6. For each pizza, sprinkle 2 cups mozzarella evenly over surface of dough. Spread 1¼ cups tomato sauce over cheese and sprinkle 2 tablespoons Parmesan over sauce. Bake until crust is golden brown, 20 to 30 minutes. Remove pizza from oven and let rest 10 minutes before slicing and serving.
+6. For each pizza, sprinkle 2 cups mozzarella evenly over surface of dough. Spread 1 cup tomato sauce over cheese and sprinkle 2 tablespoons Parmesan over sauce. Bake until crust is golden brown, 20 to 30 minutes. Remove pizza from oven and let rest 10 minutes before slicing and serving.
 
 ## Resources
 
