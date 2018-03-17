@@ -23,7 +23,7 @@ You can replace the cake flour with all-purpose flour, but the bread will be hea
 
 1. Heat the oven to 400 degrees and adjust a rack to the center position.
 
-2. Place the flours, soda, cream of tartar, salt and sugar in a large mixing bowl. Add the butter and rub it into the flour using your fingers until it is completely incorporated and the mixture resembles coarse crumbs.
+2. Place the 3 cups all-purpose flour, 1 cup cake flour, 1½ teaspoons baking soda, 1½ teaspoons cream of tartar, 1½ teaspoons salt, and 2 tablespoons sugar in a large mixing bowl. Add the butter and rub it into the flour using your fingers until it is completely incorporated and the mixture resembles coarse crumbs.
 
 3. Make a well in the center and add the buttermilk. Work the liquid into the flour mixture using a fork until the dough comes together in large clumps. Turn the dough onto a work surface and knead briefly until the loose flour is just moistened. The dough will still be scrappy and uneven.
 
