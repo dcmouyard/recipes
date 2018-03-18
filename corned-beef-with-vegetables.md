@@ -1,6 +1,11 @@
 # Corned Beef with Vegetables
 
+★★★☆☆
+
 Serves: 8-10
+Time: 4½ hours
+
+Need to corn the beef for at least 6 days. Needs more flavor. Need to cook the beef for much longer than 3 hours to make it tender enough.
 
 ## Ingredients
 
@@ -15,7 +20,6 @@ Serves: 8-10
 * 1 tablespoon coriander seeds
 * 6 carrots, peeled, halved crosswise, thick ends halved lengthwise
 * 1½ pounds small red potatoes, unpeeled
-* 1 head green cabbage (2 pounds), uncored, cut into 8 wedges
 
 ## Instructions
 
@@ -37,11 +41,9 @@ Serves: 8-10
 
 4. Remove pot from oven and turn off oven. Transfer brisket to large oven-safe platter, ladle 1 cup of cooking liquid over meat, cover, and return to oven to keep warm.
 
-5. Add carrots and potatoes to pot and bring to simmer over high heat. Reduce heat to medium-low, cover, and simmer until vegetables begin to soften, 7 to 10 minutes.
+5. Add carrots and potatoes to pot and bring to simmer over high heat. Reduce heat to medium-low, cover, and simmer until vegetables begin to soften, 20 to 25 minutes.
 
-6. Add cabbage to pot, increase heat to high, and return to simmer. Reduce heat to low, cover, and simmer until all vegetables are tender, 12 to 15 minutes.
-
-7. While vegetables cook, transfer beef to cutting board and slice ¼ inch thick against grain. Return beef to platter. Using slotted spoon, transfer vegetables to platter with beef. Moisten with additional broth and serve.
+6. While vegetables cook, transfer beef to cutting board and slice ¼ inch thick against grain. Return beef to platter. Using slotted spoon, transfer vegetables to platter with beef. Moisten with additional broth and serve.
 
 ## Resources
 
