@@ -1,11 +1,11 @@
 # Irish Soda Bread
 
-★★★★☆
+★★★★★
 
 Serves: 1 loaf
-Time: 2 hours
+Time: 85 minutes
 
-You can replace the cake flour with all-purpose flour, but the bread will be heavier with an overly thick crust.
+You can replace the cake flour with all-purpose flour, but the bread will be much heavier with an overly thick crust.
 
 ## Ingredients
 

@@ -18,6 +18,7 @@ Rating | Minutes | Recipe
 ★★★★★ |  70 | Pasta alla Norcina
 ★★★★★ |  75 | Beef Stir-Fry
 ★★★★★ |  80 | Dirty Rice
+★★★★★ |  85 | Irish Soda Bread
 ★★★★★ |  90 | Aligot
 ★★★★★ |  90 | Breakfast Frittata
 ★★★★★ |  90 | Brownies
