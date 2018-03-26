@@ -32,6 +32,7 @@ Rating | Minutes | Recipe
 ★★★★★ | 150 | Cast-Iron Sausage Lasagna
 ★★★★★ | 150 | Coq au Vin
 ★★★★★ | 150 | Shepherd’s Pie
+★★★★★ | 180 | Dublin Coddle
 ★★★★★ | 180 | Steak Fries
 ★★★★★ | 210 | Ranch Chili
 ★★★★★ | 240 | Chile con Carne

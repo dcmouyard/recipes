@@ -1,6 +1,11 @@
 # Dublin Coddle
 
+★★★★★
+
 Serves: 4-6
+Time: 3 hours
+
+Add more potatoes next time. Consider replacing some of the chicken stock with Guinness Draught.
 
 ## Ingredients
 
