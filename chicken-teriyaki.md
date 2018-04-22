@@ -22,6 +22,25 @@ You also keep the bone in, but move the oven rack down to 12 inches from the bro
 
 3. Transfer chicken to cutting board; let rest 2 to 3 minutes. Cut meat crosswise into ½-inch- wide strips. Transfer chicken to serving platter; stir teriyaki sauce to recombine, then drizzle to taste over chicken. Serve immediately, passing remaining sauce separately.
 
+## Nutritional information
+
+Per serving (serves 4)
+
+Nutrient               | Amount
+:--------------------- | -----:
+Calories               | 785
+Fat                    | 49g
+&emsp;Saturated        | 13g
+&emsp;Trans            | 0g
+&emsp;Monounsaturated  | 20g
+&emsp;Poly unsaturated | 10g
+Cholesterol            | 292mg
+Sodium                 | 1992mg
+Carbs                  | 28g
+Dietary Fiber          | 0g
+Sugar                  | 25g
+Protein                | 51g
+
 ## Resources
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/1767-chicken-teriyaki)
