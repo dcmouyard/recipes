@@ -23,6 +23,25 @@ It’s important to follow visual cues, as pan thickness will affect cooking tim
 
 3. Add egg mixture and, using rubber spatula, constantly and firmly scrape along bottom and sides of skillet until eggs begin to clump and spatula just leaves trail on bottom of pan, 1½ to 2½ minutes. Reduce heat to low and gently but constantly fold eggs until clumped and just slightly wet, 30 to 60 seconds. Immediately transfer eggs to warmed plates and season with salt to taste. Serve immediately.
 
+## Nutritional information
+
+Per serving (serves 4)
+
+Nutrient              | Amount
+:-------------------- | -----:
+Calories              | 189
+Fat                   | 14g
+&emsp;Saturated       | 6g
+&emsp;Trans           | 0g
+&emsp;Monounsaturated | 4g
+&emsp;Polyunsaturated | 2g
+Cholesterol           | 385mg
+Sodium                | 276mg
+Carbs                 | 1g
+Dietary Fiber         | 0g
+Sugar                 | 1g
+Protein               | 13g
+
 ## Resources
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/6604-perfect-scrambled-eggs)

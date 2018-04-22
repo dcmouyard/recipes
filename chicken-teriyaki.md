@@ -26,20 +26,20 @@ You also keep the bone in, but move the oven rack down to 12 inches from the bro
 
 Per serving (serves 4)
 
-Nutrient               | Amount
-:--------------------- | -----:
-Calories               | 785
-Fat                    | 49g
-&emsp;Saturated        | 13g
-&emsp;Trans            | 0g
-&emsp;Monounsaturated  | 20g
-&emsp;Poly unsaturated | 10g
-Cholesterol            | 292mg
-Sodium                 | 1992mg
-Carbs                  | 28g
-Dietary Fiber          | 0g
-Sugar                  | 25g
-Protein                | 51g
+Nutrient              | Amount
+:-------------------- | -----:
+Calories              | 785
+Fat                   | 49g
+&emsp;Saturated       | 13g
+&emsp;Trans           | 0g
+&emsp;Monounsaturated | 20g
+&emsp;Polyunsaturated | 10g
+Cholesterol           | 292mg
+Sodium                | 1992mg
+Carbs                 | 28g
+Dietary Fiber         | 0g
+Sugar                 | 25g
+Protein               | 51g
 
 ## Resources
 

@@ -62,20 +62,20 @@ Serves: 8
 
 Per serving (serves 8)
 
-Nutrient               | Amount
-:--------------------- | -----:
-Calories               | 731
-Fat                    | 37g
-&emsp;Saturated        | 21g
-&emsp;Trans            | 0g
-&emsp;Monounsaturated  | 11g
-&emsp;Poly unsaturated | 2g
-Cholesterol            | 291mg
-Sodium                 | 403mg
-Carbs                  | 91g
-Dietary Fiber          | 1g
-Sugar                  | 66g
-Protein                | 11g
+Nutrient              | Amount
+:-------------------- | -----:
+Calories              | 731
+Fat                   | 37g
+&emsp;Saturated       | 21g
+&emsp;Trans           | 0g
+&emsp;Monounsaturated | 11g
+&emsp;Polyunsaturated | 2g
+Cholesterol           | 291mg
+Sodium                | 403mg
+Carbs                 | 91g
+Dietary Fiber         | 1g
+Sugar                 | 66g
+Protein               | 11g
 
 ## Resources
 
