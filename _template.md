@@ -29,20 +29,20 @@ Notes about this recipe.
 
 Per serving (serves _)
 
-Nutrient           | Amount
-:----------------- | -----:
-Calories           |
-Fat                |
-- Saturated        |
-- Trans            |
-- Monounsaturated  |
-- Poly unsaturated |
-Cholesterol        |
-Sodium             |
-Carbs              |
-Dietary Fiber      |
-Sugar              |
-Protein            |
+Nutrient               | Amount
+:--------------------- | -----:
+Calories               |
+Fat                    |
+&emsp;Saturated        |
+&emsp;Trans            |
+&emsp;Monounsaturated  |
+&emsp;Poly unsaturated |
+Cholesterol            |
+Sodium                 |
+Carbs                  |
+Dietary Fiber          |
+Sugar                  |
+Protein                |
 
 ## Resources
 
