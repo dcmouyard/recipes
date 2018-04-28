@@ -1,8 +1,11 @@
 # Chicken Teriyaki
 
-Serves: 4-6
+★★★★★
 
-You also keep the bone in, but move the oven rack down to 12 inches from the broiler and cook for  20-26 minutes.
+Serves: 4-6
+Time: 60 minutes
+
+You can also keep the bone in, but move the oven rack down to 12 inches from the broiler and cook for  20-26 minutes.
 
 ## Ingredients
 
@@ -11,7 +14,7 @@ You also keep the bone in, but move the oven rack down to 12 inches from the bro
 * ½ cup sugar
 * ½ teaspoon grated fresh ginger
 * 1 clove garlic, minced or pressed through garlic press (about 1 teaspoon)
-* 2 tablespoons mirin (or 2 tablespoons white wine mixed with 1 teaspoon sugar)
+* 2 tablespoons mirin (or white wine)
 * ½ teaspoon cornstarch
 
 ## Instructions

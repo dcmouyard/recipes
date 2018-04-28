@@ -10,6 +10,7 @@ Rating | Minutes | Recipe
 ★★★★★ |  30 | Fettuccine with Butter and Parmigiano
 ★★★★★ |  45 | French Toast
 ★★★★★ |  45 | Waffles
+★★★★★ |  60 | Chicken Teriyaki
 ★★★★★ |  60 | Macaroni and Cheese
 ★★★★★ |  60 | Mashed Sweet Potatoes
 ★★★★★ |  60 | Mexican Rice
