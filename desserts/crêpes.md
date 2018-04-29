@@ -1,6 +1,9 @@
 # Crêpes
 
+★★★★☆
+
 Serves: 4
+Time: 45 minutes
 
 Crêpes will give off steam as they cook, but if at any point the skillet begins to smoke, remove it from the heat immediately and turn down the heat. Stacking the crêpes on a wire rack allows excess steam to escape so they won’t stick together. To allow for practice, the recipe yields 10 crêpes; only eight are needed for the filling.
 
@@ -28,7 +31,7 @@ Crêpes will give off steam as they cook, but if at any point the skillet begins
 
 3. Using paper towel, wipe out skillet, leaving thin film of oil on bottom and sides. Increase heat to medium and let skillet heat for 1 minute. After 1 minute, test heat of skillet by placing 1 teaspoon batter in center and cook for 20 seconds. If mini crêpe is golden brown on bottom, skillet is properly heated; if it is too light or too dark, adjust heat accordingly and retest.
 
-4. Pour ¼ cup batter into far side of pan and tilt and shake gently until batter evenly covers bottom of pan. Cook crêpe without moving it until top surface is dry and crêpe starts to brown at edges, loosening crêpe from side of pan with rubber spatula, about 25 seconds.
+4. Pour ½ cup batter into far side of pan and tilt and shake gently until batter evenly covers bottom of pan. Cook crêpe without moving it until top surface is dry and crêpe starts to brown at edges, loosening crêpe from side of pan with rubber spatula, about 25 seconds.
 
 5. Gently slide spatula underneath edge of crêpe, grasp edge with fingertips, and flip crêpe. Cook until second side is lightly spotted, about 20 seconds.
 
