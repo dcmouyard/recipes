@@ -1,6 +1,9 @@
 # Drunken Beans
 
+★★★★☆
+
 Serves: 6
+Time: 150 minutes
 
 The finished beans can be refrigerated for up to 2 days. Before reheating, thin beans slightly with water.
 
