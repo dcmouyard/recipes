@@ -1,6 +1,7 @@
 # Red Beans and Rice
 
 Serves: 6-8
+Time: 225 minutes
 
 ## Ingredients
 
