@@ -1,6 +1,9 @@
 # Pork Lo Mein
 
+★★★★☆
+
 Serves: 4
+Time: 2 hours
 
 ## Ingredients
 

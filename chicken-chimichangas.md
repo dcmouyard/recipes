@@ -1,6 +1,9 @@
 # Chicken Chimichangas
 
+★★★★★
+
 Serves: 4
+Time: 120 minutes
 
 ## Ingredients
 
@@ -31,11 +34,8 @@ Serves: 4
 
 4. Whisk flour and water together in bowl. Stack tortillas on plate and microwave, covered, until pliable, about 1 minute. Working 1 at a time, place one-quarter of chicken mixture in center of warm tortilla. Brush edges of tortilla with flour paste. Wrap top and bottom of tortilla tightly over filling. Brush ends of tortilla with paste and fold into center, pressing firmly to seal.
 
-5. (Fried option) Heat remaining 3 cups oil in clean pot over medium-high heat until 325 degrees. Place 2 chimichangas, seam side down, in oil. Fry, adjusting burner as necessary to maintain oil temperature between 300 and 325 degrees, until chimichangas are deep golden brown, about 2 minutes per side. Drain on wire rack set inside rimmed baking sheet. Bring oil back to 325 degrees and repeat with remaining chimichangas. Serve.
-
-5. (Baked option) Place rimmed baking sheet in oven and heat oven to 450 degrees. Brush wrapped tortillas with oil and arrange, seam-side down, on preheated baking sheet. Bake until crisp and golden, 8 to 10 minutes.
+5. Heat remaining 3 cups oil in clean pot over medium-high heat until 325 degrees. Place 2 chimichangas, seam side down, in oil. Fry, adjusting burner as necessary to maintain oil temperature between 300 and 325 degrees, until chimichangas are deep golden brown, about 2 minutes per side. Drain on wire rack set inside rimmed baking sheet. Bring oil back to 325 degrees and repeat with remaining chimichangas. Serve.
 
 ## Resources
 
 * [Cook’s Country](https://www.cookscountry.com/recipes/6572-chicken-chimichangas)
-* [Cook’s Country](https://www.cookscountry.com/recipes/5003-oven-baked-chicken-chimichangas)
