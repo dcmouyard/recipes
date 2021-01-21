@@ -12,7 +12,7 @@ Notes about this recipe.
 * 3 pounds chicken wings
 * 2 tablespoons vegetable oil
 * Cooking spray
-* ½ cup brown sugar
+* ½ cup brown sugar (too sweet, maybe ⅓ cup?)
 * 2 tablespoons paprika
 * 1 tablespoon black pepper
 * 1 tablespoon table salt
