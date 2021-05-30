@@ -9,7 +9,7 @@ Time: 40 minutes
 
 * 2 cups long grain white rice
 * 2 tablespoons unsalted butter
-* 3 cups water
+* 3 cups water (or unsalted chicken stock)
 * 1 teaspoon salt
 
 ## Instructions
