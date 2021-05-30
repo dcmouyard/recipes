@@ -5,13 +5,11 @@
 Serves: 8-10
 Time: 3 Hours
 
-Needs more tomato flavor.
-
 ## Ingredients
 
 * 1 cup low-sodium chicken broth
 * 1 cup beef broth
-* 8 teaspoons unflavored gelatin
+* 8 teaspoons unflavored gelatin (1-ounce box)
 * 1 onion, chopped coarse
 * 1 large carrot, peeled and chopped coarse
 * 1 celery rib, chopped coarse
@@ -24,6 +22,8 @@ Needs more tomato flavor.
 * 3 tablespoons minced fresh sage
 * 1 (6-ounce) can tomato paste
 * 2 cups dry red wine
+* 1 cup whole milk (optional)
+* 1 quart whole milk (optional)
 * Salt and pepper
 * 1 pound pappardelle or tagliatelle pasta
 * Parmesan cheese, grated, for serving
@@ -46,14 +46,17 @@ Needs more tomato flavor.
 
 8. Stir in wine, scraping pan with wooden spoon to loosen fond. Simmer until sauce has thickened, about 5 minutes.
 
-9. Stir in broth mixture and return to simmer. Reduce heat to low and cook at bare simmer until thickened (wooden spoon should leave trail when dragged through sauce), about 1½ hours.
+9. Stir in broth mixture and return to simmer. Reduce heat to low and cook at bare simmer until thickened (wooden spoon should leave trail when dragged through sauce), about 1½-2 hours. (Optional: gradually add 1 cup whole milk while simmering)
 
-10. Season with salt and pepper to taste; cover and keep warm.
+10. (Optional) While sauce is simmering, simmer 1 quart whole milk in another pan, until it is reduced by half.
 
-11. Bring 4 quarts water to boil in large pot. Add pasta and 1 tablespoon salt and cook, stirring occasionally, until al dente. Reserve ¾ cup cooking water, then drain pasta and return it to pot.
+11. Season with salt and pepper to taste; cover and keep warm.
 
-12. Add half of sauce and cooking water to pasta and toss to combine. Transfer to serving bowl and serve, passing cheese separately.
+12. Bring 4 quarts water to boil in large pot. Add pasta and 1 tablespoon salt and cook, stirring occasionally, until al dente. Reserve ¾ cup cooking water, then drain pasta and return it to pot.
+
+13. Add half of sauce and cooking water to pasta and toss to combine. Transfer to serving bowl and serve, passing cheese separately.
 
 ## Resources
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/6835-ragu-alla-bolognese)
+* [](https://www.itchefs-gvci.com/index.php?option=com_content&view=article&id=587&Itemid=976)
