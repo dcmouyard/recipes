@@ -27,8 +27,9 @@ Rating | Minutes | Recipe
 ★★★★★ |  90 | Scalloped Potatoes
 ★★★★★ | 105 | Skillet Beef Stroganoff
 ★★★★★ | 120 | Chicken Chimichangas
+★★★★★ | 120 | Cincinnati Chili
 ★★★★★ | 120 | Noodle Cake with Stir-fried Chicken and Bok Choy
-★★★★★ | 120? | Mashed Potatoes
+★★★★★ | 120 | Mashed Potatoes
 ★★★★★ | 140 | Chicken Parmesan
 ★★★★★ | 140 | Meatloaf
 ★★★★★ | 150 | Cast-Iron Sausage Lasagna
@@ -41,5 +42,5 @@ Rating | Minutes | Recipe
 ★★★★★ | 240 | Deep Dish Pizza
 ★★★★★ | 240 | Kidney Beans and Rice
 ★★★★★ | 240 | Spaghetti and Meatballs
-★★★★★ | 240? | Stuffing
+★★★★★ | 240 | Stuffing
 ★★★★★ | 360 | Beef Burgundy
