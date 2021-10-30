@@ -121,8 +121,9 @@
 4. Barefoot Contessa Sinful Hot Chocolate Mix
 
 ### Hot Sauce
-1. Huy Fong Sriracha Hot Chili Sauce
-2. Frank’s RedHot Original Cayenne Pepper Sauce
+1. Cholula Chipotle Hot Sauce
+2. Huy Fong Sriracha Hot Chili Sauce
+3. Frank’s RedHot Original Cayenne Pepper Sauce
 
 ### Italian Dressing
 1. Good Seasons Italian All Natural Salad Dressing Mix
