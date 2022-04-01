@@ -21,7 +21,8 @@ Serves: 8-10
 * 2 pounds spaghetti or linguine
 * 2 tablespoons table salt
 * ¼ cup chopped fresh basil leaves
-* Grated Parmesan cheese for serving
+* Grated Parmesan or Pecorino Romano cheese (optional)
+* Crushed red pepper flakes (optional)
 
 ## Instructions
 
@@ -43,7 +44,7 @@ Serves: 8-10
 
 9. Stir ¼ cup chopped fresh basil leaves into sauce.
 
-10. Toss pasta with 1 cup sauce and reserved pasta cooking water so that sauce lightly coats pasta. Serve pasta, passing remaining sauce separately.
+10. Toss pasta with 1 cup sauce and reserved pasta cooking water so that sauce lightly coats pasta. Serve pasta, passing remaining sauce, cheese, and crushed red pepper flakes separately.
 
 ## Resources
 
