@@ -2,46 +2,48 @@
 
 Rating | Minutes | Recipe
 :----:|:---:| ---
-★★★★★ |  15 | Scrambled Eggs
-★★★★★ |  20 | Bacon
-★★★★★ |  20 | Pancakes
-★★★★★ |  20 | White Butter Sauce
-★★★★★ |  30 | Drop Biscuits
-★★★★★ |  30 | Fettuccine with Butter and Parmigiano
-★★★★★ |  40 | White Rice
-★★★★★ |  45 | French Toast
-★★★★★ |  45 | Waffles
-★★★★★ |  60 | Chicken Teriyaki
-★★★★★ |  60 | Macaroni and Cheese
-★★★★★ |  60 | Mashed Sweet Potatoes
-★★★★★ |  60 | Mexican Rice
-★★★★★ |  60 | Roasted Potatoes
-★★★★★ |  60 | Steak with Mushroom Sauce
-★★★★★ |  70 | Pasta alla Norcina
-★★★★★ |  75 | Beef Stir-Fry
-★★★★★ |  80 | Dirty Rice
-★★★★★ |  85 | Irish Soda Bread
-★★★★★ |  90 | Aligot
-★★★★★ |  90 | Breakfast Frittata
-★★★★★ |  90 | Brownies
-★★★★★ |  90 | Chicken Chow Mein
-★★★★★ |  90 | Scalloped Potatoes
-★★★★★ | 105 | Skillet Beef Stroganoff
-★★★★★ | 120 | Chicken Chimichangas
-★★★★★ | 120 | Cincinnati Chili
-★★★★★ | 120 | Noodle Cake with Stir-fried Chicken and Bok Choy
-★★★★★ | 120 | Mashed Potatoes
-★★★★★ | 140 | Chicken Parmesan
-★★★★★ | 140 | Meatloaf
-★★★★★ | 150 | Cast-Iron Sausage Lasagna
-★★★★★ | 150 | Coq au Vin
-★★★★★ | 150 | Shepherd’s Pie
-★★★★★ | 180 | Dublin Coddle
-★★★★★ | 180 | Steak Fries
-★★★★★ | 210 | Ranch Chili
-★★★★★ | 240 | Chile con Carne
-★★★★★ | 240 | Deep Dish Pizza
-★★★★★ | 240 | Kidney Beans and Rice
-★★★★★ | 240 | Spaghetti and Meatballs
-★★★★★ | 240 | Stuffing
-★★★★★ | 360 | Beef Burgundy
+★★★★★ |  15 | [Scrambled Eggs](scrambled-eggs.md)
+★★★★★ |  20 | [Bacon](bacon.md)
+★★★★★ |  20 | [Pancakes](pancakes.md)
+★★★★★ |  20 | [White Butter Sauce](white-butter-sauce.md)
+★★★★★ |  30 | [Drop Biscuits](breads/drop-biscuits.md)
+★★★★★ |  30 | [Fettuccine with Butter and Parmigiano](fettuccine-with-butter-and-parmigiano.md)
+★★★★★ |  40 | [White Rice](white-rice.md)
+★★★★★ |  45 | [French Toast](french-toast.md)
+★★★★★ |  45 | [Waffles](waffles.md)
+★★★★★ |  50 | [Chewy Chai-Spice Sugar Cookies](cookies/chewy-chai-spice-sugar.md)
+★★★★★ |  60 | [Chicken Teriyaki](chicken-teriyaki.md)
+★★★★★ |  60 | [Macaroni and Cheese](macaroni-and-cheese.md)
+★★★★★ |  60 | [Mashed Sweet Potatoes](mashed-sweet-potatoes.md)
+★★★★★ |  60 | [Mexican Rice](mexican-rice.md)
+★★★★★ |  60 | [Roasted Potatoes](roasted-potatoes.md)
+★★★★★ |  60 | [Salty Oatmeal Cookies](cookies/salty-oatmeal-cookies.md)
+★★★★★ |  60 | [Steak with Mushroom Sauce](steak-with-mushroom-sauce.md)
+★★★★★ |  70 | [Pasta alla Norcina](pasta-alla-norcina.md)
+★★★★★ |  75 | [Beef Stir-Fry](beef-stir-fry.md)
+★★★★★ |  80 | [Dirty Rice](dirty-rice.md)
+★★★★★ |  85 | [Irish Soda Bread](breads/irish-soda-bread.md)
+★★★★★ |  90 | [Aligot](aligot.md)
+★★★★★ |  90 | [Breakfast Frittata](breakfast-frittata.md)
+★★★★★ |  90 | [Brownies](desserts/browines.md)
+★★★★★ |  90 | [Chicken Chow Mein](chicken-chow-mein.md)
+★★★★★ |  90 | [Scalloped Potatoes](scalloped-potatoes.md)
+★★★★★ | 105 | [Skillet Beef Stroganoff](skillet-beef-stroganoff.md)
+★★★★★ | 120 | [Chicken Chimichangas](chicken-chimichangas.md)
+★★★★★ | 120 | [Cincinnati Chili](cincinnati-chili.md)
+★★★★★ | 120 | [Noodle Cake with Stir-fried Chicken and Bok Choy](noodle-cake-with-stir-fried-chicken-and-bok-choy.md)
+★★★★★ | 120 | [Mashed Potatoes](mashed-potatoes.md)
+★★★★★ | 140 | [Chicken Parmesan](chicken-parmesan.md)
+★★★★★ | 140 | [Meatloaf](meatloaf.md)
+★★★★★ | 150 | [Cast-Iron Sausage Lasagna](cast-iron-sausage-lasagna.md)
+★★★★★ | 150 | [Coq au Vin](coq-au-vin.md)
+★★★★★ | 150 | [Shepherd’s Pie](shepherd’s-pie.md)
+★★★★★ | 180 | [Dublin Coddle](dublin-coddle.md)
+★★★★★ | 180 | [Steak Fries](steak-fries.md)
+★★★★★ | 210 | [Ranch Chili](ranch-chili.md)
+★★★★★ | 240 | [Chile con Carne](chile-con-carne.md)
+★★★★★ | 240 | [Deep Dish Pizza](deep-dish-pizza.md)
+★★★★★ | 240 | [Kidney Beans and Rice](kidney-beans-and-rice.md)
+★★★★★ | 240 | [Spaghetti and Meatballs](spaghetti-and-meatballs.md)
+★★★★★ | 240 | [Stuffing](stuffing.md)
+★★★★★ | 360 | [Beef Burgundy](beef-burgundy.md)
