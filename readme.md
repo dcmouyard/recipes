@@ -8,6 +8,7 @@ Rating | Minutes | Recipe
 ★★★★★ |  20 | White Butter Sauce
 ★★★★★ |  30 | Drop Biscuits
 ★★★★★ |  30 | Fettuccine with Butter and Parmigiano
+★★★★★ |  40 | White Rice
 ★★★★★ |  45 | French Toast
 ★★★★★ |  45 | Waffles
 ★★★★★ |  60 | Chicken Teriyaki
