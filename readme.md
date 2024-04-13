@@ -42,6 +42,7 @@ Rating | Minutes | Recipe
 ★★★★★ | 210 | [Ranch Chili](ranch-chili.md)
 ★★★★★ | 240 | [Chile con Carne](chile-con-carne.md)
 ★★★★★ | 240 | [Deep Dish Pizza](deep-dish-pizza.md)
+★★★★★ | 240 | [Dinner Rolls](breads/dinner-rolls.md)
 ★★★★★ | 240 | [Kidney Beans and Rice](kidney-beans-and-rice.md)
 ★★★★★ | 240 | [Spaghetti and Meatballs](spaghetti-and-meatballs.md)
 ★★★★★ | 240 | [Stuffing](stuffing.md)
