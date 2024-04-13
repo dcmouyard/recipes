@@ -37,6 +37,7 @@ Rating | Minutes | Recipe
 ★★★★★ | 150 | [Cast-Iron Sausage Lasagna](cast-iron-sausage-lasagna.md)
 ★★★★★ | 150 | [Coq au Vin](coq-au-vin.md)
 ★★★★★ | 150 | [Shepherd’s Pie](shepherd’s-pie.md)
+★★★★★ | 180 | [Char Siu](char-siu.md)
 ★★★★★ | 180 | [Dublin Coddle](dublin-coddle.md)
 ★★★★★ | 180 | [Steak Fries](steak-fries.md)
 ★★★★★ | 210 | [Ranch Chili](ranch-chili.md)
