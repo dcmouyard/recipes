@@ -50,3 +50,4 @@ Try this using pork tenderloin medallions pounded thin or veal instead of chicke
 ## Resources
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/565-chicken-marsala)
+* [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/8562-better-chicken-marsala)
