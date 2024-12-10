@@ -1,7 +1,11 @@
 # Hawaiian Sweet Rolls
 
+★★★★★
+
 Makes: 18 rolls
 Time: 4 hours
+
+Can double this recipe without issue in a Kitchen Aid mixer. Can also halve recipe and cook in 8 by 8-inch baking dish.
 
 ## Ingredients
 
