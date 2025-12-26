@@ -48,6 +48,8 @@ Time: 90 minutes
 
 9. Stir in 1 tablespoon red wine vinegar and season with salt, pepper, and extra vinegar to taste. Serve.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/7388-cuban-style-picadillo)

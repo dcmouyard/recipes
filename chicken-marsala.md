@@ -47,7 +47,9 @@ Try this using pork tenderloin medallions pounded thin or veal instead of chicke
 
 11. Off heat, add lemon juice and any accumulated juices from chicken; whisk in butter 1 tablespoon at a time. Season to taste with salt and pepper, and stir in parsley. Pour sauce over chicken and serve immediately.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/565-chicken-marsala)
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/8562-better-chicken-marsala)

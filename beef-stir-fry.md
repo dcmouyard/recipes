@@ -45,6 +45,8 @@ Serve with white rice.
 
 8. Whisk sauce to recombine. Add to skillet and cook, stirring constantly, until sauce has thickened, about 30 seconds. Serve immediately.
 
-## Resources
+---
+
+## References
 
 * [Cooks’s Illustrated](https://www.cooksillustrated.com/recipes/8719-beef-stir-fry-with-bell-peppers-and-black-pepper-sauce)

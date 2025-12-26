@@ -46,6 +46,8 @@ You can use 2 pounds meatloaf mix in place of the ground beef, pork, and veal. I
 
 7. Cool at least 20 minutes. Simmer remaining glaze over medium heat until thickened slightly. Slice meat loaf and serve with extra glaze passed separately.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/1582-bacon-wrapped-meatloaf-with-brown-sugar-ketchup-glaze)

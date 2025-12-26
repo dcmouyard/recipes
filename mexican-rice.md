@@ -35,6 +35,8 @@ Time: 1 hour
 
 7. Stir in cilantro and reserved minced jalapeño with seeds to taste. Serve immediately, passing lime wedges separately.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/5982-mexican-rice)

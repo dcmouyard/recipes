@@ -49,7 +49,9 @@ Goes well with egg noodles or mashed potatoes.
 
 11. Off heat, stir in remaining 2 tablespoons butter and reserved 1 tablespoon wine. Season to taste with salt. Return chicken to pot and top with minced parsley. Serve immediately.
 
-## Resources
+---
+
+## References
 
 * [Cook’s Illustrated](http://www.cooksillustrated.com/recipes/3189-modern-coq-au-vin)
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/8255-coq-au-riesling)

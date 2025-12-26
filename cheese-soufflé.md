@@ -40,6 +40,8 @@ Time: 105 minutes
 
 5. Bake until the top is nicely browned, the center jiggles slightly, and an instant-read thermometer inserted through the top side registers 170 degrees, 25 to 30 minutes. Serve immediately.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/5708-cheese-souffle-with-shallots-and-herbs)

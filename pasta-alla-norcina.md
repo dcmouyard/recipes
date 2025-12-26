@@ -50,6 +50,8 @@ Time: 70 minutes
 
 13. Add sauce, parsley, and lemon juice to pasta and toss well to coat. Before serving, adjust consistency with remaining reserved cooking water as needed and season with salt and pepper to taste.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/7667-pasta-alla-norcina)

@@ -51,6 +51,8 @@ Time: 4 hours
 
 13. Slowly whisk mixture into chili and simmer until chili is slightly thickened, 5 to 10 minutes. Season with salt and pepper. Serve. (Chili can be refrigerated for up to 3 days.)
 
-## Resources
+---
+
+## References
 
 * [Cooks’s Country](https://www.cookscountry.com/recipes/4081-chili-con-carne)

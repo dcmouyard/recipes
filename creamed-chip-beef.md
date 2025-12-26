@@ -27,6 +27,8 @@ Serves: 4-6
 
 3. Stir beef and nutmeg into sauce and cook until beef is heated through, about 2 minutes. Season with pepper to taste. Spoon over toast and sprinkle with chives. Serve.
 
-## Resources
+---
+
+## References
 
 * [Cook’s Country](https://www.cookscountry.com/recipes/6882-creamed-chipped-beef)

@@ -45,6 +45,8 @@ Time: 90 minutes
 
 11. Repeat with remaining 2 teaspoons oil, noodles, and sauce. When second batch of noodles is cooked, add contents of bowl back to skillet and toss to combine. Cook, without stirring, until everything is warmed through, 1 to 1½ minutes. Transfer to platter and serve immediately.
 
-## Resources
+---
+
+## References
 
 * [Cook’s Illustrated](https://www.cooksillustrated.com/recipes/7029-thai-style-stir-fried-noodles-with-chicken-and-broccolini)

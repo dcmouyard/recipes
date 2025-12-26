@@ -32,6 +32,8 @@ Serves: 4
 
 4. Remove skillet from heat and spoon glaze evenly over salmon fillets. Transfer skillet to oven and cook until center of thickest part of fillets registers 125 degrees on instant-read thermometer and is still translucent when cut into with paring knife, 7 to 10 minutes. Transfer fillets to platter or individual plates and serve.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/6319-glazed-salmon)

@@ -40,6 +40,8 @@ Try doubling the recipe next time (with less liquid) and cook noodles separately
 
 8. Off heat, stir in ⅔ cup sour cream and 2 teaspoons lemon juice. Season with salt and pepper. Serve.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/3543-skillet-beef-stroganoff)

@@ -44,6 +44,8 @@ Dietary Fiber         | 0g
 Sugar                 | 25g
 Protein               | 51g
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/1767-chicken-teriyaki)

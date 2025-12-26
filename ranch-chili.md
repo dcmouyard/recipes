@@ -44,6 +44,8 @@ If not using canned kidney beans, let then soak overnight.
 
 10. Add beans, reduce heat to low, and simmer, uncovered, stirring occasionally, for 30 minutes. Adjust seasoning with additional salt and serve.
 
-## Resources
+---
+
+## References
 
 * [Cook’s Country](https://www.cookscountry.com/recipes/2097-ranch-chili)

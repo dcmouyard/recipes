@@ -50,6 +50,8 @@ Time: 4 hours
 
 6. For each pizza, sprinkle 2 cups mozzarella evenly over surface of dough. Spread 1 cup tomato sauce over cheese and sprinkle 2 tablespoons Parmesan over sauce. Bake until crust is golden brown, 20 to 30 minutes. Remove pizza from oven and let rest 10 minutes before slicing and serving.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/5033-chicago-style-deep-dish-pizza)

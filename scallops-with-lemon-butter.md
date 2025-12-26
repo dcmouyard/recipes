@@ -38,7 +38,9 @@ Use “dry” scallops (those without chemical additives). If you can only find 
 
 6. Transfer scallops to large plate and tent loosely with aluminum foil. Wipe out skillet with paper towels and repeat with remaining oil, scallops, and butter. Serve immediately with lemon wedges and sauce.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/4955-pan-seared-scallops)
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/4956-lemon-brown-butter)

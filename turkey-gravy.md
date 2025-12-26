@@ -41,6 +41,8 @@ Needs more turkey flavor.
 
 10. Season to taste with salt and pepper and serve with turkey. (Can be refrigerated up to 3 days; reheat in medium saucepan over medium heat until hot, about 8 minutes.)
 
-## Resources
+---
+
+## References
 
 * [America’s test Kitchen](https://www.americastestkitchen.com/recipes/498-turkey-gravy)

@@ -26,6 +26,8 @@ Time: 45 minutes
 
 3. Return chops and accumulated juices to skillet. Simmer, turning once or twice, until sauce glazes chops and meat registers 145 degrees, 3 to 5 minutes. Transfer chops and glaze to platter. Serve.
 
-## Resources
+---
+
+## References
 
 * [Cook’s Country](https://www.cookscountry.com/recipes/3259-chinese-glazed-pork-chops)

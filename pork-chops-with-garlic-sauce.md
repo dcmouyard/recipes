@@ -40,7 +40,9 @@ Buy chops of similar thickness so that they cook at the same rate. If using tabl
 
 9. Off heat, stir in thyme and vinegar, then whisk in butter, 1 tablespoon at a time. Season with salt and pepper and serve with chops.
 
-## Resources
+---
+
+## References
 
 * [Cook’s Illustrated](http://www.cooksillustrated.com/recipes/4656-pan-seared-thick-cut-pork-chops)
 * [Cook’s Illustrated](https://www.cooksillustrated.com/recipes/4657-garlic-and-thyme-pan-sauce)

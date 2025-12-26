@@ -45,6 +45,8 @@ Need to corn the beef for at least 6 days. Needs more flavor. Need to cook the b
 
 6. While vegetables cook, transfer beef to cutting board and slice ¼ inch thick against grain. Return beef to platter. Using slotted spoon, transfer vegetables to platter with beef. Moisten with additional broth and serve.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/8721-home-corned-beef-with-vegetables)

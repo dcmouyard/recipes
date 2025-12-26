@@ -23,6 +23,8 @@ Time: 1 hour
 
 4. Remove cover, sprinkle with cheese and bake uncovered for another 10 minutes, or until cheese is melted and bubbly.
 
-## Resources
+---
+
+## References
 
 * [allrecipes](http://allrecipes.com/recipe/25407/reuben-casserole/)

@@ -40,6 +40,8 @@ You can substitute 2¼ cups chicken broth and 1½ cups apple cider for the 3¾ c
 
 8. Melt remaining 3 tablespoons butter in microwave and brush evenly over top of stuffing. Transfer skillet to oven and bake until center of stuffing is hot and top is golden brown, about 20 minutes, rotating skillet halfway through baking. Let cool for 10 minutes.
 
-## Resources
+---
+
+## References
 
 * [Cook’s Country](https://www.cookscountry.com/recipes/7569-extra-crispy-skillet-stuffing)

@@ -23,6 +23,8 @@ Time: 20 minutes
 
 4. Using 2 spatulas, flip fillets and transfer skillet to oven. Roast fillets until centers are just opaque and register 135 degrees on instant-read thermometer, 7 to 10 minutes. Immediately transfer to serving plates and serve with lemon wedges.
 
-## Resources
+---
+
+## References
 
 * [Cook’s Illustrated](http://www.cooksillustrated.com/recipes/5865-skillet-roasted-fish-fillets)

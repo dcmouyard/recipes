@@ -43,6 +43,8 @@ Time: 3 hours (plus overnight marinade)
 
 11. Transfer pork to carving board, charred side up, and let rest for 10 minutes. Slice pork crosswise into ½-inch-thick strips and serve.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/9085-chinese-barbecue-pork-char-siu)

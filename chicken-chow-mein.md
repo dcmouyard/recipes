@@ -40,6 +40,8 @@ Notes about this recipe.
 
 5. Whisk broth mixture to recombine, then add to skillet and cook until thickened and chicken is cooked through, about 2 minutes. Add bean sprouts and noodles and toss until sauce evenly coats noodles, about 1 minute. Transfer to platter and sprinkle with scallion greens. Serve.
 
-## Resources
+---
+
+## References
 
 * [Cook’s Country](https://www.cookscountry.com/recipes/8075-chicken-chow-mein)

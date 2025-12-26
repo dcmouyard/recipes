@@ -31,6 +31,8 @@ Time: 45 minutes
 
 6. Serve warm, passing maple syrup separately.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/4598-french-toast)

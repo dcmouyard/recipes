@@ -80,6 +80,8 @@ Serve with pasta.
 
 10. Transfer chicken to serving platter and top each cutlet with 2 tablespoons sauce. Sprinkle with basil and serve immediately, passing remaining sauce separately.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/7323-best-chicken-parmesan)

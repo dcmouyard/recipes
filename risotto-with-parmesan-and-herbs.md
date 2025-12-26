@@ -30,7 +30,9 @@ Serves:
 
 4. Add ¾ cup hot broth mixture and stir gently and constantly until risotto becomes creamy, about 3 minutes. Stir in Parmesan. Remove pot from heat, cover, and let stand 5 minutes. Stir in remaining 2 tablespoons butter, lemon juice, parsley, and chives; season with salt and pepper to taste. If desired, add up to ½ cup remaining broth mixture to loosen texture of risotto. Serve immediately.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/5947-almost-hands-free-risotto-with-parmesan-and-herbs)
 * [America’s Test Kitchen](https://www.americastestkitchen.com/episode/303-easier-italian-favorites)

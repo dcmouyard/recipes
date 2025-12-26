@@ -26,6 +26,8 @@ The potatoes must be soaked in cold water, fried once, cooled, and then fried a 
 
 6. Transfer fries to the paper towel-lined rack to drain. Season to taste with salt and pepper. Serve immediately.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/1845-steak-fries)

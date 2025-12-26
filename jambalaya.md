@@ -43,7 +43,9 @@ Serves: 4-6
 
 12. Shred the chicken using two forks. Stir the parsley and shredded chicken into the rice and season with salt and pepper to taste. Serve immediately.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/2291-skillet-jambalaya)
 * [Cook’s Country](http://www.cookscountry.com/recipes/4849-jambalaya)

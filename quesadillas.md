@@ -36,7 +36,9 @@ Cooling the quesadillas before cutting is important; straight from the oven the 
 
 9. Remove from oven and press quesadillas gently with spatula to deflate any air bubbles. Transfer to wire rack and let cool for 5 minutes. Slice each quesadilla into 4 wedges and serve.
 
-## Resources
+---
+
+## References
 
 * [Cook’s Country](https://www.cookscountry.com/recipes/8462-quesadillas-for-a-crowd)
 * [Cook’s Country](https://www.cookscountry.com/recipes/8463-chorizo-quesadillas-for-a-crowd)

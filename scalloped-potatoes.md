@@ -33,6 +33,8 @@ Time: 90 minutes
 
 6. Cool for 5 minutes before serving.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/2098-holiday-scalloped-potatoes)

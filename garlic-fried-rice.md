@@ -19,6 +19,8 @@ Time: 15 minutes
 
 3. Add reserved garlic to rice and toss to combine. Serve immediately.
 
-## Resources
+---
+
+## References
 
 * [Serious Eats](https://www.seriouseats.com/garlic-fried-rice-recipe)

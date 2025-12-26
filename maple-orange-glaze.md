@@ -20,6 +20,8 @@ Notes about this recipe.
 
 1. Combine all ingredients in small saucepan. Cook over medium heat, stirring occasionally, until mixture is thick, syrupy, and reduced to 1 cup, 5 to 10 minutes.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/3906-glazed-spiral-sliced-ham)

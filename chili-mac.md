@@ -46,6 +46,8 @@ Doubling this recipe will not fit in the Dutch Oven. :)
 
 9. Stir in the cooked pasta and season with salt and pepper to taste. Pour into a 9 by 13-inch baking dish (or a shallow casserole dish of similar size) and sprinkle with the cheese. Bake until the cheese is melted and browned, about 15 minutes. Cool for 5 to 10 minutes before serving.
 
-## Resources
+---
+
+## References
 
 * [Cook’s Illustrated](https://www.cooksillustrated.com/recipes/5211-chili-mac)

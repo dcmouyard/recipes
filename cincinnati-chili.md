@@ -44,7 +44,9 @@ Time: 2 hours
 
 7. Best served with spaghetti, shredded cheddar cheese, dark kidney beans, diced onions, and oyster crackers.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/1816-cincinnati-chili)
 * [Cook’s Illustrated](https://www.cooksillustrated.com/recipes/1816-cincinnati-chili)

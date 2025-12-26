@@ -26,6 +26,8 @@ Time: 1 hour
 
 6. Season with salt and pepper to taste and serve immediately.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/4954-crisp-roasted-potatoes)

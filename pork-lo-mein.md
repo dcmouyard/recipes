@@ -61,6 +61,8 @@ Dietary Fiber         | 7g
 Sugar                 | 8g
 Protein               | 43g
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/4411-pork-stir-fry-with-noodles-lo-mein)

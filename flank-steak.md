@@ -34,7 +34,9 @@ Serves: 4
 
 6. Stir in any accumulated meat juices. Off heat, whisk in butter, 1 piece at a time, until melted and sauce is thickened and glossy. Stir in rosemary and ¼ teaspoon balsamic vinegar. Season with salt and pepper to taste, spoon over meat, and serve.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/8495-pan-seared-flank-steak-with-mustard-chive-butter)
 * [Cook’s Illustrated](https://www.cooksillustrated.com/features/8439-boosting-the-basics-two-wine-pan-sauces-to-dress-up-any-meal)

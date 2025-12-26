@@ -33,7 +33,9 @@ Make sure the pan is smoking hot, and stir the rice constantly when cooking. If 
 
 4. Stir in egg and scallion greens and cook, stirring constantly, until heated through, about 1 minute.
 
-## Resources
+---
+
+## References
 
 * [Cook’s Country](http://www.cookscountry.com/recipes/3383-pork-fried-rice)
 * [Cook’s Country](http://www.cookscountry.com/recipes/4113-vegetable-fried-rice)

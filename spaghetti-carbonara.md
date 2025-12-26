@@ -32,6 +32,8 @@ To help the sauced pasta stay creamy longer, warm the mixing bowl (and the servi
 
 7. Slowly whisk ½ cup reserved cooking water into Pecorino mixture. Gradually pour Pecorino mixture over spaghetti, tossing to coat. Add bacon mixture and toss to combine. Let spaghetti rest, tossing frequently, until sauce has thickened slightly and coats spaghetti, 2 to 4 minutes, adjusting consistency with remaining reserved cooking water if needed. Serve immediately.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/7325-foolproof-spaghetti-carbonara)

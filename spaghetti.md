@@ -46,6 +46,8 @@ Serves: 8-10
 
 10. Toss pasta with 1 cup sauce and reserved pasta cooking water so that sauce lightly coats pasta. Serve pasta, passing remaining sauce, cheese, and crushed red pepper flakes separately.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.cooksillustrated.com/recipes/4885-hearty-italian-meat-sauce-sunday-gravy)

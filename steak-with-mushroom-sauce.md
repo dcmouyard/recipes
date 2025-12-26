@@ -48,7 +48,9 @@ Time: 1 hour
 13. Arrange steaks on individual plates and spoon sauce over steaks; serve immediately.
 
 
-## Resources
+---
+
+## References
 
 * [Americas’s Test Kitchen](https://www.americastestkitchen.com/recipes/3564-pan-seared-thick-cut-strip-steaks)
 * [Americas’s Test Kitchen](http://www.github.com)

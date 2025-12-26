@@ -52,6 +52,8 @@ Best served over rice.
 
 11. Adjust seasonings to taste with salt, ground black pepper, and cayenne; serve.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/665-shrimp-and-sausage-gumbo-with-file)

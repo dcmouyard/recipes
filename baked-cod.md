@@ -26,6 +26,8 @@ Time: 40 minutes
 
 4. Bake until crumbs are golden brown and all but very center of fish has turned from translucent to opaque, about 15 minutes. Serve with lemon wedges.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/5273-fast-and-crunchy-baked-cod)

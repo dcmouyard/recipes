@@ -41,7 +41,9 @@ Goes well with egg noodles, mashed potatoes, or rice.
 
 8. Discard bay leaves, stir in parsley, and adjust seasonings with salt and pepper. Cover chops with sauce, sprinkle with reserved bacon, and serve immediately.
 
-## Resources
+---
+
+## References
 
 * [Cook’s Illustrated](http://www.cooksillustrated.com/recipes/407-smothered-pork-chops)
 * [Cook’s Country](https://www.cookscountry.com/recipes/3081-slow-cooked-smothered-pork-chops)

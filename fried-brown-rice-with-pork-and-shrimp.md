@@ -48,7 +48,8 @@ Shrimp and pork didn’t go well together. Leftover white rice has a better text
 
 10. Remove from heat and stir in scallion greens. Transfer to warmed platter and serve.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/8419-fried-brown-rice-with-pork-and-shrimp)
-

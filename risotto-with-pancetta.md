@@ -28,6 +28,8 @@ When the rice is done, stir in a little extra liquid as the sauce will set up a 
 
 4. Stir in cheese. Serve on a wide platter or individual plates with additional cheese passed separately.
 
-## Resources
+---
+
+## References
 
 * [Cook’s Illustrated](https://www.cooksillustrated.com/recipes/266-basic-risotto)

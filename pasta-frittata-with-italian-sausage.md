@@ -36,6 +36,8 @@ Time: 2 hours
 
 7. Remove skillet from heat and let stand for 5 minutes. Using your hand or pan lid, invert frittata onto cutting board. Cut into wedges and serve.
 
-## Resources
+---
+
+## References
 
 * [Cook’s Illustrated](https://www.cooksillustrated.com/recipes/7980-pasta-frittata-with-sausage-and-hot-peppers)

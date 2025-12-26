@@ -56,7 +56,9 @@ Time: 3 Hours
 
 13. Add half of sauce and cooking water to pasta and toss to combine. Transfer to serving bowl and serve, passing cheese separately.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/6835-ragu-alla-bolognese)
 * [](https://www.itchefs-gvci.com/index.php?option=com_content&view=article&id=587&Itemid=976)

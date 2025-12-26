@@ -34,7 +34,9 @@ Dietary Fiber         | 0g
 Sugar                 | 0g
 Protein               | 10g
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/771-oven-fried-bacon)
 * [America’s Test Kitchen](https://www.americastestkitchen.com/episode/87-bacon-eggs-and-homefries)

@@ -82,6 +82,8 @@ Serve with boiled potatoes, mashed potatoes, or buttered egg noodles.
 
 21. Adjust seasonings with salt and pepper and serve, sprinkling individual servings with minced parsley.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/188-beef-burgundy)

@@ -2,6 +2,9 @@
 
 ★★★★☆
 
+Serves:
+Time:
+
 Goes well with shrimp.
 
 ## Ingredients
@@ -30,6 +33,8 @@ Goes well with shrimp.
 
 6. Add scallion greens and ½ pound cooked meat, toss and cook for another minute.
 
-## Resources
+---
+
+## References
 
 * [CJ Eats Recipes](https://cjeatsrecipes.com/din-tai-fung-fried-rice/)

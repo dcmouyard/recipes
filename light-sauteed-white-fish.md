@@ -25,6 +25,8 @@ Cook sauce recipes before cooking fish and keep warm until serving.
 
 4. Transfer the fillets to a serving platter and tent with foil. Add the remaining 1 tablespoon oil to the skillet and return to high heat until the oil is shimmering but not smoking; cook the remaining fillets in the same manner as the first ones. Place the second batch of fillets on the platter with the first batch; tilt the platter to discard any accumulated liquid. Serve the fish immediately with the lemon wedges or one of the related sauces, if desired.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/5342-light-sauteed-white-fish-fillets)

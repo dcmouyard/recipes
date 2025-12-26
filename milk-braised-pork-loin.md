@@ -47,6 +47,8 @@ Time: 5 hours
 
 13. Slice roast into ¼-inch-thick slices. Transfer slices to serving platter. Spoon sauce over slices, sprinkle with remaining 1 tablespoon parsley, and serve.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/7769-milk-braised-pork-loin)

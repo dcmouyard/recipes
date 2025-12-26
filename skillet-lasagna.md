@@ -42,6 +42,8 @@ Use less diced tomatoes and more garlic next time.
 
 8. Sprinkle with basil and remaining 2 tablespoons Parmesan. Serve.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/2243-skillet-lasagna)

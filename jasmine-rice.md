@@ -29,6 +29,8 @@ Time: 50 minutes
 
 8. Fluff and serve.
 
-## Resources
+---
+
+## References
 
 * [Chowhound](https://www.chowhound.com/post/perfect-cook-jasmine-rice-871889?commentId=8421140)

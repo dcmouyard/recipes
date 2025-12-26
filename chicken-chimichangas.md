@@ -36,6 +36,8 @@ Time: 120 minutes
 
 5. Heat remaining 3 cups oil in clean pot over medium-high heat until 325 degrees. Place 2 chimichangas, seam side down, in oil. Fry, adjusting burner as necessary to maintain oil temperature between 300 and 325 degrees, until chimichangas are deep golden brown, about 2 minutes per side. Drain on wire rack set inside rimmed baking sheet. Bring oil back to 325 degrees and repeat with remaining chimichangas. Serve.
 
-## Resources
+---
+
+## References
 
 * [Cook’s Country](https://www.cookscountry.com/recipes/6572-chicken-chimichangas)

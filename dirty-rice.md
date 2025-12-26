@@ -38,6 +38,8 @@ Can double the recipe and still fit in the Dutch oven.
 
 6. Remove from heat, discard bay leaves, and fluff rice with fork. Gently stir in drained meat and vegetable mixture, discarding any accumulated juices. Serve immediately.
 
-## Resources
+---
+
+## References
 
 * [Cook’s Country](http://www.cookscountry.com/recipes/2380-down-n-dirty-rice)

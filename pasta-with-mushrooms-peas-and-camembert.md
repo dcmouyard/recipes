@@ -41,6 +41,8 @@ So that the sauce and pasta finish cooking at the same time, drop the pasta into
 
 7. Add mushrooms, broth mixture, cheese, and chives to pasta in stockpot. Toss over medium-low heat until pasta absorbs most of liquid, about 2 minutes; serve immediately.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/1674-pasta-with-mushrooms-peas-and-camembert)

@@ -37,6 +37,8 @@ For a more intense molasses flavor, use dark brown sugar in place of light brown
 
 5. Adjust an oven rack to the middle position and heat the oven to 450 degrees. Pour the potato mixture into a 13 by 9-inch baking dish (or a shallow casserole dish of similar size). Spread the topping over the potatoes. Bake until the pecans are toasted and crisp, 10 to 15 minutes. Serve immediately.
 
-## Resources
+---
+
+## References
 
 * [Candied Sweet Potatoes](https://www.americastestkitchen.com/recipes/2304-candied-sweet-potato-casserole)

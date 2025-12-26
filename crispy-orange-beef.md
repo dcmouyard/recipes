@@ -40,6 +40,8 @@ Time: 2½ hours
 
 7. Add beef and scallions and toss. Transfer to platter and serve immediately.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/7271-crispy-orange-beef)

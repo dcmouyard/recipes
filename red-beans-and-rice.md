@@ -38,6 +38,8 @@ Time: 225 minutes
 
 6. Stir in sausage and 1 teaspoon red wine vinegar and cook until liquid is thick and beans are fully tender and creamy, about 30 minutes. Season to taste with salt, black pepper, and additional red wine vinegar. Serve over rice, sprinkling with scallions and passing hot sauce separately, if desired.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/5034-red-beans-and-rice)

@@ -35,6 +35,8 @@ Add more potatoes next time. Consider replacing some of the chicken stock with G
 
 7. Remove from oven and let cool for 10 minutes. Sprinkle with parsley and reserved bacon. Serve.
 
-## Resources
+---
+
+## References
 
 * [Cook’s Country](https://www.cookscountry.com/recipes/8760-dublin-coddle)

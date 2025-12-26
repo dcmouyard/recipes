@@ -41,6 +41,8 @@ Notes about this recipe.
 
 7. Using 2 forks, shred pork into bite-sized pieces. Toss with 1 cup sauce and season with salt and pepper. Serve, passing remaining sauce separately.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/5024-indoor-pulled-pork-with-sweet-and-tangy-barbecue-sauce)

@@ -41,6 +41,8 @@ Dietary Fiber         | 5g
 Sugar                 | 8g
 Protein               | 40g
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/9163-cast-iron-pan-roasted-cod-and-potatoes-with-orange-parsley-salad)

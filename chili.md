@@ -55,6 +55,8 @@ Goes well with lime wedges, cilantro, chopped red onions, shredded Monterey Jack
 
 11. Remove chili from oven and let stand, uncovered, for 10 minutes. Stir in any fat that has risen to top of chili, then add 2 tablespoons vinegar and season with salt to taste.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/8564-best-ground-beef-chili)

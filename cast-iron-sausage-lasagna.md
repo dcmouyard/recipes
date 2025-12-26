@@ -44,6 +44,8 @@ Time: 2½ hours
 
 10. Let lasagna cool for 10 minutes, then sprinkle with basil and serve.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/9188-cast-iron-sausage-lasagna)

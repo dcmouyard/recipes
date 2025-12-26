@@ -22,7 +22,9 @@ Time: 60 minutes
 
 2. Off heat, mash sweet potatoes in saucepan with potato masher, or transfer mixture to hopper of food mill and process into warmed serving bowl. Stir in pepper, maple syrup, and orange zest; serve immediately.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/421-mashed-sweet-potatoes)
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/422-maple-orange-mashed-sweet-potatoes)

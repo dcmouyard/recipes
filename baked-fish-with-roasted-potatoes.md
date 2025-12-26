@@ -33,6 +33,8 @@ Time: 2 hours
 
 6. Sprinkle with the vinegar and basil and serve with the lemon wedges.
 
-## Resources
+---
+
+## References
 
 * [Cook’s Illustrated](https://www.cooksillustrated.com/recipes/5346-light-baked-cod-fillets-with-roasted-potatoes)

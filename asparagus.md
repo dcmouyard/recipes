@@ -17,6 +17,8 @@ Serves: 6-8
 
 3. Cool asparagus 5 minutes and arrange on serving dish.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/295-simple-broiled-asparagus)

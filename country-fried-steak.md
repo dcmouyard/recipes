@@ -55,6 +55,8 @@ Too salty and too much onion in the gravy.
 
 11. Transfer the chicken-fried steaks to individual plates. Spoon a generous amount of gravy over each steak. Serve immediately, placing any remaining gravy in a small bowl.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/1844-chicken-fried-steak)

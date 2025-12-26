@@ -31,6 +31,8 @@ Time: 50 minutes
 
 6. Remove from heat, stir in Parmesan, and season with salt and pepper to taste. Add sauce and chives to pasta and toss to combine. Adjust consistency with reserved cooking water as needed. Serve with extra Parmesan.
 
-## Resources
+---
+
+## References
 
 * [Cook’s Country](https://www.cookscountry.com/recipes/8387-rigatoni-with-sausage-and-chives)

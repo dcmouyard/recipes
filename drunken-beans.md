@@ -54,6 +54,8 @@ Dietary Fiber         | 13g
 Sugar                 | 5g
 Protein               | 22g
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/8203-drunken-beans)

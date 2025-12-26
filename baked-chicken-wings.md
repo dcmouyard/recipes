@@ -31,6 +31,8 @@ Notes about this recipe.
 
 5. Bake until crispy and golden brown, approximately 45 minutes.
 
-## Resources
+---
+
+## References
 
 * [Dinner at the Zoo](https://www.dinneratthezoo.com/baked-chicken-wings/)

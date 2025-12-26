@@ -22,6 +22,8 @@ Serves: 6-8
 
 7. Slowly stir in 3 cups milk and simmer until sauce has thickened, about 5 minutes. Season with salt.
 
-## Resources
+---
+
+## References
 
 * [Cooks’s Country](https://www.cookscountry.com/recipes/4207-biscuits-and-sausage-gravy)

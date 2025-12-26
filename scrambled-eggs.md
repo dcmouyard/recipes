@@ -42,7 +42,9 @@ Dietary Fiber         | 0g
 Sugar                 | 1g
 Protein               | 13g
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/6604-perfect-scrambled-eggs)
 * [America’s Test Kitchen](https://www.americastestkitchen.com/videos/2154-perfect-scrambled-eggs)

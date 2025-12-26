@@ -38,6 +38,8 @@ Could use more beef and less carrots. Also, try doubling the broth and beer.
 
 5. Stir the potatoes and carrots into the stew and continue to cook in the oven, covered, until the beef and vegetables are tender, about 1 hour. Discard the bay leaves, stir in the remaining ¼ cup beer, and season with salt and pepper to taste. Stir in the parsley before serving.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/5091-guinness-beef-stew)

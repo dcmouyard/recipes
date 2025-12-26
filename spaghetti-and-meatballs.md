@@ -81,6 +81,8 @@ The sauce can be prepared through step 12 and then cooled and refrigerated in th
 
 16. Toss pasta with 1 cup sauce and reserved pasta cooking water so that sauce lightly coats pasta. Serve pasta, passing remaining sauce and meat platter separately.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.cooksillustrated.com/recipes/4885-hearty-italian-meat-sauce-sunday-gravy)

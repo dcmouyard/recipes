@@ -54,6 +54,8 @@ Best served with Basmati rice. You can substitute 2 teaspoons ground coriander, 
 
 8. Let chicken rest 5 minutes, then cut into 1-inch chunks and stir into warm sauce (do not simmer chicken in sauce). Stir in cilantro, adjust seasoning with salt, and serve.
 
-## Resources
+---
+
+## References
 
 * [Anerica’s Test Kitchen](https://www.americastestkitchen.com/recipes/3829-chicken-tikka-masala)

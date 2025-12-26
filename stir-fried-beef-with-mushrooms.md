@@ -3,6 +3,7 @@
 ★★★★★
 
 Serves: 2-3
+Time:
 
 ## Ingredients
 
@@ -34,6 +35,8 @@ Serves: 2-3
 
 5. Once the water evaporates, add 2 teaspoons of soy sauce. Stir and add in 1 tablespoon butter and 1 teaspoon minced garlic. Toss the butter with the mushrooms until fragrant, about 1 minute, then return the beef to the wok. Cook, stirring, until beef is cooked through, about 1 minute longer. Transfer to a serving platter immediately and serve.
 
-## Resources
+---
+
+## References
 
 * [Serious Eats](https://www.seriouseats.com/easy-stir-fried-beef-with-mushrooms-and-butter)

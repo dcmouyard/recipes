@@ -31,6 +31,8 @@ If you don’t have buttermilk, combine 1 tablespoon lemon juice with 2 cups mil
 
 4. Using thin, wide spatula, flip pancakes and cook until golden brown on second side, 1 to 1½ minutes longer. Serve immediately, and repeat with remaining batter, using remaining vegetable oil only if necessary.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/805-blueberry-pancakes)

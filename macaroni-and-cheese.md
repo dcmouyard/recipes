@@ -35,6 +35,8 @@ Time: 1 hour
 
 5. Add macaroni and cook over medium-low heat, stirring constantly, until steaming and heated through, about 6 minutes. Let rest for 5 minutes. Serve.
 
-## Resources
+---
+
+## References
 
 * [Cook’s Country](https://www.cookscountry.com/recipes/8028-classic-macaroni-and-cheese)

@@ -37,6 +37,8 @@ Best with cod, haddock, or halibut fillets.
 
 7. Bake until centers are just opaque and fish registers 135 degrees, 30 to 40 minutes, rotating pan halfway through baking.
 
-## Resources
+---
+
+## References
 
 * [Cook’s Country](https://www.cookscountry.com/recipes/7036-baked-fish)

@@ -38,7 +38,9 @@ Top blade-roast may also be labeled chuck roast first cut, top chuck roast, flat
 
 7. Return steaks and any accumulated juices to pan. Transfer to oven and braise, covered, until steaks are fork-tender, about 2 hours. Transfer steaks to platter, tent with foil, and let rest 5 minutes. Skim fat from sauce. Stir in sun-dried tomatoes and parsley. Season with salt and pepper. Pour sauce over steaks. Serve.
 
-## Resources
+---
+
+## References
 
 * [Cook’s Country](https://www.cookscountry.com/recipes/5004-swiss-steak-with-tomato-gravy)
 * [America’s Test Kitchen](https://www.americastestkitchen.com/episode/320-family-favorites)

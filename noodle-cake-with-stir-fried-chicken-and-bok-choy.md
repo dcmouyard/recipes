@@ -41,6 +41,8 @@ Time: 120 minutes
 
 10. Cut noodle cake into 8 wedges. Place 2 wedges on each of 4 plates; spoon portion of stir-fry and sauce over noodle cake, sprinkle with scallion greens, and serve immediately.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/33-spicy-stir-fried-chicken-and-bok-choy-with-crispy-noodle-cake)

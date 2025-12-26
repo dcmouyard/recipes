@@ -22,6 +22,8 @@ Time: 40 minutes
 
 4. Off heat, remove lid and let stand for 5-10 minutes. For sticky rice, place kitchen towel over saucepan. Fluff with fork. Serve.
 
-## Resources
+---
+
+## References
 
 * [Cook’s Country](http://www.cookscountry.com/recipes/6115-white-rice)

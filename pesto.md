@@ -47,6 +47,8 @@ Dietary Fiber         | 0g
 Sugar                 | 0g
 Protein               | 3g
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/1567-basil-pesto)

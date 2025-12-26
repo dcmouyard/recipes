@@ -45,7 +45,9 @@ This recipe calls for lo mein noodles, but use yakisoba noodles if you can find 
 
 8. Return skillet to high heat; add reserved sauce, remaining ½ cup broth, and noodles. Cook, scraping up any browned bits, until noodles are warmed through, about 1 minute. Transfer noodles to bowl with vegetables and beef and toss to combine. Season with salt to taste, and serve immediately.
 
-## Resources
+---
+
+## References
 
 * [Cook’s Illustrated](http://www.cooksillustrated.com/recipes/8201-japanese-style-stir-fried-noodles-with-beef)
 * [America’s Test Kitchen](https://www.americastestkitchen.com/videos/3208-serving-up-noodles-and-rice)

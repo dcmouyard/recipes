@@ -41,6 +41,8 @@ Time: 4 hours
 
 7. Season with salt and pepper. Serve over hot cooked rice with hot pepper sauce, if desired.
 
-## Resources
+---
+
+## References
 
 * [Cook’s Country](https://www.cookscountry.com/recipes/2862-red-beans-and-rice)

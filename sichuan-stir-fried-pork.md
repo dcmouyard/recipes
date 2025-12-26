@@ -68,6 +68,8 @@ Time: 2 hours
 
 8. Return vegetables to skillet and toss to combine. Transfer to serving platter, sprinkle with scallion greens and reserved garlic-scallion oil, and serve.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/6978-sichuan-stir-fried-pork-in-garlic-sauce)

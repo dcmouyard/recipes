@@ -27,6 +27,8 @@ Time: 90 minutes
 
 5. Slide skillet under broiler and broil until frittata has risen and surface is puffed and spotty brown, 3 to 4 minutes; when cut into with paring knife, eggs should be slightly wet and runny. Remove skillet from oven and let stand 5 minutes to finish cooking; using spatula, loosen frittata from skillet and slide onto platter or cutting board. Cut into wedges and serve.
 
-## Resources
+---
+
+## References
 
 * [Cook’s Illustrated](https://www.cooksillustrated.com/recipes/1982-bacon-potato-and-cheddar-frittata)

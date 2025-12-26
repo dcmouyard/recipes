@@ -9,14 +9,14 @@ The finished potatoes should have a smooth and slightly elastic texture. Use 24 
 
 ## Ingredients
 
-* 2 pounds Yukon Gold potatoes, (4 to 6 medium), peeled, cut into ½-inch-thick slices, rinsed well, and drained
-* Table salt
-* 6 tablespoons unsalted butter
-* 2 medium garlic cloves, minced or pressed through a garlic press (about 2 teaspoons)
-* 1-1½ cups whole milk, warmed
-* 4 ounces mozzarella cheese, shredded (about 1 cup) (see note)
-* 4 ounces Gruyère cheese, shredded (about 1 cup) (see note)
-* Ground black pepper
+- 2 pounds Yukon Gold potatoes, (4 to 6 medium), peeled, cut into ½-inch-thick slices, rinsed well, and drained
+- Table salt
+- 6 tablespoons unsalted butter
+- 2 medium garlic cloves, minced or pressed through a garlic press (about 2 teaspoons)
+- 1-1½ cups whole milk, warmed
+- 4 ounces mozzarella cheese, shredded (about 1 cup) (see note)
+- 4 ounces Gruyère cheese, shredded (about 1 cup) (see note)
+- Ground black pepper
 
 ## Instructions
 
@@ -26,6 +26,8 @@ The finished potatoes should have a smooth and slightly elastic texture. Use 24 
 
 3. Return potato mixture to saucepan and set over medium heat. Stir in cheeses, 1 cup at a time, until incorporated. Continue to cook potatoes, stirring vigorously, until cheese is fully melted and mixture is smooth and elastic, 3 to 5 minutes. If mixture is difficult to stir and seems thick, stir in 2 tablespoons milk at a time (up to ½ cup) until potatoes are loose and creamy. Season with salt and pepper. Serve immediately.
 
-## Resources
+---
 
-* [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/4663-french-mashed-potatoes-with-cheese-and-garlic-aligot)
+## References
+
+- [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/4663-french-mashed-potatoes-with-cheese-and-garlic-aligot)

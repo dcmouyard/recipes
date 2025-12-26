@@ -58,6 +58,8 @@ Time: 2½ hours
 
 13. Place skillet on rimmed baking sheet and broil until potatoes are golden brown and crusty and filling is bubbly, 10 to 15 minutes. Let cool for 10 minutes before serving.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/7211-shepherds-pie)

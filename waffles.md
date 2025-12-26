@@ -34,6 +34,8 @@ While the waffles can be eaten as soon as they are removed from the waffle iron,
 
 6. Transfer waffles to rack in warm oven and hold for up to 10 minutes before serving with butter and maple syrup.
 
-## Resources
+---
+
+## References
 
 * [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/5956-best-buttermilk-waffles)
