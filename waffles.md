@@ -1,3 +1,22 @@
+---
+created: 2026-01-10T17:35:16-05:00
+modified: 2026-01-11T15:57:59-05:00
+type: Recipe
+status: Stable
+isPartOf:
+  - "[[notes/Collections/Recipes|Recipes]]"
+totalTime: PT45M
+cookingMethod:
+recipeCategory:
+  - "[[Entrées]]"
+recipeCuisine:
+  - "[[Belgian Cuisine|Belgian]]"
+  - "[[American Cuisine|American]]"
+recipeIngredient:
+  - "[[notes/Defined Term Sets/Recipe Ingredients/Flour|Flour]]"
+starRating: ★★★★★
+---
+
 # Waffles
 
 ★★★★★
@@ -9,16 +28,16 @@ While the waffles can be eaten as soon as they are removed from the waffle iron,
 
 ## Ingredients
 
-* 4 cups (20 ounces) unbleached all-purpose flour
-* 2 tablespoon sugar
-* 1½ teaspoon table salt
-* 1 cup dried buttermilk powder
-* 1 teaspoon baking soda
-* 1 cup sour cream
-* 4 large eggs
-* ½ teaspoon vanilla extract
-* ½ cup vegetable oil
-* 2½ cups unflavored seltzer water
+- 4 cups (20 ounces) unbleached all-purpose flour
+- 2 tablespoon sugar
+- 1½ teaspoon table salt
+- 1 cup dried buttermilk powder
+- 1 teaspoon baking soda
+- 1 cup sour cream
+- 4 large eggs
+- ½ teaspoon vanilla extract
+- ½ cup vegetable oil
+- 2½ cups unflavored seltzer water
 
 ## Instructions
 
@@ -34,6 +53,8 @@ While the waffles can be eaten as soon as they are removed from the waffle iron,
 
 6. Transfer waffles to rack in warm oven and hold for up to 10 minutes before serving with butter and maple syrup.
 
-## Resources
+---
 
-* [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/5956-best-buttermilk-waffles)
+## References
+
+- [America’s Test Kitchen](https://www.americastestkitchen.com/recipes/5956-best-buttermilk-waffles)
