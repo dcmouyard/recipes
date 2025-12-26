@@ -8,16 +8,16 @@ Needs more turkey flavor.
 
 ## Ingredients
 
-* Turkey giblets, neck, and backbone, hacked into 2-inch pieces
-* 1 medium carrot, cut into 1-inch pieces
-* 1 rib celery, cut into 1-inch pieces
-* 2 small onions, chopped coarse
-* 6 cloves garlic, unpeeled
-* 3½ cups chicken stock
-* 2 cups dry white wine
-* 6 sprigs fresh thyme
-* ¼ cup unbleached all-purpose flour
-* Salt and ground black pepper
+- Turkey giblets, neck, and backbone, hacked into 2-inch pieces
+- 1 medium carrot, cut into 1-inch pieces
+- 1 rib celery, cut into 1-inch pieces
+- 2 small onions, chopped coarse
+- 6 cloves garlic, unpeeled
+- 3½ cups chicken stock
+- 2 cups dry white wine
+- 6 sprigs fresh thyme
+- ¼ cup unbleached all-purpose flour
+- Salt and ground black pepper
 
 ## Instructions
 
@@ -41,6 +41,8 @@ Needs more turkey flavor.
 
 10. Season to taste with salt and pepper and serve with turkey. (Can be refrigerated up to 3 days; reheat in medium saucepan over medium heat until hot, about 8 minutes.)
 
-## Resources
+---
 
-* [America’s test Kitchen](https://www.americastestkitchen.com/recipes/498-turkey-gravy)
+## References
+
+- [America’s test Kitchen](https://www.americastestkitchen.com/recipes/498-turkey-gravy)

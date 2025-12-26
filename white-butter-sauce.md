@@ -9,12 +9,12 @@ Serve this simple sauce with fish or vegetables.
 
 ## Ingredients
 
-* 3 tablespoons dry white wine
-* 2 tablespoons white wine vinegar
-* 1 tablespoon minced shallots
-* pinch salt
-* 1 tablespoon heavy cream
-* 8 tablespoons unsalted butter, cold, cut into 4 pieces
+- 3 tablespoons dry white wine
+- 2 tablespoons white wine vinegar
+- 1 tablespoon minced shallots
+- pinch salt
+- 1 tablespoon heavy cream
+- 8 tablespoons unsalted butter, cold, cut into 4 pieces
 
 ## Instructions
 
