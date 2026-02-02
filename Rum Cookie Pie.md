@@ -1,12 +1,13 @@
 ---
 created: 2025-12-26T16:24:00-05:00
-modified: 2025-12-29T01:44:09-05:00
-cssclasses:
-  - c-page
+modified: 2026-01-30T17:24:13-05:00
 type: Recipe
 status: Stable
 isPartOf:
   - "[[notes/Collections/Recipes|Recipes]]"
+prepTime: PT5M
+performTime: PT25M
+cookTime: PT20M
 totalTime:
 cookingMethod:
   - "[[Baking]]"
@@ -24,8 +25,6 @@ starRating: ★★★★★
 
 ★★★★★
 
-Makes: 1 pie
-
 ## Ingredients
 
 - 1¾ cups unbleached all-purpose flour (8¾ ounces)
@@ -36,7 +35,7 @@ Makes: 1 pie
 - 1 tablespoon dark rum
 - 1 large egg
 - 1 large egg yolk
-- 1¼ cups semisweet chocolate chips or chunks
+- 1¼ cups semisweet chocolate chips or chunks (optional)
 
 ## Instructions
 

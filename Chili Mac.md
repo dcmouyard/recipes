@@ -1,8 +1,6 @@
 ---
 created: 2025-12-29T11:47:45-05:00
 modified: 2025-12-29T11:49:06-05:00
-cssclasses:
-  - c-page
 type: Recipe
 status: Stable
 isPartOf:
