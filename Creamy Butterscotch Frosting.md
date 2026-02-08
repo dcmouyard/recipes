@@ -5,23 +5,18 @@ type: Recipe
 status: Stable
 isPartOf:
   - "[[notes/Collections/Recipes|Recipes]]"
-totalTime:
 cookingMethod:
   - "[[Creaming]]"
 recipeCategory:
   - "[[Frosting]]"
   - "[[Desserts]]"
-recipeCuisine:
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Butter|Butter]]"
-starRating:
 ---
 
 # Creamy Butterscotch Frosting
 
 Makes: 4 cups
-Time:
-
 This frosting can be made up to 24 hours in advance and refrigerated in an airtight container. When ready to frost, place frosting in a microwave-safe container and warm briefly on high power until just slightly softened, 5 to 10 seconds. Once warmed, stir until creamy.
 
 ## Ingredients

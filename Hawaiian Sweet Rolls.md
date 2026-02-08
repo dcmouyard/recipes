@@ -12,7 +12,6 @@ cookTime: PT25M
 totalTime: PT4H30M
 cookingMethod:
   - "[[Baking]]"
-nutrition:
 recipeCategory: "[[Breads]]"
 recipeCuisine:
   - "[[Hawaiian Cuisine|Hawaiian]]"

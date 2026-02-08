@@ -5,12 +5,10 @@ type: Recipe
 status: Stable
 isPartOf:
   - "[[notes/Collections/Recipes|Recipes]]"
-totalTime:
 cookingMethod:
   - "[[Baking]]"
 recipeCategory:
   - "[[Desserts]]"
-recipeCuisine:
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Pumpkin|Pumpkin]]"
 recipeYield: 1 Pie

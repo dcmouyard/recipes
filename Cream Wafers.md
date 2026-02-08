@@ -5,23 +5,18 @@ type: Recipe
 status: Stable
 isPartOf:
   - "[[notes/Collections/Recipes|Recipes]]"
-totalTime:
 cookingMethod:
   - "[[Baking]]"
 recipeCategory:
   - "[[Cookies]]"
   - "[[Desserts]]"
-recipeCuisine:
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Flour|Flour]]"
-starRating:
 ---
 
 # Cream Wafers
 
 Makes: 30 cookies
-Time:
-
 Recipe from [[Colleen Claire Mouyard|Aunt Colleen]]. Any buttercream frosting recipe will do. This one is very rich so you might want to add Cool Whip to tone it down. Ready to serve frosting can also be used.
 
 ## Ingredients

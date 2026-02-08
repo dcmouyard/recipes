@@ -5,17 +5,14 @@ type: Recipe
 status: Stable
 isPartOf:
   - "[[notes/Collections/Recipes|Recipes]]"
-totalTime:
 cookingMethod:
   - "[[Mixing]]"
 recipeCategory:
   - "[[Cocktails]]"
   - "[[Drinks]]"
-recipeCuisine:
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Spearmint|Spearmint]]"
 recipeYield: 8 ounces
-starRating:
 ---
 
 # Mojito

@@ -5,12 +5,10 @@ type: Recipe
 status: Stable
 isPartOf:
   - "[[notes/Collections/Recipes|Recipes]]"
-totalTime:
 cookingMethod:
   - "[[Simmering]]"
 recipeCategory:
   - "[[Desserts]]"
-recipeCuisine:
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Banana|Banana]]"
 starRating: ★★★★★

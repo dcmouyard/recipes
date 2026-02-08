@@ -5,7 +5,6 @@ type: Recipe
 status: Stable
 isPartOf:
   - "[[notes/Collections/Recipes|Recipes]]"
-totalTime:
 cookingMethod:
   - "[[Creaming]]"
 recipeCategory:
@@ -15,13 +14,9 @@ recipeCuisine:
   - "[[German Cuisine|German]]"
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Butter|Butter]]"
-starRating:
 ---
 
 # German Buttercream Frosting
-
-Makes:
-Time:
 
 ## Ingredients
 

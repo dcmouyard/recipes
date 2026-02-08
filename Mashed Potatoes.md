@@ -8,13 +8,9 @@ isPartOf:
   - "[[notes/Collections/Recipes|Recipes]]"
 keywords:
   - "[[Thanksgiving]]"
-prepTime:
-performTime:
-cookTime:
 totalTime: PT2H
 cookingMethod:
   - "[[Boiling]]"
-nutrition:
 recipeCategory:
   - "[[Side Dishes]]"
 recipeCuisine:

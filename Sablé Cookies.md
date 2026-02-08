@@ -1,11 +1,13 @@
 ---
 created: 2025-12-26T16:25:00-05:00
-modified: 2025-12-29T15:37:32-05:00
+modified: 2026-02-07T19:17:39-05:00
 type: Recipe
 status: Stable
 isPartOf:
   - "[[notes/Collections/Recipes|Recipes]]"
-totalTime:
+prepTime: PT1H25M
+cookTime: PT15M
+totalTime: PT1H40M
 cookingMethod:
   - "[[Baking]]"
 recipeCategory:
@@ -22,8 +24,6 @@ starRating: ★★★★★
 # Sablé Cookies
 
 ★★★★★
-
-Makes: 40
 
 ## Ingredients
 
@@ -44,17 +44,21 @@ Makes: 40
 
 3. Crack egg and peel shell. Separate yolk from white; discard white. Press yolk through fine-mesh strainer into small bowl.
 
-4. In bowl of stand mixer fitted with paddle attachment, beat butter, granulated sugar, salt, and cooked egg yolk on medium speed until light and fluffy, about 4 minutes, scraping down sides of bowl and beater with rubber spatula as needed. Turn mixer to low, add vanilla, and mix until incorporated. Stop mixer; add flour and mix on low speed until just combined, about 30 seconds. Using rubber spatula, press dough into cohesive mass.
+4. In bowl of stand mixer fitted with paddle attachment, beat 10 tablespoons butter, 16 teaspoons granulated sugar, ¼ teaspoon salt, and cooked egg yolk on medium speed until light and fluffy, about 4 minutes, scraping down sides of bowl and beater with rubber spatula as needed.
 
-5. Divide dough in half; roll each piece into log about 6 inches long and 1¾ inches in diameter. Wrap each log in 12-inch square of parchment paper and twist ends to seal and firmly compact dough into tight cylinder. Chill until firm, about 1 hour. (It can also be double-wrapped in plastic and frozen for up to 2 weeks.)
+5. Turn mixer to low, add 1 teaspoon vanilla, and mix until incorporated.
 
-6. Adjust oven racks to upper-middle and lower-middle positions and heat oven to 350 degrees. Line 2 rimmed baking sheets with parchment paper. Using chef’s knife, slice dough into ¼-inch-thick rounds, rotating dough so that it won’t become misshapen from weight of knife.
+6. Stop mixer; add 1½ cups flour and mix on low speed until just combined, about 30 seconds. Using rubber spatula, press dough into cohesive mass.
 
-7. Place cookies 1 inch apart on baking sheets. Using pastry brush, gently brush cookies with egg white mixture and sprinkle evenly with turbinado sugar.
+7. Divide dough in half; roll each piece into log about 6 inches long and 1¾ inches in diameter. Wrap each log in 12-inch square of parchment paper and twist ends to seal and firmly compact dough into tight cylinder. Chill until firm, about 1 hour. (It can also be double-wrapped in plastic and frozen for up to 2 weeks.)
 
-8. Bake until centers of cookies are pale golden brown with edges slightly darker than centers, about 15 minutes, rotating baking sheets front to back and top to bottom halfway through baking.
+8. Adjust oven racks to upper-middle and lower-middle positions and heat oven to 350 degrees. Line 2 rimmed baking sheets with parchment paper. Using chef’s knife, slice dough into ¼-inch-thick rounds, rotating dough so that it won’t become misshapen from weight of knife.
 
-9. Cool cookies on baking sheet 5 minutes; using thin metal spatula, transfer cookies to wire rack and cool to room temperature. Store cooled cookies between sheets of parchment paper in airtight container for up to 1 week.
+9. Place cookies 1 inch apart on baking sheets. Using pastry brush, gently brush cookies with egg white mixture and sprinkle evenly with turbinado sugar.
+
+10. Bake until centers of cookies are pale golden brown with edges slightly darker than centers, weabout 15 minutes, rotating baking sheets front to back and top to bottom halfway through baking.
+
+11. Cool cookies on baking sheet 5 minutes; using thin metal spatula, transfer cookies to wire rack and cool to room temperature. Store cooled cookies between sheets of parchment paper in airtight container for up to 1 week.
 
 ---
 

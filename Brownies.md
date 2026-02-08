@@ -10,7 +10,6 @@ cookingMethod:
   - "[[Baking]]"
 recipeCategory:
   - "[[Desserts]]"
-recipeCuisine:
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Chocolate|Chocolate]]"
 starRating: ★★★★★

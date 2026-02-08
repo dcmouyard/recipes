@@ -10,7 +10,6 @@ cookingMethod:
   - "[[Simmering]]"
 recipeCategory:
   - "[[Soups]]"
-recipeCuisine:
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Bean|Bean]]"
   - "[[notes/Defined Term Sets/Recipe Ingredients/Navy Bean|Navy Bean]]"

@@ -10,7 +10,6 @@ cookingMethod:
   - "[[Baking]]"
 recipeCategory:
   - "[[Entrées]]"
-recipeCuisine:
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Fish|Fish]]"
 starRating: ★★★★

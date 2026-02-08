@@ -7,16 +7,13 @@ isPartOf:
   - "[[notes/Collections/Recipes|Recipes]]"
 alternateName:
   - Barbados Rum Punch
-keywords:
 recipeCategory:
   - "[[Cocktails]]"
 recipeCuisine:
   - "[[Caribbean Cuisine|Caribbean]]"
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Dark Rum|Dark Rum]]"
-recipeInstructions:
 recipeYield: 10 Cups
-starRating:
 ---
 
 # Bajan Rum Punch

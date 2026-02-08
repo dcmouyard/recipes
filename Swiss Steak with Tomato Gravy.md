@@ -10,7 +10,6 @@ cookingMethod:
   - "[[Braising]]"
 recipeCategory:
   - "[[Entrées]]"
-recipeCuisine:
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Beef|Beef]]"
 starRating: ★★

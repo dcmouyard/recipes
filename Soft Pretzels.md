@@ -5,7 +5,6 @@ type: Recipe
 status: Stable
 isPartOf:
   - "[[notes/Collections/Recipes|Recipes]]"
-totalTime:
 cookingMethod:
   - "[[Boiling]]"
 recipeCategory:
@@ -15,7 +14,6 @@ recipeCuisine:
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Flour|Flour]]"
 recipeYield: 12 Pretzels
-starRating:
 ---
 
 # Soft Pretzels

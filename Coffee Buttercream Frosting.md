@@ -5,23 +5,18 @@ type: Recipe
 status: Stable
 isPartOf:
   - "[[notes/Collections/Recipes|Recipes]]"
-totalTime:
 cookingMethod:
   - "[[Creaming]]"
 recipeCategory:
   - "[[Frosting]]"
   - "[[Desserts]]"
-recipeCuisine:
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Butter|Butter]]"
-starRating:
 ---
 
 # Coffee Buttercream Frosting
 
 Makes: 4 cups
-Time:
-
 This buttercream can be refrigerated for up to 2 days; let stand at room temperature for 30 minutes before using.
 
 ## Ingredients

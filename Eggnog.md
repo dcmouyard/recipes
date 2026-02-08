@@ -10,11 +10,9 @@ keywords:
   - "[[Christmas]]"
 prepTime: PT5M
 performTime: PT25M
-cookTime:
 totalTime: PT30M
 cookingMethod:
   - "[[Whisking]]"
-nutrition:
 recipeCategory:
   - "[[Drinks]]"
 recipeCuisine:

@@ -5,7 +5,6 @@ type: Recipe
 status: Stable
 isPartOf:
   - "[[notes/Collections/Recipes|Recipes]]"
-totalTime:
 cookingMethod:
   - "[[Roasting]]"
 recipeCategory:
@@ -14,7 +13,6 @@ recipeCuisine:
   - "[[American Southern Cuisine|American Southern]]"
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Pork|Pork]]"
-starRating:
 ---
 
 # Pulled Pork

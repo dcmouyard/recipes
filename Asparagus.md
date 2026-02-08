@@ -5,19 +5,12 @@ type: Recipe
 status: Stable
 isPartOf:
   - "[[notes/Collections/Recipes|Recipes]]"
-totalTime:
 cookingMethod:
   - "[[Broiling]]"
 recipeCategory:
   - "[[Side Dishes]]"
-recipeCuisine:
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Asparagus|Asparagus]]"
-starRating:
-step:
-suitableForDiet:
-supply:
-tool:
 ---
 
 # Asparagus

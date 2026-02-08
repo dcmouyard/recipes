@@ -5,12 +5,10 @@ type: Recipe
 status: Stable
 isPartOf:
   - "[[notes/Collections/Recipes|Recipes]]"
-totalTime:
 cookingMethod:
   - "[[Simmering]]"
 recipeCategory:
   - "[[Side Dishes]]"
-recipeCuisine:
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Sweet Potato|Sweet Potato]]"
 starRating: ★★★★

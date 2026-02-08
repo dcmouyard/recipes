@@ -13,8 +13,6 @@ recipeCuisine:
   - "[[Mexican Cuisine|Mexican]]"
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Pepper|Pepper]]"
-recipeYield:
-starRating:
 ---
 
 # Creamy Poblano Sauce

@@ -5,7 +5,6 @@ type: Recipe
 status: Stable
 isPartOf:
   - "[[notes/Collections/Recipes|Recipes]]"
-totalTime:
 cookingMethod:
   - "[[Stir Frying]]"
 recipeCategory:
@@ -20,9 +19,6 @@ starRating: ★★★★
 # Din Tai Fung Fried Rice
 
 ★★★★☆
-
-Serves:
-Time:
 
 Goes well with shrimp.
 

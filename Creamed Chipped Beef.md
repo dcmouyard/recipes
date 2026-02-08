@@ -5,7 +5,6 @@ type: Recipe
 status: Stable
 isPartOf:
   - "[[notes/Collections/Recipes|Recipes]]"
-totalTime:
 cookingMethod:
   - "[[Simmering]]"
 recipeCategory:
@@ -15,7 +14,6 @@ recipeCuisine:
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Beef|Beef]]"
   - "[[notes/Defined Term Sets/Recipe Ingredients/Corned Beef|Corned Beef]]"
-starRating:
 ---
 
 # Creamed Chipped Beef

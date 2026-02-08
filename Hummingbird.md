@@ -5,17 +5,14 @@ type: Recipe
 status: Stable
 isPartOf:
   - "[[notes/Collections/Recipes|Recipes]]"
-totalTime:
 cookingMethod:
   - "[[Blending]]"
 recipeCategory:
   - "[[Cocktails]]"
   - "[[Drinks]]"
-recipeCuisine:
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Dark Rum|Dark Rum]]"
   - "[[notes/Defined Term Sets/Recipe Ingredients/Coffee Liqueur|Coffee Liqueur]]"
-starRating:
 ---
 
 # Hummingbird

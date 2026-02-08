@@ -5,7 +5,6 @@ type: Recipe
 status: Stable
 isPartOf:
   - "[[notes/Collections/Recipes|Recipes]]"
-keywords:
 recipeCategory:
   - "[[Drinks]]"
 recipeCuisine:
@@ -13,9 +12,7 @@ recipeCuisine:
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Sugar|Sugar]]"
   - "[[notes/Defined Term Sets/Recipe Ingredients/Lime|Lime]]"
-recipeInstructions:
 recipeYield: 7 Cups
-starRating:
 ---
 
 # Bajan Lime Squash

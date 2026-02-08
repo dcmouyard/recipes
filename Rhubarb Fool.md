@@ -10,7 +10,6 @@ cookingMethod:
   - "[[Simmering]]"
 recipeCategory:
   - "[[Desserts]]"
-recipeCuisine:
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Rhubarb|Rhubarb]]"
 starRating: ★★★★

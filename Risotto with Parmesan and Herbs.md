@@ -5,7 +5,6 @@ type: Recipe
 status: Stable
 isPartOf:
   - "[[notes/Collections/Recipes|Recipes]]"
-totalTime:
 cookingMethod:
   - "[[Simmering]]"
 recipeCategory:
@@ -14,7 +13,6 @@ recipeCuisine:
   - "[[Italian Cuisine|Italian]]"
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Rice|Rice]]"
-starRating:
 ---
 
 # Risotto with Parmesan and Herbs

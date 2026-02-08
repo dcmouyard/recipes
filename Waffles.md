@@ -6,7 +6,6 @@ status: Stable
 isPartOf:
   - "[[notes/Collections/Recipes|Recipes]]"
 totalTime: PT45M
-cookingMethod:
 recipeCategory:
   - "[[Entrées]]"
 recipeCuisine:

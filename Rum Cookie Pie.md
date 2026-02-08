@@ -8,13 +8,11 @@ isPartOf:
 prepTime: PT5M
 performTime: PT25M
 cookTime: PT20M
-totalTime:
 cookingMethod:
   - "[[Baking]]"
 recipeCategory:
   - "[[Cookies]]"
   - "[[Desserts]]"
-recipeCuisine:
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Flour|Flour]]"
 recipeYield: 1 Pie

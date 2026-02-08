@@ -10,7 +10,6 @@ cookingMethod:
   - "[[Boiling]]"
 recipeCategory:
   - "[[Side Dishes]]"
-recipeCuisine:
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Rice|Rice]]"
 starRating: ★★★★★

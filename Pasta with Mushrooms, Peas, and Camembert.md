@@ -10,7 +10,6 @@ cookingMethod:
   - "[[Pan Frying]]"
 recipeCategory:
   - "[[Entrées]]"
-recipeCuisine:
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Pasta|Pasta]]"
 starRating: ★★★★

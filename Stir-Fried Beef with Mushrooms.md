@@ -5,7 +5,6 @@ type: Recipe
 status: Stable
 isPartOf:
   - "[[notes/Collections/Recipes|Recipes]]"
-totalTime:
 cookingMethod:
   - "[[Stir Frying]]"
 recipeCategory:
@@ -22,7 +21,6 @@ starRating: ★★★★★
 ★★★★★
 
 Serves: 2-3
-Time:
 
 ## Ingredients
 

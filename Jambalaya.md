@@ -5,7 +5,6 @@ type: Recipe
 status: Stable
 isPartOf:
   - "[[notes/Collections/Recipes|Recipes]]"
-totalTime:
 cookingMethod:
   - "[[Braising]]"
 recipeCategory:
@@ -14,7 +13,6 @@ recipeCuisine:
   - "[[Creole Cuisine|Creole]]"
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Chicken|Chicken]]"
-starRating:
 ---
 
 # Jamabalaya

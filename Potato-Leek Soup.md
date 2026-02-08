@@ -10,7 +10,6 @@ cookingMethod:
   - "[[Simmering]]"
 recipeCategory:
   - "[[Soups]]"
-recipeCuisine:
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Potato|Potato]]"
   - "[[notes/Defined Term Sets/Recipe Ingredients/Leek|Leek]]"

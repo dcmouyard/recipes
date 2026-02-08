@@ -14,7 +14,6 @@ recipeCuisine:
   - "[[Creole Cuisine|Creole]]"
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Rice|Rice]]"
-starRating:
 ---
 
 # Red Beans and Rice

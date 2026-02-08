@@ -11,7 +11,6 @@ cookingMethod:
 recipeCategory:
   - "[[Cookies]]"
   - "[[Desserts]]"
-recipeCuisine:
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Flour|Flour]]"
 starRating: ★★★★★

@@ -5,15 +5,12 @@ type: Recipe
 status: Stable
 isPartOf:
   - "[[notes/Collections/Recipes|Recipes]]"
-totalTime:
 cookingMethod:
   - "[[Pan Frying]]"
 recipeCategory:
   - "[[Entrées]]"
-recipeCuisine:
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Beef|Beef]]"
-starRating:
 ---
 
 # Pan-Seared Steak

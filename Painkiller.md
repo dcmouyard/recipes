@@ -5,18 +5,15 @@ type: Recipe
 status: Stable
 isPartOf:
   - "[[notes/Collections/Recipes|Recipes]]"
-totalTime:
 cookingMethod:
   - "[[Mixing]]"
 recipeCategory:
   - "[[Cocktails]]"
   - "[[Drinks]]"
-recipeCuisine:
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Dark Rum|Dark Rum]]"
   - "[[notes/Defined Term Sets/Recipe Ingredients/Pineapple Juice|Pineapple Juice]]"
 recipeYield: 8-10 ounces
-starRating:
 ---
 
 # Painkiller

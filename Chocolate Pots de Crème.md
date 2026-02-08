@@ -5,7 +5,6 @@ type: Recipe
 status: Stable
 isPartOf:
   - "[[notes/Collections/Recipes|Recipes]]"
-totalTime:
 cookingMethod:
   - "[[Simmering]]"
 recipeCategory:
@@ -14,7 +13,6 @@ recipeCuisine:
   - "[[French Cuisine|French]]"
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Chocolate|Chocolate]]"
-starRating:
 ---
 
 # Chocolate Pots de Crème

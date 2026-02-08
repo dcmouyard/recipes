@@ -10,7 +10,6 @@ cookingMethod:
   - "[[Baking]]"
 recipeCategory:
   - "[[Breads]]"
-recipeCuisine:
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Flour|Flour]]"
 starRating: ★★★★★

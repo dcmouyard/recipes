@@ -5,16 +5,13 @@ type: Recipe
 status: Stable
 isPartOf:
   - "[[notes/Collections/Recipes|Recipes]]"
-totalTime:
 cookingMethod:
   - "[[Roasting]]"
 recipeCategory:
   - "[[Entrées]]"
-recipeCuisine:
 recipeIngredient:
   - "[[notes/Defined Term Sets/Recipe Ingredients/Fish|Fish]]"
   - "[[notes/Defined Term Sets/Recipe Ingredients/Salmon|Salmon]]"
-starRating:
 ---
 
 # Asian Barbecue Salmon
